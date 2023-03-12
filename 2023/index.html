@@ -1,0 +1,1319 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <!-- Standard Meta -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js" integrity="sha256-T0Vest3yCU7pafRw9r+settMBX6JkKN06dqBnpQ8d30=" crossorigin="anonymous"></script>
+
+    <script src="static/semanticui/semantic.js"></script>
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Scope+One|Roboto+Condensed:300,400,700|Inconsolata" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fira+Mono:300,400|Fira+Sans+Condensed|Fira+Sans:300,400,500,600,700,800" rel="stylesheet">
+
+    <!-- Site Properties -->
+    <title>Scholarly QALD Challenge 2023 | Scholarly Question Answering over Linked Data including ORKG and DBLP</title>
+    <link rel="stylesheet" type="text/css" href="static/semanticui/semantic.min.css">
+    <style type="text/css">
+      /*System Wide */
+
+      .alert-box {
+        color:#555;
+        border-radius:10px;
+        font-family:Tahoma,Geneva,Arial,sans-serif;
+        padding:10px 10px 10px 36px;
+        margin:10px;
+      }
+
+      .notice {
+        background:#e3f7fc url('images/notice.png') no-repeat 10px 50%;
+        border:1px solid #8ed9f6;
+      }
+
+      body {
+        font-family: 'Fira Sans'
+      }
+
+      #header #header-menu #left-menu a {
+        font-size: 1.5em;
+      }
+
+      #header #header-menu #left-menu a #titleicon {
+        color: #424242;
+      }
+
+      #header #header-menu #left-menu a #title {
+        font-family: 'Fira Sans';
+        font-weight: 800;
+        color: #424242;
+        /*        font-family: 'Lato';*/
+      }
+
+      #body {
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+      }
+
+      /* For the titles */
+
+      #body #names #maintitle {
+        color: #386FA4;
+        font-size: 6rem;
+        font-weight: 800;
+        line-height: 1.3em;
+        letter-spacing: 0em;
+      }
+
+      #body #names #maintitle #funny {
+        font-size: 0.6em;
+      }
+
+      #body #names #subtitle {
+        font-family: 'Fira Sans Condensed', sans-serif;
+        color: #424242;
+        font-size: 2em;
+        line-height: 1em;
+        text-align: center;
+        text-rendering: optimizeLegibility;
+      }
+
+      /* For the modal */
+
+      .ui.modal .modalsparqls {
+        padding-top: 1em;
+        /*        padding-bottom: 1em;*/
+      }
+
+      .ui.modal .modalsparqls .item {
+        padding-bottom: 1em;
+        /*        border-bottom: 2px dashed #E0E0E0;*/
+      }
+
+      .ui.modal .modalsparqls .item .content .header {
+        color: #424242;
+        font-weight: 400;
+        font-family: "Fira Sans";
+      }
+
+      .ui.modal p {
+        color: #424242;
+        font-size: 1.2em;
+        text-align: left;
+        padding-left: 2em;
+        font-family: "Fira Mono", monospace;
+      }
+
+      .ui.modal .sparql.line {
+        display: block;
+      }
+
+      .ui.modal .sparql.sparql-triple {
+        margin-left: 3px;
+        border-left: 1px solid #BDBDBD;
+        padding-left: 2em;
+      }
+
+      .ui.modal .sparql.sparql-triple a {
+        color: #424242;
+        border-bottom: 1px dashed #424242;
+      }
+
+      .ui.modal .actions #downloadbutton {
+        background-color: #424242;
+
+      }
+
+      /*Side bar*/
+
+      #body #sidebar {
+        color: #424242;
+      }
+
+      #body #sidebar #download {
+        padding-left: 1em;
+        padding-right: 1em;
+        font-family: 'Fira Sans';
+      }
+
+      #body #sidebar #download a {
+        background-color: #424242;
+      }
+
+      #body #sidebar #downloadbutton {
+        font-family: "Fira Sans";
+      }
+
+      #body #sidebar #downloadbutton #subtext {
+        font-weight: 400;
+        color: #BDBDBD;
+      }
+
+      #body #sidebar #download #description  {
+        font-size: 1em;
+        text-rendering: optimizeLegibility;
+        font-family: "Fira Sans";
+      }
+
+      #body #sidebar #download #explorebutton {
+        box-shadow: 0 0 0 1px #424242 inset;
+        color: #424242!important;
+        border-color: red;
+        font-family: "Fira Sans";
+
+      }
+
+      #body #sidebar #resources {
+        text-rendering: optimizeLegibility;
+      }
+
+      #body #tabletitle {
+        text-align: center;
+      }
+
+      /* Main Content CSS */
+
+      #body .header {
+        font-family: "Fira Sans";
+        font-weight: 500;
+        color: #424242;
+      }
+
+      #body #content #abstract #description {
+        text-align: justify;
+        text-rendering: optimizeLegibility;
+        font-size: 1.2em;
+        line-height: 1.4em;
+        padding: 0.7em;
+        /*      font-weight: 300;*/
+      }
+
+      #body #content #example #exdescription {
+        text-align: justify;
+        text-rendering: optimizeLegibility;
+        font-size: 1.2em;
+        line-height: 1.4em;
+        padding: 0.7em;
+        /*      font-weight: 300;*/
+      }
+
+      /* Leaderboard */
+
+      #body #leaderboard table thead th {
+        color: #424242;
+        font-weight: 500;
+
+      }
+
+      #body #leaderboard table tbody #systemname {
+        font-size: 1.15rem;
+        color: #424242;
+      }
+
+      #body #leaderboard table tbody #affiliation {
+        font-weight: 300;
+        font-size: 0.8;
+        color: #424242;
+      }
+
+      #body #leaderboard table tbody #system #links .disabled {
+        /*      border-bottom: 1px dotted black;*/
+        /*      transition: all 0.5s ease;*/
+        color: #424242;
+        white-space: nowrap;
+      }
+
+      #body #leaderboard table tbody #system #links .disabled:hover {
+        text-decoration: line-through;
+      }
+
+      #body #leaderboard #sidenote {
+        text-align: right;
+        color: #757575;
+      }
+
+      /* Usage Guide */
+
+      #body #content #guide pre .json_field {
+        color: #1565c0;
+        font-weight: 400;
+        font-family: 'Inconsolata', monospace;
+      }
+
+      #body #content #guide pre .json_value {
+        font-family: 'Fira Sans';
+        text-rendering: optimizeLegibility;
+      }
+
+      #body #content #guide [data-tab="first"].segment {
+        font-size: 1em;
+        color: #424242
+      }
+
+      #body #content #guide [data-tab="second"].segment {
+        font-size: 1em;
+        color: #424242;
+      }
+
+      #body #content #guide [data-tab="second"].segment .intro {
+        font-size: 1.2em;
+      }
+
+      #body #content #guide [data-tab="second"].segment .json_field {
+        font-family: "Fira Mono";
+        margin-left: 1em;
+        text-rendering: optimizeLegibility;
+        margin-right: 0.5em;
+        font-weight: 400;
+      }
+
+      #body #content #guide [data-tab="second"].segment .json_value {
+        color: #424242;
+        font-weight: 400;
+      }
+
+      #body #content #guide [data-tab="fourth"].segment .accordion .accordion-title-version {
+        font-family: "Fira Sans", sans-serif;
+        font-size: 1.4rem;
+        font-weight: 600;
+        color: #424242;
+      }
+
+      #body #content #guide [data-tab="fourth"].segment .accordion .accordion-title-date {
+        font-size: 1.4rem;
+      }
+
+      #body #content #guide [data-tab="third"].segment .mono {
+        font-family: "Fira Mono", monospace;
+        text-rendering: optimizeLegibility;
+        line-height: 1.4em;
+        padding-left: 1em;
+        color: #424242;
+        }
+
+      #body #content #guide [data-tab="third"].segment .mono span#indent{
+       padding-left: 2em;
+        font-size: 0.9rem;
+      }
+
+      #footer {
+        background-color: #eeeeee;
+        font-family: "Fira Sans";
+        padding-top: 4em;
+      }
+
+      #footer #contact .horizontal.divider {
+        font-family: "Fira Sans";
+        color: #9E9E9E;
+      }
+
+      #footer #contact a {
+        /*        border-bottom: 1px dashed #424242;*/
+        font-family: "Fira Sans";
+
+        /*        color: #424242;*/
+      }
+
+      #footer #contact a:hover {
+        font-family: "Fira Sans";
+      }
+
+      #footer #contact #license {
+        /*        display: flex;*/
+        /*        flex-direction: row;*/
+        text-align: left;
+      }
+
+      #footer #contact #license div {
+        /*        padding-left: 1em;*/
+      }
+
+      #footer #organization .grid {
+        padding-top: 2em;
+      }
+
+      #footer #organization #asknow #asknowtext {
+        font-size: 1.5em;
+        font-family: "Fira Sans Condensed";
+        color: inherit;
+        border-bottom: 1px dashed #424242;
+      }
+
+      #footer #organization #asknow #asknowtext:hover {
+        font-weight: 700;
+      }
+
+      @media screen and (max-device-width: 801px) {
+        #body #people .cards .card .content .header {
+          font-size: 1em;
+        }
+
+        #body #people .cards .card .content .meta {
+          font-size: 0.8em;
+        }
+
+        #footer #organization #asknow #asknowtext {
+          font-size: 1.1em;
+        }
+
+        #footer .grid {
+          margin-bottom: -1em !important;
+        }
+      }
+
+      #footer #credits {
+        font-size: 0.9em;
+      }
+
+    </style>
+  </head>
+
+  <body>
+
+    <div id="header" class="ui top large menu">
+
+      <div id="header-menu" class="ui container">
+
+        <div id="left-menu">
+          <a class="item" href="https://iswc2023.semanticweb.org/">
+            <i class="angle left icon" id="titleicon"></i>
+            <!--            <img class="ui avatar mini image" src="resources/sdasmall.png">-->
+            <span class="underline" id="title">ISWC 2023</span>
+          </a>
+        </div>
+
+        <div class="right menu">
+          <a class="item" data-content="QALD 10" data-position="bottom center" href="https://www.nliwod.org/challenge">
+            <!--            <i class="big github icon"></i>-->
+            QALD 10 @ ESWC 2022
+          </a>
+          <a class="item" data-content="Download Paper (TBA)" data-position="bottom center" href="TBA">
+            <!--            <i class="big github icon"></i>-->
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPASURBVGhD7ZrLS1RhGMa1wIqIiK5EBNkNLCsqyGRIx+tYLSKUypW0TmxXBmWrijYtotokJCFCf4HRBapVEkmrpAh0ExZ0odAuJvV7pvfINB7nnHHmjE6cBx6+77187/s953zNnDNWECLE7EFhNBo9Dh/DNwHyBWxXv79ts4impqa5FL9VVVX1W2Q+xHgnCFK7j1E9jln77EAiKNyl4vAa/AK7LZx10K+I+qOw01yZI1EEV+gqLh2vz0EKEbLaw02E/HklZCoRQt4ISSVCyAshXiKEvBDC4nOpRIBC4l9hl9mBICMhtbW1KyjwgwLvGU8znkomfue7pM2WBYKMhFRWVtbbJlNxjCY9HMEiWxYIMhVywDbbEIlElrgxFovNs/RAkRUhNTU1EXPNGEIhgpcQ4hU0eErOM78kv091tZ75paT4mXhhFwQtZA/xXprc80vy78Ko1mO3J8Vb44VdQCw8Wp5CKL4d9pDj+h7hh84x80LQQurgK+j2VueL1D9h5VKC3PBohUKCQKBCiDXCMeVkQm2SHmutrCsCFcLT8TriF2hyKUOeraiomG9lJ4D/MPWdJ+1vsB+2EHJ7nZgaM3m0uEgLETKu/snEv9nS/MFLCPF6inp+/FJjgLHclvkCPRfbpm9UV1cXi9gn5WNeamn+4CWEJn6/ELvJS+sqOkLgRXOpX7N8WRcSJEIhbgiFZAGhEDfkWgi9SuAD2OAlhC/Q3dgP4T4LT41cCqFPCZt6p36M+i3tqOZwkhDYAj9pjm/EU0yuhNDDEfGRq32QcQA6z3BuQn4yH4b7mQ8yphaTCyEckVVsIi6CcZd89FuNLTGuQhiHGUvks+c9R8yWeGIyciGEO1BsmxjSpsztiOllD/Xm0p3bBh/BuAiB9Uux+1n/i/lec/+LZCEk1jhPqfqVnsV1GmXLr7jmQnl5+SLiE7eb+DJYZqbsNXCH5sqDI/QaTBTjBYlg3XMoEUfMPRmJQkjcpDlsVIzFTOO3uUq2/LLJ3Wh2G7FxCTD7MhzVXGDeCV+bKfs+VH1fYnyLEJKElGrOwubEmEbZ8stWntn69V5r4y9MzK/L1lxgrgfJITOV/wR+gJ53Ji0RQqKQsrKyBSy8DdcrFolElmszzhVn3KC48mQT24l9s6OjY47ZmNErmgvYh7DPmykh+nt9K0x5zNIWIZAYo6CucsxcOcFUYqYlQqDQSqi/Rr2Fbu8ZQfIlnPg3M20RDlioMxH0f9FIxe8SA52P2PRFzAaw+fgxy2sRDvgg2YqQtN75/wMUFPwB+iXsN03aY/IAAAAASUVORK5CYII=">
+          </a>
+          <a class="item" data-content="Download Data (GitHub)" data-position="bottom center"
+             href="https://github.com/KGQA/scholarly-QALD-challenge">
+            <img src="data:image/png;base64,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">
+          </a>
+        </div>
+
+      </div>
+
+    </div>
+
+    <div id="body" class="ui two column centered grid stackable container">
+
+      <div class="row" id="names">
+        <div class="ui fluid basic container padded segment">
+          <div id="maintitle"> 
+            Scholarly QALD at ISWC 2023
+          </div>
+          <!--
+<div id="maintitle">
+LC-QuAD
+</div>
+-->
+          <div id="subtitle">
+            Subtasks for Question Answering over Knowledge Graph
+          </div>
+        </div>
+      </div>
+
+      <div class="four wide column" id="sidebar">
+
+        <div class="ui center aligned basic segment" id="download">
+
+          <a href="https://github.com/smart-task/smart-2022-datasets" class="ui fluid animated large fade primary button" id="downloadbutton">
+
+            <div class="visible content"><span id="subtext">Dataset</span> Download</div>
+            <div class="hidden content">GitHub <i class="external icon"></i></div>
+
+          </a>
+
+        </div>
+
+        <div class="ui basic segment" id="stats">
+
+          <h3 class="ui header" id="tabletitle2">Data Characteristics</h3>
+          <table class="ui celled unstackable table">
+
+            <tbody>
+
+              <tr>
+                <td class="collapsing">
+                  Version
+                </td>
+                <td class="right aligned">2022</td>
+              </tr>
+
+              <tr>
+                <td class="collapsing" colspan="2"> 2 AT Datasets (DBpedia/Wikidata)</td>
+              </tr>
+
+              <tr>
+                <td class="collapsing">
+                   DBpedia <br/> Dataset
+                </td>
+                <td class="left aligned">Total: 50,714<br/>Train: 40,621<br/>Test: 10,093</td>
+              </tr>
+
+              <tr>
+                <td class="collapsing">
+                  Wikidata <br/>Dataset
+                </td>
+                <td class="left aligned">Total: 54,468<br/>Train: 43,604<br/>Test: 10,864</td>
+              </tr>
+
+              <tr>
+                <td class="collapsing" colspan="2"> 2 RL Datasets (DBpedia/Wikidata)</td>
+              </tr>
+
+              <tr>
+                <td class="collapsing">
+                  DBpedia <br/> Dataset
+                </td>
+                <td class="left aligned">Total: 42,756<br/>Train: 34,204<br/>Test: 8,552</td>
+              </tr>
+
+              <tr>
+                <td class="collapsing">
+                  Wikidata <br/>Dataset
+                </td>
+                <td class="left aligned">Total: 30,141<br/>Train: 24,112<br/>Test: 6,029</td>
+              </tr>
+
+              <tr>
+                <td class="collapsing" colspan="2"> 2 EL Datasets (DBpedia/Wikidata)</td>
+              </tr>
+
+              <tr>
+                <td class="collapsing">
+                  DBpedia <br/> Dataset
+                </td>
+                <td class="left aligned">Total: 63,781<br/>Train: 49,987<br/>Test: 13,794</td>
+              </tr>
+
+              <tr>
+                <td class="collapsing">
+                  Wikidata <br/>Dataset
+                </td>
+                <td class="left aligned">Total: 63,781<br/>Train: 49,987<br/>Test: 13,794</td>
+              </tr>
+
+
+
+            </tbody>
+
+          </table>
+
+        </div>
+
+        <div class="ui divider"></div>
+
+        <div class="ui basic segment" id="resources">
+          <h3 class="ui header" id="tabletitle">Contact Us</h3>
+
+          <p id="intro">
+            In case you find any bug in our framework, or any issue with our dataset, please inform us on <a class="underline" href="https://github.com/smart-task/smart-2022-datasets/issues">SMART2022 Issues Page.</a>
+          </p>
+
+			Contact <a class="underline" href="mailto:nandana@ibm.com?Subject=SMART-task" target="_top"><em>nandana[at]ibm.com</em></a>  or <a class="underline" href="mailto:dubey@cs.uni-bonn.de?Subject=SMART-task" target="_top"><em>dubey[@]cs.uni-bonn.de</em></a> for anything regarding the dataset.
+
+        </div>
+
+      </div>
+
+      <div class="twelve wide column" id="content">
+        
+         
+
+	    
+	      
+       
+
+        <!-- Abstract -->
+        <div class="ui padded basic segment" id="abstract">
+          <h2 class="ui header">Task Description</h2>
+          <div id="description">
+            <p>Knowledge Base Question Answering (KBQA) is a popular task in
+              the field of Natural Language Processing and Information Retrieval,
+              in which the goal is to answer a natural language question using the
+              facts in a Knowledge Base. KBQA can involve several subtasks such as entity linking,
+              relation linking, and answer type prediction. In the SMART 2022 Semantic Web Challenge,
+              we focus on three subtasks in KBQA.</p>
+
+            <p>
+            The questions can be generally classified based on Wh-terms (Who, What, When, Where, Which, Whom, Whose, Why). A granular
+            answer type classification is possible with popular Semantic Web ontologies such as <a href="https://wiki.dbpedia.org/develop/datasets/dbpedia-version-2016-10">DBpedia</a> (~760 classes) and <a href="https://www.wikidata.org/">Wikidata</a> (~50K classes).
+            Relation linking for question is a hard task, some relations are semantically far and
+            sometimes tokens deciding the relations are spread across the question, some relations are implicit in text,
+              and there are lexical gaps in relation surface forms and KG property labels. Similarly, entity linking is
+              an essential subtask for formulating queries for Knowledge Base Question Answering.
+            </p>
+            <br/>
+            <p>
+            Thus, in the third iteration of SMART challenge in the ISWC 2022, we have three independent tasks:
+            </p>
+            <p><em><b>Task 1 (AT) - Answer Type Prediction:</b></em> Given a question in natural language, the task is to predict type of the answer using a set of candidates from a target ontology.</p>
+            <p><em><b>Task 2 (RL) - Relation Linking:</b></em> Given a question in natural language, the task is to predict relation to used for identifying the correct answer.</p>
+            <p><em><b>Task 3 (EL) - Entity Linking:</b></em> Given a question in natural language, the task is to identify the entities nd link them to the KG, so that they can be used for retrieving the correct answer.</p>
+
+            The proceedings of the first edition can be found at <a href="http://ceur-ws.org/Vol-2774/">SMART 2020 - CEUR Proceedings</a> and the second edition can be
+            found at <a href="http://ceur-ws.org/Vol-3119/">SMART 2021 - CEUR Proceedings</a>.
+          </div>
+        </div>
+
+
+                <!-- Guides -->
+                <!--  
+        <div class="ui basic padded segment" id="guide">
+          <h2 class="ui header">Usage</h2>
+
+          <div class="ui top attached tabular menu">
+            <a class="active item" data-tab="first">Cite</a>
+            <a class="item" data-tab="second">Docs</a>
+            <a class="item" data-tab="third">Schema</a>
+            <a class="item" data-tab="fourth">Changelog</a>
+          </div>
+
+          <div class="ui bottom attached active padded tab segment" data-tab="first">
+
+            <div id="cite" class="mono">
+              @article{smarttask2020,<br>
+                <span id="indent">title={{SeMantic AnsweR Type prediction task (SMART) at ISWC 2020 Semantic Web Challenge}},</span><br>
+                <span id="indent">author={Nandana Mihindukulasooriya and Mohnish Dubey and Alfio Gliozzo and Jens Lehmann and Axel-Cyrille Ngonga Ngomo and Ricardo Usbeck},</span><br>
+                <span id="indent">journal={CoRR/arXiv},</span><br>
+                <span id="indent">year={2020},</span><br>
+                <span id="indent">volume={abs/2012.00555},</span><br>
+                <span id="indent">url={https://arxiv.org/abs/2012.00555}</span><br>
+              }
+
+            </div>
+
+          </div>
+
+          <div class="ui bottom attached padded tab segment" data-tab="second">
+
+            <ul class="ui bulleted list">
+              <li>Find the <strong>train</strong> and <strong>test</strong> splits at our <a href="https://github.com/smart-task/smart-dataset/tree/master/datasets">github repo also.</a>.</li>
+              <li>We're in the process of creating a one-click benchmarking process. For the time being, please contact us to report your results.</li>
+            </ul>
+
+          </div>
+
+          <div class="ui bottom attached padded tab segment" data-tab="third">
+            <span class="intro">
+              Every data item in the dataset consists of the following fields:
+            </span><br><br>
+
+            <span>TBD</span>
+
+
+
+          </div>
+
+          <div class="ui bottom attached tab segment" data-tab="fourth">
+            <!-- 
+<ul class="ui bulleted list">
+<li >
+<h4>  </h4>
+<ul class="ui list">
+<li>Updated public website
+<li>Published train, test splits</li>
+<li> Leaderboard underway</li>
+</ul>
+</li>
+</ul>
+-->
+<!--
+            <div class="ui accordion">
+              <div class="title active">
+                <i class="dropdown icon"></i>
+                <span class="accordion-title-version">v0.1.0</span> <span class="accordion-title-date">- 01-07-2019</span>
+              </div>
+              <div class="content active">
+                <ul class="transition visible" style="display: block !important;">
+                  <li>[RELEASE] First version of the dataset released with 30,000 datapoints.</li>
+                  <li>lc-quad.sda.tech published </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+-->
+
+
+
+<!-- Leaderboard 
+        
+        
+        <div class="ui basic padded segment" id="leaderboard">
+
+          <h2 class="ui header">Leaderboard</h2>
+
+          <h3>SMART - DBpedia dataset</h3>
+
+          <table class="ui celled unstackable table">
+            <thead>
+              <tr>
+                <th class="center aligned multi line">System</th>
+                <th class="center aligned single line">Accuracy</th>
+                <th class="center aligned">NDCG@5</th>
+                <th class="center aligned">NDCG@10</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="center aligned" id="System">
+                  <a href="http://ceur-ws.org/Vol-2774/paper-02.pdf">Setty et al.</a>
+                </td>
+                <td class="center aligned" id="Accuracy">
+                  0.98
+                </td>
+                <td class="center aligned" id="NDCG@5">
+                  0.80
+                </td>
+                <td class="center aligned" id="NDCG@10">
+                  0.79
+                </td>
+              </tr>
+
+              <tr>
+                <td class="center aligned" id="System">
+                  <a href="http://ceur-ws.org/Vol-2774/paper-03.pdf">Nikas et al.</a>
+                </td>
+                <td class="center aligned" id="Accuracy">
+                  0.96
+                </td>
+                <td class="center aligned" id="NDCG@5">
+                  0.78
+                </td>
+                <td class="center aligned" id="NDCG@10">
+                  0.76
+                </td>
+              </tr>
+
+              <tr>
+                <td class="center aligned" id="System">
+                  <a href="http://ceur-ws.org/Vol-2774/paper-01.pdf">Perevalov et al.</a>
+                </td>
+                <td class="center aligned" id="Accuracy">
+                  0.98
+                </td>
+                <td class="center aligned" id="NDCG@5">
+                  0.76
+                </td>
+                <td class="center aligned" id="NDCG@10">
+                  0.73
+                </td>
+              </tr>
+
+
+              <tr>
+                <td class="center aligned" id="System">
+                  <a href="http://ceur-ws.org/Vol-2774/paper-06.pdf">Kertkeidkachorn et al.</a>
+                </td>
+                <td class="center aligned" id="Accuracy">
+                  0.96
+                </td>
+                <td class="center aligned" id="NDCG@5">
+                  0.75
+                </td>
+                <td class="center aligned" id="NDCG@10">
+                  0.72
+                </td>
+              </tr>
+
+
+              <tr>
+                <td class="center aligned" id="System">
+                  <a href="http://ceur-ws.org/Vol-2774/paper-05.pdf">Ammar et al.</a>
+                </td>
+                <td class="center aligned" id="Accuracy">
+                  0.94
+                </td>
+                <td class="center aligned" id="NDCG@5">
+                  0.62
+                </td>
+                <td class="center aligned" id="NDCG@10">
+                  0.61
+                </td>
+              </tr>
+
+              <tr>
+                <td class="center aligned" id="System">
+                  <a href="http://ceur-ws.org/Vol-2774/paper-07.pdf">Vallurupalli et al.</a>
+                </td>
+                <td class="center aligned" id="Accuracy">
+                  0.88
+                </td>
+                <td class="center aligned" id="NDCG@5">
+                  0.54
+                </td>
+                <td class="center aligned" id="NDCG@10">
+                  0.52
+                </td>
+              </tr>
+
+              <tr>
+                <td class="center aligned" id="System">
+                  <a href="http://ceur-ws.org/Vol-2774/paper-04.pdf">Steinmetz et al.</a>
+                </td>
+                <td class="center aligned" id="Accuracy">
+                  0.74
+                </td>
+                <td class="center aligned" id="NDCG@5">
+                  0.54
+                </td>
+                <td class="center aligned" id="NDCG@10">
+                  0.52
+                </td>
+              </tr>
+              
+              <tr>
+                <td class="center aligned" id="System">
+                  <a href="http://ceur-ws.org/Vol-2774/paper-08.pdf">Bill et al.</a>
+                </td>
+                <td class="center aligned" id="Accuracy">
+                  0.79
+                </td>
+                <td class="center aligned" id="NDCG@5">
+                  0.31
+                </td>
+                <td class="center aligned" id="NDCG@10">
+                  0.30
+                </td>
+              </tr>
+
+
+            
+            </tbody>
+          </table>
+
+          <h3>SMART - Wikidata dataset</h3>
+
+          <table class="ui celled unstackable table">
+            <thead>
+            <tr>
+              <th class="center aligned multi line">System</th>
+                <th class="center aligned single line">Accuracy</th>
+                <th class="center aligned">MRR</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+              <td class="center aligned" id="System">
+                <a href="http://ceur-ws.org/Vol-2774/paper-02.pdf">Setty et al.</a>
+              </td>
+              <td class="center aligned" id="Accuracy">
+                0.97
+              </td>
+              <td class="center aligned" id="MRR">
+                0.68
+              </td>
+            </tr>
+
+             <tr>
+              <td class="center aligned" id="System">
+                <a href="http://ceur-ws.org/Vol-2774/paper-06.pdf"> Kertkeidkachorn et al.</a>
+              </td>
+              <td class="center aligned" id="Accuracy">
+                0.96
+              </td>
+              <td class="center aligned" id="MRR">
+                0.59
+              </td>
+            </tr>
+
+             <tr>
+              <td class="center aligned" id="System">
+                <a href="http://ceur-ws.org/Vol-2774/paper-07.pdf">Vallurupalli et al.</a>
+              </td>
+              <td class="center aligned" id="Accuracy">
+                0.85
+              </td>
+              <td class="center aligned" id="MRR">
+                0.40
+              </td>
+            </tr>
+            </tbody>
+          </table>
+
+          <h3>References</h3>
+          <div id="partipant">
+            [1] <a href="http://ceur-ws.org/Vol-2774/paper-05.pdf">A Methodology for Hierarchical Classification of Semantic Answer Types of Questions</a> <br>
+            <i> Ammar Ammar, Shervin Mehryar, and Remzi Celebi  </i>
+          </div>
+          <div id="partipant">
+            [2] <a href="http://ceur-ws.org/Vol-2774/paper-08.pdf">Question Embeddings for Semantic Answer Type Prediction</a> <br><i> Eleanor Bill and Ernesto Jiménez-Ruiz </i>
+          </div>
+          <div id="partipant">
+            [3]  <a href="http://ceur-ws.org/Vol-2774/paper-06.pdf">Hierarchical Contextualized RepresentationModels for Answer Type Prediction</a> <br>
+            <i> Natthawut Kertkeidkachorn, Rungsiman Nararatwong, Phuc Nguyen, Ikuya Yamada, Hideaki Takeda, and Ryutaro Ichise </i>
+          </div>
+          <div id="partipant">
+            [4] <a href="http://ceur-ws.org/Vol-2774/paper-03.pdf">Two-stage Semantic Answer Type Prediction for QA using BERT and Class-Specificity Rewarding</a> <br>
+            <i> Christos Nikas, Pavlos Fafalios, and Yannis Tzitzikas </i>
+          </div>
+          <div id="partipant">
+            [5] <a href="http://ceur-ws.org/Vol-2774/paper-01.pdf">Augmentation-based Answer Type Classification of the SMART dataset</a> <br>
+            <i> Aleksandr Perevalov and Andreas Both </i>
+          </div>
+          <div id="partipant">
+            [6] <a href="http://ceur-ws.org/Vol-2774/paper-02.pdf">Semantic Answer Type Prediction using BERT: IAI at the ISWC SMART Task 2020</a> <br>
+            <i> Vinay Setty and Krisztian Balog </i>
+          </div>
+          <div id="partipant">
+            [7] <a href="http://ceur-ws.org/Vol-2774/paper-04.pdf">COALA - A Rule-Based Approach to Answer Type Prediction</a> <br><i> Nadine Steinmetz and Kai-Uwe Sattler  </i>
+          </div>
+          <div id="partipant">
+            [8] <a href="http://ceur-ws.org/Vol-2774/paper-07.pdf">Fine and Ultra-Fine Entity Type Embeddings for Question Answering</a> <br>
+            <i> Sai Vallurupalli, Jennifer Sleeman, and  Tim Finin</i>
+          </div>
+
+        </div>
+-->
+        <div class="ui padded basic segment" id="example">
+          <h2 class="ui header">Example for tasks</h2>
+           <div id="exdescription1">
+              Task 1: The following table illustrates some example questions and expected answer types from DBpedia ontology and Wikidata ontology.
+            <div class="ui padded basic segment">
+              <table class="ui celled unstackable table">
+                <thead>
+                <tr>
+                  <th class="center aligned single line" rowspan="2">Question</th>
+                  <th class="center aligned" colspan="2">Answer Type</th>
+                </tr>
+                <tr>
+                  <th class="center aligned">DBpedia</th>
+                  <th class="center aligned">Wikidata</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                  <td>Which languages were influenced by Perl?</td>
+                  <td class="center aligned">dbo:ProgrammingLanguage</td>
+                  <td class="center aligned">wd:Q9143</td>
+                </tr>
+                <tr>
+                  <td>Give me all actors starring in movies directed by and starring William Shatner.</td>
+                  <td class="center aligned">dbo:Actor</td>
+                  <td class="center aligned">wd:Q33999</td>
+                </tr>
+                <tr>
+                  <td>How many employees does IBM have?</td>
+                  <td class="center aligned">number</td>
+                  <td class="center aligned">number</td>
+                </tr>
+                </tbody>
+              </table>
+            </div>
+           <div id="exdescription2" >
+              Task 2: The following table illustrates some example questions and expected relation prediction from DBpedia ontology and Wikidata ontology.
+            <div class="ui padded basic segment">
+              <table class="ui celled unstackable table">
+                <thead>
+                <tr>
+                  <th class="center aligned single line" rowspan="2">Question</th>
+                  <th class="center aligned" colspan="2">Relation</th>
+                </tr>
+                <tr>
+                  <th class="center aligned">DBpedia</th>
+                  <th class="center aligned">Wikidata</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                  <td>Which languages were influenced by Perl?</td>
+                  <td class="center aligned">dbo:influencedBy</td>
+                  <td class="center aligned">wdt:P737</td>
+                </tr>
+                <tr>
+                  <td>Give me all actors starring in movies directed by and starring William Shatner.</td>
+                  <td class="center aligned">dbo:starring, dbo:director</td>
+                  <td class="center aligned">wdt:P161, wdt:P57</td>
+                </tr>
+                <tr>
+                  <td>How many employees does IBM have?</td>
+                  <td class="center aligned">dbo:numberOfEmployees</td>
+                  <td class="center aligned">wdt:P1128</td>
+                </tr>
+                </tbody>
+              </table>
+            </div>
+        </div>
+
+        <div class="ui padded basic segment" id="dataset">
+
+          <!--          <h2 class="ui header"><span id="funny">༼ つ ◕_◕ ༽つ</span></h2>-->
+          <h2 class="ui header">Dataset</h2>
+          <h3>Task 1: Answer Type Prediction (SMART2022-AT)</h3>
+          <div id="dataset-desc">
+            <p>We provide two datasets for this answer prediction task, one using the DBpedia ontology and the other using the Wikidata ontology. Both follow the structure shown below. </p>
+            <p>Each question will have a (a) question id, (b) question text in natural language, (c) an answer category ("resource"/"literal"/"boolean"), and (d) answer type.</p>
+            <p>If the category is "resource", answer types are ontology classes from either the DBpedia ontology or the Wikidata ontology. If category is "literal", answer types are either "number", "date", or "string". "boolean" answer type.
+            If the category is "boolean", answer type is always "boolean".</p>
+
+        <pre style="background-color: seashell"><code>
+  [
+    {
+      "id": "dbpedia_1",
+      "question": "Who are the gymnasts coached by Amanda Reddin?",
+      "category": "resource",
+      "type": ["dbo:Gymnast", "dbo:Athlete", "dbo:Person", "dbo:Agent"]
+    },
+    {
+    "id": "dbpedia_2",
+    "question": "How many superpowers does wonder woman have?",
+    "category": "literal",
+    "type": ["number"]
+    }
+    {
+      "id": "dbpedia_3",
+      "question": "When did Margaret Mead marry Gregory Bateson?",
+      "category": "literal",
+      "type": ["date"]
+    },
+    {
+      "id": "dbpedia_4",
+      "question": "Is Azerbaijan a member of European Go Federation?",
+      "category": "boolean",
+      "type": ["boolean"]
+    }
+  ]
+        </code></pre>
+
+            <h3>Task 2: Relation Prediction (SMART2022-RL)</h3>
+            <p>Similar to AT, we provide two datasets for the relation prediction task, one using the DBpedia ontology and the other using the Wikidata ontology. Both follow the structure shown below. </p>
+            <p>Each question will have a (a) question id, (b) question text in natural language, (c) a list of relation blocks (n blocks for multihop questions involving n relations). Each relation block can have multiple interchangeable relations.</p>
+            <p>We also provide a restricted vocabulary of all the relations that are used in the dataset (both training and test sets).</p>
+            <pre style="background-color: seashell"><code>
+[
+  {
+    "id": "smart-2022-rl-dbpedia-0"
+    "question": "Where was richard sprigg steuart born?",
+    "relations": [
+      ["dbo:birthPlace"]
+    ]
+  }, {
+    "id": "smart-2022-rl-dbpedia-1",
+    "question": "What are the awards won by the producer of Puss in Boots (film)?",
+    "relations": [
+      ["dbo:producer"],
+      ["dbo:award"]
+    ]
+  },{
+    "id": "smart-2022-rl-dbpedia-2"
+    "question": "Name a college in california",
+    "relations": [
+      ["dbo:locatedInArea", "dbo:city", "dbo:location", "dbo:region", "dbo:state"]
+    ]
+  }
+]
+            </code></pre>           
+          </div>
+        </div>
+
+
+        <div class="ui padded basic segment" id="evaluation">
+
+          <!--          <h2 class="ui header"><span id="funny">༼ つ ◕_◕ ༽つ</span></h2>-->
+          <h2 class="ui header">Evaluation Metrics</h2>
+          <div id="evaluation-metrics-desc">
+            <h3>Task 1: Answer Type Prediction</h3>
+            <p>For each natural language question in the test set, the participating systems are expected to provide two predictions:
+            answer category and answer type. Answer category can be either "resource", "literal" or "boolean". The format is as the same
+            as the training data.<p/>
+
+            <p>If answer category is "resource", the answer type should be an ontology class (DBpedia or Wikidata, depending on the dataset). The systems
+            could predict a ranked list of classes from the corresponding ontology. If answer category is "literal", the answer type can be either "number", "date" or "string".</p>
+
+            <p>Category predication will be considered as a multi-class classification problem and <b>accuracy score</b> will be used as the metric. For type predication, we will use the metric <b>lenient NDCG@k with a Linear decay</b> from the paper from <a href="https://krisztianbalog.com/files/cikm2012-querytypes.pdf">Balog and Neumayer</a>.</p>
+
+            <p>The evaluation scripts can be found <a href="https://github.com/smart-task/smart-2021-dataset">here</a>.</p>
+
+            <h3>Task 2: Relation Prediction</h3>
+            <p> For each question, the participating systems are supposed to provide a list of relations. The format of
+            the expected system output is as follows:</p>
+          <div>
+            <div>
+              For SMART2022-RL-DBpdia. The format is slightly different from the train data. When there is a multiple
+              equally valid relations such as "dbo:locatedInArea", "dbo:isPartOf", "dbo:location", "dbo:region", the
+              participantly are only expected to provide any one of them (not all).
+              <pre style="background-color: seashell"><code>
+[
+  {
+    "id": "smart-2022-rl-dbpedia-test-0",
+    "relations": ["dbo:location"]
+  },
+  {
+    "id": "smart-2022-rl-wikidata-test-1",
+    "relations": ["dbo:award", "dbo:director"]
+  }
+]
+            </code></pre>
+            </div>
+            <div>
+            For SMART2022-RL-Wikidata. The systems are needed to provide the list of relations similar to the training
+              data.
+            <pre style="background-color: seashell"><code>
+[
+  {
+    "id": "smart-2022-rl-wikidata-test-0",
+    "relations": ["P4599"]
+  },
+  {
+    "id": "smart-2022-rl-wikidata-test-1",
+    "relations": ["P166", "P805"]
+  }
+]
+            </code></pre>
+          </div>
+        </div>
+            <p>The list of system predicted relations will be compared with the gold list of relations and <b>precision,
+              recall, and F1</b> metrics will be calculated for all questions. <b>Micro F1</b> will be used to rank the systems.</p>
+            <p>The evaluation scripts can be found <a href="https://github.com/smart-task/smart-2021-dataset">here</a>.</p>
+          </div>
+
+         
+
+	<div class="ui padded basic segment" id="submission">
+          <h2 class="ui header">Submission Details</h2>
+          <div id="submission-desc">
+              <p>Participants are requested to submit the system output for the test data.
+The format is as same as the training data. In addition, the participants
+are requested to submit a system description that will be included in a
+joint ISWC challenge proceedings volume in CEUR. System descriptions must
+be in English either in PDF or HTML, formatted in the style of LNCS, and no
+longer than 12 pages. Submissions can be sent via <a href="https://easychair.org/my/conference?conf=smart20210">EasyChair</a>.
+There is a <a href="https://smart-task-iswc.slack.com/"><em>slack workspace</em></a> for the challenge related discussions,
+please send an <a class="underline" href="mailto:nandana.m@ibm.com?Subject=SMART-task" target="_top"><em>email</em></a> for an invite. The accepted
+systems will get the opportunity to show their results during the ISWC 2022
+poster and demo session.</p>
+          </div>
+        </div>
+
+        <!-- Leaderboard -->
+        <div class="ui basic padded segment" id="dates">
+
+          <h2 class="ui header">Important Dates</h2>
+          <table class="ui celled unstackable table">
+            <thead>
+            <tr>
+              <th class="single line">Date</th>
+              <th class="center aligned single line">Description</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+              <td class="left aligned">
+                30th May 2022
+              </td>
+              <td class="left aligned">
+                Release of the training set.
+              </td>
+            </tr>
+            <tr>
+              <td class="left aligned">
+                14th of June 2022
+              </td>
+              <td class="left aligned">
+                Release of the test set.
+              </td>
+            </tr>
+            <tr>
+              <td class="left aligned">
+                16th of September 2022
+              </td>
+              <td class="left aligned">
+                Submission of system output.
+              </td>
+            </tr>
+            <tr>
+              <td class="left aligned">
+                TBD
+              </td>
+              <td class="left aligned">
+                Publication of results. System description submission. 
+              </td>
+            </tr>
+            <tr>
+              <td class="left aligned">
+                23rd-27th October 2022
+              </td>
+              <td class="left aligned">
+                ISWC Conference, Visit <a href="https://iswc2023.semanticweb.org/"> iswc2023.semanticweb.org</a>
+              </td>
+            </tr>
+	    <tr>
+              <td class="left aligned">
+                TBD
+              </td>
+              <td class="left aligned">
+                Camera-ready submission.
+              </td>
+            </tr>
+            </tbody>
+        </table>
+        </div>
+      
+
+          <!-- <div id="sidenote"> -->
+            <!-- <span id="asterix">*</span> -->
+            <!-- We're in the process of automating the benchmarking process, to populate the leaderboard. In the meantime, please get in touch with us at <a class="underline" href="mailto:priyansh.trivedi@uni-bonn.de?Subject=LC-QuAD Benchmarking" target="_top">priyansh.trivedi@uni-bonn.de</a> to add your entry here, and we'll do it manually. -->
+<!--              Apologies for this inconvenience.-->
+          <!-- </div> -->
+
+        <div class="ui padded segment" id="people">
+
+          <h2 class="ui header">People</h2>
+          <div class="ui five doubling link cards">
+
+            <div class="card">
+              <a class="image" href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-NANDANA.SAMPATH.MIHINDUKULASOORIYA">
+                <img src="static/imgs/nandana.png">
+              </a>
+              <div class="content">
+                <a class="header" href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-NANDANA.SAMPATH.MIHINDUKULASOORIYA">Nandana Mihindukulas..</a>
+                <div class="meta">
+                  <a>Postdoctoral Researcher, IBM Research AI</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="card">
+              <a class="image" href="http://aksw.org/RicardoUsbeck.html">
+                <img src="static/imgs/ricardo.jpg">
+              </a>
+              <div class="content">
+                <a class="header" href="http://aksw.org/RicardoUsbeck.html">Ricardo Usbeck</a>
+                <div class="meta">
+                  <a>Junior Professor, University of Hamburg</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="card">
+              <a class="image" href="https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/debayan-banerjee.html">
+                <img src="static/imgs/debayan.jpeg">
+              </a>
+              <div class="content">
+                <a class="header" href="https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/debayan-banerjee.html">Debayan Banerjee</a>
+                <div class="meta">
+                  <a>PhD Student, Universität Hamburg</a>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="ui padded footer vertical segment" id="footer">
+      <div class="ui stackable middle aligned divided grid container">
+
+        <div class="center aligned eight wide column" id="contact">
+          <div class="footer-header">
+
+            <div class="ui social notlast padded doubling grid" id="license">
+
+              <div class="four wide column">
+                <a href="http://google.com" class="ui image">
+                  <img  src="static/imgs/by.png">
+                  </a>
+              </div>
+
+              <div class="twelve wide column">
+
+                The Scholarly QALD datasets are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a>.
+              </div>
+            </div>
+
+            <div class="ui divider">
+
+            </div>
+
+            <div class="social notfirst" id="email">
+              This work has been partially supported by grants for the DFG project NFDI4DataScience project (DFG project no. 460234259) and by the Federal Ministry for Economics and Climate Action in the project CoyPu (project number 01MK21007G). 
+            </div>
+
+          </div>
+        </div>
+        <div class="center aligned eight wide column" id="organization">
+
+          <div class="ui centered two column wide grid">
+
+            <div class="center aligned column" id="ibm">
+            <a class="ui centered medium image" style="vertical-align: middle;">
+              <img src="static/imgs/ibm_logo.png">
+            </a>
+            </div>
+
+            <div class="center aligned column" id="sda">
+            <a href="https://www.inf.uni-hamburg.de/sems" class="ui centered medium image">
+              <img src="static/imgs/sems.png">
+            </a>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="ui basic center aligned segment" id="credits">
+        The website follows the same templates from the LC-QuAD snad SMART website. Some icons on this page are by <a href="https://icons8.com/">Icons8</a>
+      </div>
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-migrate-3.0.0.js"></script>
+    <script type="text/javascript" src="static/slick/slick.min.js"></script>
+
+    <script type="text/javascript">
+      $('#header #header-menu .right.menu .item')
+        .popup();
+
+      $('.ui.accordion')
+        .accordion({
+        exclusive: false
+      });
+
+      $('.shape').shape();
+      $('#carouselfwd').click(function() {
+        console.log('poopright');
+        $('.shape').shape('flip right');
+
+      });
+      $('#carouselbkwd').click(function() {
+        console.log('poopleft');
+        $('.shape').shape('flip left');
+      });
+
+      $('.ui.longer.modal').modal({
+        blurring: true
+        //        scrolling content: true
+      });
+
+      $('#guide .menu .item').tab();
+
+      $('#explorebutton').click(function() {
+        $('.ui.longer.modal').modal('show');
+      });
+
+    </script>
+
+
+  </body>
+
+
+
+</html>
