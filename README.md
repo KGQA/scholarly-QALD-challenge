@@ -30,6 +30,4 @@ The DBLP-QuAD dataset was created using the OVERNIGHT approach, where logical fo
 For both tasks, we aim to evaluate the participants' approaches using the Hugging Face Evaluate library (https://huggingface.co/docs/evaluate/index). That is, participants can either upload their models to Hugging Face or send us their models so we can compare them neutrally using the Python-based Evaluate library. The participating systems will be evaluated based on the standard metrics precision, recall, and f-measure.
 
 
-## Data for the Tasks
 
-To be done!
