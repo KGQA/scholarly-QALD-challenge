@@ -1,4 +1,4 @@
-# scholarly-QALD-challenge
+# Scholarly QALD Challenge
 Website for the scholarly QALD Challenge @ ISWC 2023
 
 ## Tasks
