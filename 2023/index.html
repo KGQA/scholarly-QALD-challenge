@@ -387,7 +387,7 @@
         <div class="right menu">
           <a class="item" data-content="QALD 10" data-position="bottom center" href="https://www.nliwod.org/challenge">
             <!--            <i class="big github icon"></i>-->
-            QALD 10 @ ESWC 2022
+            Previous Challenges: QALD 10 @ ESWC 2022
           </a>
           <a class="item" data-content="Download Paper (TBA)" data-position="bottom center" href="TBA">
             <!--            <i class="big github icon"></i>-->
@@ -416,7 +416,7 @@ LC-QuAD
 </div>
 -->
           <div id="subtitle">
-            Subtasks for Question Answering over Knowledge Graph
+            Subtasks for Question Answering over Scholarly Knowledge Graphs
           </div>
         </div>
       </div>
@@ -425,7 +425,7 @@ LC-QuAD
 
         <div class="ui center aligned basic segment" id="download">
 
-          <a href="https://github.com/smart-task/smart-2022-datasets" class="ui fluid animated large fade primary button" id="downloadbutton">
+          <a href="https://github.com/KGQA/scholarly-QALD-challenge" class="ui fluid animated large fade primary button" id="downloadbutton">
 
             <div class="visible content"><span id="subtext">Dataset</span> Download</div>
             <div class="hidden content">GitHub <i class="external icon"></i></div>
@@ -433,7 +433,12 @@ LC-QuAD
           </a>
 
         </div>
-
+        <div class="center aligned column" id="sda">
+          Supported by:
+            <a href="https://www.nfdi4datascience.de/" class="ui centered medium image">
+              <img src="static/imgs/nfdi4ds.png" >
+            </a>
+        </div>
         <div class="ui basic segment" id="stats">
 
           <h3 class="ui header" id="tabletitle2">Data Characteristics</h3>
@@ -445,65 +450,31 @@ LC-QuAD
                 <td class="collapsing">
                   Version
                 </td>
-                <td class="right aligned">2022</td>
+                <td class="right aligned">2023</td>
               </tr>
 
               <tr>
-                <td class="collapsing" colspan="2"> 2 AT Datasets (DBpedia/Wikidata)</td>
-              </tr>
-
-              <tr>
-                <td class="collapsing">
-                   DBpedia <br/> Dataset
-                </td>
-                <td class="left aligned">Total: 50,714<br/>Train: 40,621<br/>Test: 10,093</td>
+                <td class="collapsing" colspan="2"> Task 1: SciQA (KG = ORGK)</td>
               </tr>
 
               <tr>
                 <td class="collapsing">
-                  Wikidata <br/>Dataset
+                   ORKG <br/> Dataset
                 </td>
-                <td class="left aligned">Total: 54,468<br/>Train: 43,604<br/>Test: 10,864</td>
+                <td class="left aligned">Base: 100 handcrafted QA pairs<br/>Synthetisized: 2,000</td>
               </tr>
 
               <tr>
-                <td class="collapsing" colspan="2"> 2 RL Datasets (DBpedia/Wikidata)</td>
+                <td class="collapsing" colspan="2"> Task 2: DBLP-QUAD (KG = DBLP)</td>
               </tr>
 
               <tr>
                 <td class="collapsing">
-                  DBpedia <br/> Dataset
+                  DBLP <br/> Dataset
                 </td>
-                <td class="left aligned">Total: 42,756<br/>Train: 34,204<br/>Test: 8,552</td>
+                <td class="left aligned">Base: 10,000 Question - SPARQL pairs</td>
               </tr>
-
-              <tr>
-                <td class="collapsing">
-                  Wikidata <br/>Dataset
-                </td>
-                <td class="left aligned">Total: 30,141<br/>Train: 24,112<br/>Test: 6,029</td>
-              </tr>
-
-              <tr>
-                <td class="collapsing" colspan="2"> 2 EL Datasets (DBpedia/Wikidata)</td>
-              </tr>
-
-              <tr>
-                <td class="collapsing">
-                  DBpedia <br/> Dataset
-                </td>
-                <td class="left aligned">Total: 63,781<br/>Train: 49,987<br/>Test: 13,794</td>
-              </tr>
-
-              <tr>
-                <td class="collapsing">
-                  Wikidata <br/>Dataset
-                </td>
-                <td class="left aligned">Total: 63,781<br/>Train: 49,987<br/>Test: 13,794</td>
-              </tr>
-
-
-
+ 
             </tbody>
 
           </table>
@@ -516,12 +487,14 @@ LC-QuAD
           <h3 class="ui header" id="tabletitle">Contact Us</h3>
 
           <p id="intro">
-            In case you find any bug in our framework, or any issue with our dataset, please inform us on <a class="underline" href="https://github.com/smart-task/smart-2022-datasets/issues">SMART2022 Issues Page.</a>
+            In case you find any bug in our framework, or any issue with our dataset, please inform us on the <a class="underline" href="https://github.com/KGQA/scholarly-QALD-challenge/issues">Scholarly QALD Issues Page.</a>
           </p>
 
-			Contact <a class="underline" href="mailto:nandana@ibm.com?Subject=SMART-task" target="_top"><em>nandana[at]ibm.com</em></a>  or <a class="underline" href="mailto:dubey@cs.uni-bonn.de?Subject=SMART-task" target="_top"><em>dubey[@]cs.uni-bonn.de</em></a> for anything regarding the dataset.
+			Contact <a class="underline" href="mailto:ricardo.usbeck@uni-hamburg.de?Subject=scholarly-QALD-challenge" target="_top"><em>ricardo.usbeck[at]uni-hamburg.de</em></a> for anything regarding the datasets.
 
         </div>
+
+
 
       </div>
 
@@ -537,31 +510,37 @@ LC-QuAD
         <div class="ui padded basic segment" id="abstract">
           <h2 class="ui header">Task Description</h2>
           <div id="description">
-            <p>Knowledge Base Question Answering (KBQA) is a popular task in
-              the field of Natural Language Processing and Information Retrieval,
-              in which the goal is to answer a natural language question using the
-              facts in a Knowledge Base. KBQA can involve several subtasks such as entity linking,
-              relation linking, and answer type prediction. In the SMART 2022 Semantic Web Challenge,
-              we focus on three subtasks in KBQA.</p>
-
             <p>
-            The questions can be generally classified based on Wh-terms (Who, What, When, Where, Which, Whom, Whose, Why). A granular
-            answer type classification is possible with popular Semantic Web ontologies such as <a href="https://wiki.dbpedia.org/develop/datasets/dbpedia-version-2016-10">DBpedia</a> (~760 classes) and <a href="https://www.wikidata.org/">Wikidata</a> (~50K classes).
-            Relation linking for question is a hard task, some relations are semantically far and
-            sometimes tokens deciding the relations are spread across the question, some relations are implicit in text,
-              and there are lexical gaps in relation surface forms and KG property labels. Similarly, entity linking is
-              an essential subtask for formulating queries for Knowledge Base Question Answering.
+              The importance of how typical Web users can access the body of knowledge
+              on the Web grows with the amount of structured data published thereon. Over
+              the past years, there has been an increasing amount of research on interaction
+              paradigms that allow end users to profit from the expressive power of Semantic
+              Web standards while at the same time hiding their complexity behind an
+              intuitive and easy-to-use interface.
+              </p><p>
+              However, no natural language interface allows one to access scholarly data
+              such as papers, authors, institutions, models, or datasets. The key challenge is to
+              translate the users’ information needs into a form such that they can be evaluated
+              using standard Semantic Web query processing and inference techniques. Such
+              interfaces would allow users to express arbitrarily complex information needs in
+              an intuitive fashion and, at least in principle, in their own words. The intent
+              of this challenge is thus of great importance and interest to Semantic Web
+              scholars.
+              </p><p>
+              By taking part in the challenges sub-tasks, participants can explore and will
+              experience a versatile range of academic and industrial approaches and applica-
+              tions through the multi-faceted workshop format. We will try to bridge the gap
+              between academia and industry to attract junior as well as senior researchers
+              from both worlds leading to a memorable experience. We target to publish system descriptions as proceedings published by CEUR-WS as in past years
             </p>
             <br/>
             <p>
-            Thus, in the third iteration of SMART challenge in the ISWC 2022, we have three independent tasks:
+            Thus, in its first iteration at ISWC 2023, we have two independent tasks:
             </p>
-            <p><em><b>Task 1 (AT) - Answer Type Prediction:</b></em> Given a question in natural language, the task is to predict type of the answer using a set of candidates from a target ontology.</p>
-            <p><em><b>Task 2 (RL) - Relation Linking:</b></em> Given a question in natural language, the task is to predict relation to used for identifying the correct answer.</p>
-            <p><em><b>Task 3 (EL) - Entity Linking:</b></em> Given a question in natural language, the task is to identify the entities nd link them to the KG, so that they can be used for retrieving the correct answer.</p>
-
-            The proceedings of the first edition can be found at <a href="http://ceur-ws.org/Vol-2774/">SMART 2020 - CEUR Proceedings</a> and the second edition can be
-            found at <a href="http://ceur-ws.org/Vol-3119/">SMART 2021 - CEUR Proceedings</a>.
+            <p><em><b>Task 1: SciQA — Question Answering of Scholarly Knowledge:</b></em>  This new task introduced this year will use a scholarly data source <a href="https://orkg.org">ORKG</a> as a target repository for answering comparative questions. </p>
+            <p><em><b>Task 2: DBLP-QUAD — Knowledge Graph Question Answering over DBLP:</b></em> For this task, participants will use the DBLP-QUAD dataset, which consists of 10,000 question-SPARQL pairs, and is answerable over the DBLP Knowledge Graph.</p>
+            
+            <!-- PROCEEDINGS ANNOUNCEMENT GOES HERE -->
           </div>
         </div>
 
@@ -615,7 +594,7 @@ LC-QuAD
           </div>
 
           <div class="ui bottom attached tab segment" data-tab="fourth">
-            <!-- 
+            
 <ul class="ui bulleted list">
 <li >
 <h4>  </h4>
@@ -626,8 +605,8 @@ LC-QuAD
 </ul>
 </li>
 </ul>
--->
-<!--
+
+
             <div class="ui accordion">
               <div class="title active">
                 <i class="dropdown icon"></i>
@@ -877,6 +856,7 @@ LC-QuAD
 
         </div>
 -->
+<!--
         <div class="ui padded basic segment" id="example">
           <h2 class="ui header">Example for tasks</h2>
            <div id="exdescription1">
@@ -946,82 +926,89 @@ LC-QuAD
               </table>
             </div>
         </div>
-
+-->
         <div class="ui padded basic segment" id="dataset">
 
           <!--          <h2 class="ui header"><span id="funny">༼ つ ◕_◕ ༽つ</span></h2>-->
           <h2 class="ui header">Dataset</h2>
-          <h3>Task 1: Answer Type Prediction (SMART2022-AT)</h3>
+          <h3>Task 1: SciQA — Question Answering of Scholarly Knowledge</h3>
           <div id="dataset-desc">
-            <p>We provide two datasets for this answer prediction task, one using the DBpedia ontology and the other using the Wikidata ontology. Both follow the structure shown below. </p>
-            <p>Each question will have a (a) question id, (b) question text in natural language, (c) an answer category ("resource"/"literal"/"boolean"), and (d) answer type.</p>
-            <p>If the category is "resource", answer types are ontology classes from either the DBpedia ontology or the Wikidata ontology. If category is "literal", answer types are either "number", "date", or "string". "boolean" answer type.
-            If the category is "boolean", answer type is always "boolean".</p>
+            <p>This new task introduced this year will use a scholarly data source <a href="https://orkg.org">ORKG</a> as a target repository for answering comparative questions. KGQA benchmarks and systems were so far mainly geared towards encyclopedic knowledge graphs such as DBpedia and Wikidata. </p>
+            <p>In this task, we will leverage a novel QA benchmark for scholarly knowledge – SciQA (<a href="https://zenodo.org/record/7729047">https://zenodo.org/record/7729047</a>). The benchmark leverages the Open Research Knowledge Graph (ORKG) which includes over 100,000 resources describing complex research contributions. Following a bottom-up methodology, we manually developed a set of 100 questions that can be answered using this knowledge graph. The questions cover a wide range of research fields and question types and are translated into SPARQL queries over the knowledge graph. </p>
+            <p>The SciQA benchmark represents an extremely challenging task for next-generation QA systems. The 100 hand-crafted questions are significantly more complex to answer than typical common-sense questions.</p>
+            <p>An example question is:
+              What is the average energy generation for each energy source considered in 5-year intervals in Greenhouse Gas Reduction Scenarios for Germany?
+            </p>
+            <p>
+              The corresponding SPARQL query includes seven triple patterns, uses eight query components, and is shaped as a tree.
+            </p>
+            <p>In addition to the 100 hand-crafted questions, we will provide a set of more than 2,000 questions generated from 10 question/query templates to ensure a good balance between question complexity and wider coverage.</p>            
 
         <pre style="background-color: seashell"><code>
-  [
-    {
-      "id": "dbpedia_1",
-      "question": "Who are the gymnasts coached by Amanda Reddin?",
-      "category": "resource",
-      "type": ["dbo:Gymnast", "dbo:Athlete", "dbo:Person", "dbo:Agent"]
-    },
-    {
-    "id": "dbpedia_2",
-    "question": "How many superpowers does wonder woman have?",
-    "category": "literal",
-    "type": ["number"]
-    }
-    {
-      "id": "dbpedia_3",
-      "question": "When did Margaret Mead marry Gregory Bateson?",
-      "category": "literal",
-      "type": ["date"]
-    },
-    {
-      "id": "dbpedia_4",
-      "question": "Is Azerbaijan a member of European Go Federation?",
-      "category": "boolean",
-      "type": ["boolean"]
-    }
-  ]
+  47  "Life Sciences ->
+Microbiology ->
+Virology" "Factoid
+Count"  "chain
+" "SELECT
+AVG
+WHERE
+BIND" 3 comparison-based  WHICH-WHAT  R44930  What is the mean basic reproductive number in the COVID studies?  What is the average reproductive number for studies?  What is the average reproductive number in "COVID-19 Reproductive Number Estimates"?  "SELECT (AVG(?reproductive_number) AS ?average_reproductive_number)
+WHERE {
+  orkgr:R44930 orkgp:compareContribution ?contrib.
+  ?contrib o:basic_reproduction_number ?basic_reproductive_number.
+  ?basic_reproductive_number o:has_value ?value
+  BIND(xsd:float(?value) AS ?reproductive_number)
+}"  "SELECT (AVG(?reproductive_number) AS ?average_reproductive_number)
+WHERE {
+  orkgr:R44930 orkgp:compareContribution ?contrib.
+  ?contrib orkgp:basicReproductionNumber ?basic_reproductive_number.
+  ?basic_reproductive_number orkgp:hasValue ?value
+  BIND(xsd:float(?value) AS ?reproductive_number)
+}"  "SELECT (AVG(?reproductive_number) AS ?average_reproductive_number)
+WHERE {
+  orkgr:R44930 orkgp:compareContribution ?contrib.
+  ?contrib orkgp:basicReproductionNumber ?basic_reproductive_number.
+  ?basic_reproductive_number orkgp:hasValue ?value
+  BIND(xsd:float(?value) AS ?reproductive_number)
+}"  3.020645137756102 #N/A  "SELECT (AVG(?reproductive_number) AS ?average_reproductive_number)
+WHERE {
+  orkgr:R44930 orkgp:compareContribution ?contrib.
+  ?contrib orkgp:P23140 ?basic_reproductive_number.
+  ?basic_reproductive_number orkgp:HAS_VALUE ?value
+  BIND(xsd:float(?value) AS ?reproductive_number)
+}"
         </code></pre>
-
-            <h3>Task 2: Relation Prediction (SMART2022-RL)</h3>
-            <p>Similar to AT, we provide two datasets for the relation prediction task, one using the DBpedia ontology and the other using the Wikidata ontology. Both follow the structure shown below. </p>
-            <p>Each question will have a (a) question id, (b) question text in natural language, (c) a list of relation blocks (n blocks for multihop questions involving n relations). Each relation block can have multiple interchangeable relations.</p>
-            <p>We also provide a restricted vocabulary of all the relations that are used in the dataset (both training and test sets).</p>
+</div>
+            <h3>Task 2: DBLP-QUAD — Knowledge Graph Question Answering over DBLP</h3>
+            <div>
+            <p>For this task, participants will use the DBLP-QUAD dataset (<a href="https://doi.org/10.5281/zenodo.7554379">https://doi.org/10.5281/zenodo.7554379</a>), see also <a href="https://huggingface.co/datasets/awalesushil/DBLP-QuAD">https://huggingface.co/datasets/awalesushil/DBLP-QuAD</a>, which consists of 10,000 question-SPARQL pairs, and is answerable over the DBLP Knowledge Graph (<a href="https://blog.dblp.org/2022/03/02/dblp-in-rdf/">https://blog.dblp.org/2022/03/02/dblp-in-rdf/</a>) and (<a href="https://zenodo.org/record/7638511">https://zenodo.org/record/7638511</a>). 
+            </p>
+            <p>DBLP is a well-known repository for computer science bibliography and has recently released an RDF dump. This allows users to query it as a knowledge graph. The first subtask is to fetch the right answer from the DBLP KG given the question. The second subtask is entity linking (EL) on the same dataset. The DBLP-QuAD dataset was created using the OVERNIGHT approach, where logical forms are first generated from a KG. Then canonical questions are generated from these logical forms.
+            </p>
             <pre style="background-color: seashell"><code>
-[
-  {
-    "id": "smart-2022-rl-dbpedia-0"
-    "question": "Where was richard sprigg steuart born?",
-    "relations": [
-      ["dbo:birthPlace"]
-    ]
-  }, {
-    "id": "smart-2022-rl-dbpedia-1",
-    "question": "What are the awards won by the producer of Puss in Boots (film)?",
-    "relations": [
-      ["dbo:producer"],
-      ["dbo:award"]
-    ]
-  },{
-    "id": "smart-2022-rl-dbpedia-2"
-    "question": "Name a college in california",
-    "relations": [
-      ["dbo:locatedInArea", "dbo:city", "dbo:location", "dbo:region", "dbo:state"]
-    ]
-  }
-]
+  
+"SINGLE_FACT"
+{ "string": "What are the papers written by Abhinav Srivastava?" }
+{ "string": "What are the papers written by the person Abhinav Srivastava?" }
+{ "sparql": "SELECT DISTINCT ?answer WHERE { ?answer <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/77/252> }" }
+"TC01"
+[ "<https://dblp.org/pid/77/252>" ]
+[ "<https://dblp.org/rdf/schema#authoredBy>" ]
+false
+false 
             </code></pre>           
           </div>
+        
+
+           <h3>Evaluation</h3>
+          <div>
+          For both tasks, we aim to evaluate the participants' approaches using the Hugging Face Evaluate library (<a href="https://huggingface.co/docs/evaluate/index">https://huggingface.co/docs/evaluate/index</a>). That is, participants can either upload their models to Hugging Face or send us their models so we can compare them neutrally using the Python-based Evaluate library. The participating systems will be evaluated based on the standard metrics precision, recall, and f-measure.
+
+          Links to the Eval Scripts: TBA
+          </div>
         </div>
+        <!--<div class="ui padded basic segment" id="evaluation">
 
-
-        <div class="ui padded basic segment" id="evaluation">
-
-          <!--          <h2 class="ui header"><span id="funny">༼ つ ◕_◕ ༽つ</span></h2>-->
           <h2 class="ui header">Evaluation Metrics</h2>
           <div id="evaluation-metrics-desc">
             <h3>Task 1: Answer Type Prediction</h3>
@@ -1096,11 +1083,12 @@ systems will get the opportunity to show their results during the ISWC 2022
 poster and demo session.</p>
           </div>
         </div>
-
+-->
         <!-- Leaderboard -->
         <div class="ui basic padded segment" id="dates">
 
           <h2 class="ui header">Important Dates</h2>
+          The tentative timeline template for the Scholarly QALD Challenge is as follows. All deadlines are 23:59 AoE (anywhere on earth).
           <table class="ui celled unstackable table">
             <thead>
             <tr>
@@ -1111,50 +1099,50 @@ poster and demo session.</p>
             <tbody>
             <tr>
               <td class="left aligned">
-                30th May 2022
+                2023-03-16
               </td>
               <td class="left aligned">
-                Release of the training set.
-              </td>
-            </tr>
-            <tr>
-              <td class="left aligned">
-                14th of June 2022
-              </td>
-              <td class="left aligned">
-                Release of the test set.
+                Website & first call for participation (https://www.nliwod.org/) 
               </td>
             </tr>
             <tr>
               <td class="left aligned">
-                16th of September 2022
+                2023-06-28
               </td>
               <td class="left aligned">
-                Submission of system output.
-              </td>
-            </tr>
-            <tr>
-              <td class="left aligned">
-                TBD
-              </td>
-              <td class="left aligned">
-                Publication of results. System description submission. 
+                Submission of Systems via HF evaluate and easychair 
               </td>
             </tr>
             <tr>
               <td class="left aligned">
-                23rd-27th October 2022
+                2023-07-19
               </td>
               <td class="left aligned">
-                ISWC Conference, Visit <a href="https://iswc2023.semanticweb.org/"> iswc2023.semanticweb.org</a>
+                All System Results and Notification of Acceptance
               </td>
             </tr>
-	    <tr>
+            <tr>
               <td class="left aligned">
-                TBD
+                TBA
               </td>
               <td class="left aligned">
                 Camera-ready submission.
+              </td>
+            </tr>
+            <tr>
+              <td class="left aligned">
+                TBA
+              </td>
+              <td class="left aligned">
+                Publication of results. 
+              </td>
+            </tr>
+            <tr>
+              <td class="left aligned">
+                6th to 10th November 2023
+              </td>
+              <td class="left aligned">
+                ISWC Conference, Visit <a href="https://iswc2023.semanticweb.org/"> iswc2023.semanticweb.org</a>
               </td>
             </tr>
             </tbody>
@@ -1174,6 +1162,30 @@ poster and demo session.</p>
           <div class="ui five doubling link cards">
 
             <div class="card">
+              <a class="image" href="https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/debayan-banerjee.html">
+                <img src="static/imgs/debayan.jpeg">
+              </a>
+              <div class="content">
+                <a class="header" href="https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/debayan-banerjee.html">Debayan Banerjee</a>
+                <div class="meta">
+                  <a>PhD Student, Universität Hamburg</a>
+                </div>
+              </div>
+            </div> 
+
+            <div class="card">
+              <a class="image" href="NN">
+                <img src="static/imgs/NN.jpeg">
+              </a>
+              <div class="content">
+                <a class="header" href="NN">Sushil Awale</a>
+                <div class="meta">
+                  <a>PhD Student, Universität Hannover</a>
+                </div>
+              </div>
+            </div> 
+
+            <div class="card">
               <a class="image" href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-NANDANA.SAMPATH.MIHINDUKULASOORIYA">
                 <img src="static/imgs/nandana.png">
               </a>
@@ -1186,29 +1198,41 @@ poster and demo session.</p>
             </div>
 
             <div class="card">
-              <a class="image" href="http://aksw.org/RicardoUsbeck.html">
+              <a class="image" href="https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/data-science-digital-libraries/mitarbeiterinnen-und-mitarbeiter/soeren-auer">
+                <img src="static/imgs/NN.jpg">
+              </a>
+              <div class="content">
+                <a class="header" href="https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/data-science-digital-libraries/mitarbeiterinnen-und-mitarbeiter/soeren-auer">Sören Auer</a>
+                <div class="meta">
+                  <a> Professor, University of Hannover / TIB Hannover</a>
+                </div>
+              </div>
+            </div>
+          
+
+            <div class="card">
+              <a class="image" href="NN">
+                <img src="static/imgs/NN.jpeg">
+              </a>
+              <div class="content">
+                <a class="header" href="NN">Tilahun Abedissa</a>
+                <div class="meta">
+                  <a>PhD Student, University of Hamburg</a>
+                </div>
+              </div>
+            </div> 
+
+            <div class="card">
+              <a class="image" href="https://www.inf.uni-hamburg.de/sems">
                 <img src="static/imgs/ricardo.jpg">
               </a>
               <div class="content">
-                <a class="header" href="http://aksw.org/RicardoUsbeck.html">Ricardo Usbeck</a>
+                <a class="header" href="https://www.inf.uni-hamburg.de/sems">Ricardo Usbeck</a>
                 <div class="meta">
                   <a>Junior Professor, University of Hamburg</a>
                 </div>
               </div>
             </div>
-
-            <div class="card">
-              <a class="image" href="https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/debayan-banerjee.html">
-                <img src="static/imgs/debayan.jpeg">
-              </a>
-              <div class="content">
-                <a class="header" href="https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/debayan-banerjee.html">Debayan Banerjee</a>
-                <div class="meta">
-                  <a>PhD Student, Universität Hamburg</a>
-                </div>
-              </div>
-            </div>
-
           </div>
         </div>
 
@@ -1251,9 +1275,15 @@ poster and demo session.</p>
 
           <div class="ui centered two column wide grid">
 
+          <div class="center aligned column" id="sda">
+            <a href="https://www.nfdi4datascience.de/" class="ui centered medium image">
+              <img src="static/imgs/nfdi4ds.png" >
+            </a>
+            </div>
+
             <div class="center aligned column" id="ibm">
             <a class="ui centered medium image" style="vertical-align: middle;">
-              <img src="static/imgs/ibm_logo.png">
+              <img src="static/imgs/ibm_logo.png" >
             </a>
             </div>
 
@@ -1262,6 +1292,8 @@ poster and demo session.</p>
               <img src="static/imgs/sems.png">
             </a>
             </div>
+
+          
 
           </div>
 
