@@ -17,7 +17,7 @@ The 100 hand-crafted questions are significantly more complex to answer than typ
 
 The corresponding SPARQL query includes seven triple patterns, uses eight query components, and is shaped as a tree
 
-In addition to the 100 hand-crafted questions, we will provide a set of more than 2,000 questions generated from 10 question/query templates to ensure a good balance between question complexity and wider coverage.
+In addition to the 100 hand-crafted questions, we will provide a set of more than 2,000 questions generated from 8 question/query templates to ensure a good balance between question complexity and wider coverage.
 
 
 ### Task 2: DBLP-QUAD --- Knowledge Graph Question Answering over DBLP
