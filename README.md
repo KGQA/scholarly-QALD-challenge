@@ -6,7 +6,7 @@ Website for the scholarly QALD Challenge @ ISWC 2023
 ### Task 1: SciQA --- Question Answering of Scholarly Knowledge
 
 This new task introduced this year will use a scholarly data source ORKG (https://orkg.org) as a target repository for answering comparative questions. KGQA benchmarks and systems were so far mainly geared towards encyclopedic knowledge graphs such as DBpedia and Wikidata.
-In this task, we will leverage a novel QA benchmark for scholarly knowledge -- *SciQA* (https://zenodo.org/record/7727922). 
+In this task, we will leverage a novel QA benchmark for scholarly knowledge -- *SciQA* (https://zenodo.org/record/7744048). 
 The benchmark leverages the Open Research Knowledge Graph (ORKG) which includes over 100,000 resources describing complex research contributions.
 Following a bottom-up methodology, we manually developed a set of 100 questions that can be answered using this knowledge graph. 
 The questions cover a wide range of research fields and question types and are translated into SPARQL queries over the knowledge graph. 

@@ -934,7 +934,7 @@ LC-QuAD
           <h3>Task 1: SciQA — Question Answering of Scholarly Knowledge</h3>
           <div id="dataset-desc">
             <p>This new task introduced this year will use a scholarly data source <a href="https://orkg.org">ORKG</a> as a target repository for answering comparative questions. KGQA benchmarks and systems were so far mainly geared towards encyclopedic knowledge graphs such as DBpedia and Wikidata. </p>
-            <p>In this task, we will leverage a novel QA benchmark for scholarly knowledge – SciQA (<a href="https://zenodo.org/record/7729047">https://zenodo.org/record/7729047</a>). The benchmark leverages the Open Research Knowledge Graph (ORKG) which includes over 100,000 resources describing complex research contributions. Following a bottom-up methodology, we manually developed a set of 100 questions that can be answered using this knowledge graph. The questions cover a wide range of research fields and question types and are translated into SPARQL queries over the knowledge graph. </p>
+            <p>In this task, we will leverage a novel QA benchmark for scholarly knowledge – SciQA (<a href="https://zenodo.org/record/7744048">https://zenodo.org/record/7744048</a>), see also <a href="https://huggingface.co/datasets/orkg/SciQA">https://huggingface.co/datasets/orkg/SciQA</a>. The benchmark leverages the Open Research Knowledge Graph (ORKG) which includes over 100,000 resources describing complex research contributions. Following a bottom-up methodology, we manually developed a set of 100 questions that can be answered using this knowledge graph. The questions cover a wide range of research fields and question types and are translated into SPARQL queries over the knowledge graph. </p>
             <p>The SciQA benchmark represents an extremely challenging task for next-generation QA systems. The 100 hand-crafted questions are significantly more complex to answer than typical common-sense questions.</p>
             <p>An example question is:
               What is the average energy generation for each energy source considered in 5-year intervals in Greenhouse Gas Reduction Scenarios for Germany?
@@ -945,38 +945,15 @@ LC-QuAD
             <p>In addition to the 100 hand-crafted questions, we will provide a set of more than 2,000 questions generated from 10 question/query templates to ensure a good balance between question complexity and wider coverage.</p>            
 
         <pre style="background-color: seashell"><code>
-  47  "Life Sciences ->
-Microbiology ->
-Virology" "Factoid
-Count"  "chain
-" "SELECT
-AVG
-WHERE
-BIND" 3 comparison-based  WHICH-WHAT  R44930  What is the mean basic reproductive number in the COVID studies?  What is the average reproductive number for studies?  What is the average reproductive number in "COVID-19 Reproductive Number Estimates"?  "SELECT (AVG(?reproductive_number) AS ?average_reproductive_number)
-WHERE {
-  orkgr:R44930 orkgp:compareContribution ?contrib.
-  ?contrib o:basic_reproduction_number ?basic_reproductive_number.
-  ?basic_reproductive_number o:has_value ?value
-  BIND(xsd:float(?value) AS ?reproductive_number)
-}"  "SELECT (AVG(?reproductive_number) AS ?average_reproductive_number)
-WHERE {
-  orkgr:R44930 orkgp:compareContribution ?contrib.
-  ?contrib orkgp:basicReproductionNumber ?basic_reproductive_number.
-  ?basic_reproductive_number orkgp:hasValue ?value
-  BIND(xsd:float(?value) AS ?reproductive_number)
-}"  "SELECT (AVG(?reproductive_number) AS ?average_reproductive_number)
-WHERE {
-  orkgr:R44930 orkgp:compareContribution ?contrib.
-  ?contrib orkgp:basicReproductionNumber ?basic_reproductive_number.
-  ?basic_reproductive_number orkgp:hasValue ?value
-  BIND(xsd:float(?value) AS ?reproductive_number)
-}"  3.020645137756102 #N/A  "SELECT (AVG(?reproductive_number) AS ?average_reproductive_number)
-WHERE {
-  orkgr:R44930 orkgp:compareContribution ?contrib.
-  ?contrib orkgp:P23140 ?basic_reproductive_number.
-  ?basic_reproductive_number orkgp:HAS_VALUE ?value
-  BIND(xsd:float(?value) AS ?reproductive_number)
-}"
+"Factoid"
+{ "string": "Provide a list of papers that have utilized the Depth DDPPO model and include the links to their code?" }
+[]
+{ "sparql": "SELECT DISTINCT ?code WHERE {  ?modela  orkgc:Model;rdfs:label?model_lbl. FILTER (str(?model_lbl) = \"Depth DDPPO\")  ?benchmark  orkgp:HAS_DATASET?dataset.  ?cont   orkgp:HAS_BENCHMARK  ?benchmark.  ?cont   orkgp:HAS_MODEL  ?model;  orkgp:HAS_SOURCE_CODE?code.}" }
+"T07"
+true
+"Tree"
+"WHICH-WHAT"
+4 
         </code></pre>
 </div>
             <h3>Task 2: DBLP-QUAD — Knowledge Graph Question Answering over DBLP</h3>
@@ -1196,7 +1173,6 @@ poster and demo session.</p>
                 </div>
               </div>
             </div>
-
             <div class="card">
               <a class="image" href="https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/data-science-digital-libraries/mitarbeiterinnen-und-mitarbeiter/soeren-auer">
                 <img src="static/imgs/NN.jpg">
@@ -1208,8 +1184,17 @@ poster and demo session.</p>
                 </div>
               </div>
             </div>
-          
-
+            <div class="card">
+              <a class="image" href="https://www.tib.eu/en/research-development/research-groups-and-labs/data-science-digital-libraries/staff/mohamad-yaser-jaradeh">
+                <img src="static/imgs/yaser.jpg">
+              </a>
+              <div class="content">
+                <a class="header" href="https://www.tib.eu/en/research-development/research-groups-and-labs/data-science-digital-libraries/staff/mohamad-yaser-jaradeh">Yaser Jaradeh</a>
+                <div class="meta">
+                  <a>Postdoctoral Researcher, L3S Research Center</a>
+                </div>
+              </div>
+            </div>
             <div class="card">
               <a class="image" href="NN">
                 <img src="static/imgs/NN.jpeg">
