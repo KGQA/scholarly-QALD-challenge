@@ -10,7 +10,9 @@ d = json.loads(open(sys.argv[2]).read())
 newarr = []
 for item in d:
     citem = copy.deepcopy(item)
-    if item['id'] in sepidxs:
+    if type(citem['answer']) is not list:
+        citem['answer'] = [citem['answer']]
+    elif item['id'] in sepidxs:
         print(item)
         newans = []
         for ans in item['answer']:

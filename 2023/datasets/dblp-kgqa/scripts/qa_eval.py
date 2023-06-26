@@ -9,7 +9,7 @@ def load_gold_stardard(gold_path):
     with open(gold_path) as json_file:
         data = json.load(json_file)
     for ques in data:
-        gold_answers[ques['id']] = ques['entities']
+        gold_answers[ques['id']] = ques['answer']
     print(f"\tgold answers: loaded {len(data)} questions!")
     return gold_answers
 
@@ -19,10 +19,10 @@ def load_system_answers(system_path):
     with open(system_path) as json_file:
         data = json.load(json_file)
     for ques in data:
-        if 'entities' in ques:
-            system_answers[ques['id']] = ques['entities']
+        if 'answer' in ques:
+            system_answers[ques['id']] = ques['answer']
         else:
-            print(f"Missing entities: {ques['id']}")
+            print(f"Missing questions: {ques['id']}")
     print(f"\tsystem answers: loaded {len(data)} questions!")
     return system_answers
 
@@ -35,7 +35,7 @@ def evaluate_dblp(gold_answers, system_answers):
         if ques_id not in system_answers:
             system_answer_set = set([])        
         else:
-            system_answer_set= set(system_answers[ques_id])
+            system_answer_set = set(system_answers[ques_id])
         for sysans in system_answer_set:
             if sysans in gold_answer_set:
                 true_p += 1
