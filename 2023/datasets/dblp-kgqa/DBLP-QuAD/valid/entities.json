@@ -1,0 +1,6359 @@
+[
+    {
+        "id": "Q0001",
+        "entities": [
+            "<https://dblp.org/pid/50/671-33>"
+        ]
+    },
+    {
+        "id": "Q0002",
+        "entities": [
+            "<https://dblp.org/pid/k/AngelaKunoth>"
+        ]
+    },
+    {
+        "id": "Q0003",
+        "entities": [
+            "<https://dblp.org/pid/64/6025-131>"
+        ]
+    },
+    {
+        "id": "Q0004",
+        "entities": [
+            "<https://dblp.org/pid/204/5989>"
+        ]
+    },
+    {
+        "id": "Q0005",
+        "entities": [
+            "<https://dblp.org/pid/p/AtulPrakash>"
+        ]
+    },
+    {
+        "id": "Q0006",
+        "entities": [
+            "<https://dblp.org/pid/25/195>"
+        ]
+    },
+    {
+        "id": "Q0007",
+        "entities": [
+            "<https://dblp.org/pid/92/309-1>"
+        ]
+    },
+    {
+        "id": "Q0008",
+        "entities": [
+            "<https://dblp.org/pid/35/6385>"
+        ]
+    },
+    {
+        "id": "Q0009",
+        "entities": [
+            "<https://dblp.org/pid/19/2384>"
+        ]
+    },
+    {
+        "id": "Q0010",
+        "entities": [
+            "<https://dblp.org/pid/85/1892>"
+        ]
+    },
+    {
+        "id": "Q0011",
+        "entities": [
+            "<https://dblp.org/pid/08/464>"
+        ]
+    },
+    {
+        "id": "Q0012",
+        "entities": [
+            "<https://dblp.org/pid/68/6676>"
+        ]
+    },
+    {
+        "id": "Q0013",
+        "entities": [
+            "<https://dblp.org/pid/02/836>"
+        ]
+    },
+    {
+        "id": "Q0014",
+        "entities": [
+            "<https://dblp.org/pid/162/7108>"
+        ]
+    },
+    {
+        "id": "Q0015",
+        "entities": [
+            "<https://dblp.org/pid/80/2440>"
+        ]
+    },
+    {
+        "id": "Q0016",
+        "entities": [
+            "<https://dblp.org/pid/21/6894>"
+        ]
+    },
+    {
+        "id": "Q0017",
+        "entities": [
+            "<https://dblp.org/pid/69/3369-1>"
+        ]
+    },
+    {
+        "id": "Q0018",
+        "entities": [
+            "<https://dblp.org/pid/48/2807>"
+        ]
+    },
+    {
+        "id": "Q0019",
+        "entities": [
+            "<https://dblp.org/pid/154/5884>"
+        ]
+    },
+    {
+        "id": "Q0020",
+        "entities": [
+            "<https://dblp.org/pid/c/AmandaClare>"
+        ]
+    },
+    {
+        "id": "Q0021",
+        "entities": [
+            "<https://dblp.org/pid/42/4663>"
+        ]
+    },
+    {
+        "id": "Q0022",
+        "entities": [
+            "<https://dblp.org/pid/31/4524>"
+        ]
+    },
+    {
+        "id": "Q0023",
+        "entities": [
+            "<https://dblp.org/pid/182/2008>"
+        ]
+    },
+    {
+        "id": "Q0024",
+        "entities": [
+            "<https://dblp.org/pid/93/4847-1>"
+        ]
+    },
+    {
+        "id": "Q0025",
+        "entities": [
+            "<https://dblp.org/pid/61/4627>"
+        ]
+    },
+    {
+        "id": "Q0026",
+        "entities": [
+            "<https://dblp.org/pid/w/JWoodcock>"
+        ]
+    },
+    {
+        "id": "Q0027",
+        "entities": [
+            "<https://dblp.org/pid/23/3153>"
+        ]
+    },
+    {
+        "id": "Q0028",
+        "entities": [
+            "<https://dblp.org/pid/80/5837>"
+        ]
+    },
+    {
+        "id": "Q0029",
+        "entities": [
+            "<https://dblp.org/pid/219/0444>"
+        ]
+    },
+    {
+        "id": "Q0030",
+        "entities": [
+            "<https://dblp.org/pid/24/1012>"
+        ]
+    },
+    {
+        "id": "Q0031",
+        "entities": [
+            "<https://dblp.org/pid/30/1750>"
+        ]
+    },
+    {
+        "id": "Q0032",
+        "entities": [
+            "<https://dblp.org/pid/l/StefanoLonardi>"
+        ]
+    },
+    {
+        "id": "Q0033",
+        "entities": [
+            "<https://dblp.org/pid/84/4770-3>"
+        ]
+    },
+    {
+        "id": "Q0034",
+        "entities": [
+            "<https://dblp.org/pid/77/9136>"
+        ]
+    },
+    {
+        "id": "Q0035",
+        "entities": [
+            "<https://dblp.org/pid/h/ShiMinHu>"
+        ]
+    },
+    {
+        "id": "Q0036",
+        "entities": [
+            "<https://dblp.org/pid/23/7612>"
+        ]
+    },
+    {
+        "id": "Q0037",
+        "entities": [
+            "<https://dblp.org/pid/47/9624>"
+        ]
+    },
+    {
+        "id": "Q0038",
+        "entities": [
+            "<https://dblp.org/pid/98/7475>"
+        ]
+    },
+    {
+        "id": "Q0039",
+        "entities": [
+            "<https://dblp.org/pid/32/3820>"
+        ]
+    },
+    {
+        "id": "Q0040",
+        "entities": [
+            "<https://dblp.org/pid/21/9301>"
+        ]
+    },
+    {
+        "id": "Q0041",
+        "entities": [
+            "<https://dblp.org/pid/28/881>"
+        ]
+    },
+    {
+        "id": "Q0042",
+        "entities": [
+            "<https://dblp.org/pid/l/DongHoonLee>"
+        ]
+    },
+    {
+        "id": "Q0043",
+        "entities": [
+            "<https://dblp.org/pid/88/4076>"
+        ]
+    },
+    {
+        "id": "Q0044",
+        "entities": [
+            "<https://dblp.org/pid/71/1544>"
+        ]
+    },
+    {
+        "id": "Q0045",
+        "entities": [
+            "<https://dblp.org/pid/30/1545>"
+        ]
+    },
+    {
+        "id": "Q0046",
+        "entities": [
+            "<https://dblp.org/pid/15/9903>"
+        ]
+    },
+    {
+        "id": "Q0047",
+        "entities": [
+            "<https://dblp.org/pid/81/1168>"
+        ]
+    },
+    {
+        "id": "Q0048",
+        "entities": [
+            "<https://dblp.org/pid/14/2324>"
+        ]
+    },
+    {
+        "id": "Q0049",
+        "entities": [
+            "<https://dblp.org/pid/01/1573>"
+        ]
+    },
+    {
+        "id": "Q0050",
+        "entities": [
+            "<https://dblp.org/pid/199/0460>"
+        ]
+    },
+    {
+        "id": "Q0051",
+        "entities": [
+            "<https://dblp.org/pid/08/933>"
+        ]
+    },
+    {
+        "id": "Q0052",
+        "entities": [
+            "<https://dblp.org/pid/161/1910>",
+            "<https://dblp.org/pid/94/9264>"
+        ]
+    },
+    {
+        "id": "Q0053",
+        "entities": [
+            "<https://dblp.org/pid/65/4419>",
+            "<https://dblp.org/pid/25/2752>"
+        ]
+    },
+    {
+        "id": "Q0054",
+        "entities": [
+            "<https://dblp.org/pid/37/2005-2>"
+        ]
+    },
+    {
+        "id": "Q0055",
+        "entities": [
+            "<https://dblp.org/pid/58/5405>",
+            "<https://dblp.org/pid/94/6881>"
+        ]
+    },
+    {
+        "id": "Q0056",
+        "entities": [
+            "<https://dblp.org/pid/83/1655>"
+        ]
+    },
+    {
+        "id": "Q0057",
+        "entities": [
+            "<https://dblp.org/pid/239/1453>",
+            "<https://dblp.org/pid/51/7027>"
+        ]
+    },
+    {
+        "id": "Q0058",
+        "entities": [
+            "<https://dblp.org/pid/26/7051>"
+        ]
+    },
+    {
+        "id": "Q0059",
+        "entities": [
+            "<https://dblp.org/pid/46/2600>",
+            "<https://dblp.org/pid/42/2656>"
+        ]
+    },
+    {
+        "id": "Q0060",
+        "entities": [
+            "<https://dblp.org/pid/35/2520>"
+        ]
+    },
+    {
+        "id": "Q0061",
+        "entities": [
+            "<https://dblp.org/pid/52/563>"
+        ]
+    },
+    {
+        "id": "Q0062",
+        "entities": [
+            "<https://dblp.org/pid/79/2005>"
+        ]
+    },
+    {
+        "id": "Q0063",
+        "entities": [
+            "<https://dblp.org/pid/158/3877>"
+        ]
+    },
+    {
+        "id": "Q0064",
+        "entities": [
+            "<https://dblp.org/pid/94/3924>"
+        ]
+    },
+    {
+        "id": "Q0065",
+        "entities": [
+            "<https://dblp.org/pid/147/0758>",
+            "<https://dblp.org/pid/91/9548>"
+        ]
+    },
+    {
+        "id": "Q0066",
+        "entities": [
+            "<https://dblp.org/pid/75/1693-2>"
+        ]
+    },
+    {
+        "id": "Q0067",
+        "entities": [
+            "<https://dblp.org/pid/38/6524>"
+        ]
+    },
+    {
+        "id": "Q0068",
+        "entities": [
+            "<https://dblp.org/pid/191/4405>"
+        ]
+    },
+    {
+        "id": "Q0069",
+        "entities": [
+            "<https://dblp.org/pid/54/4737>",
+            "<https://dblp.org/pid/78/9877>"
+        ]
+    },
+    {
+        "id": "Q0070",
+        "entities": [
+            "<https://dblp.org/pid/239/2014>"
+        ]
+    },
+    {
+        "id": "Q0071",
+        "entities": [
+            "<https://dblp.org/pid/271/5810>"
+        ]
+    },
+    {
+        "id": "Q0072",
+        "entities": [
+            "<https://dblp.org/pid/13/6125>",
+            "<https://dblp.org/pid/a/JakeKAggarwal>"
+        ]
+    },
+    {
+        "id": "Q0073",
+        "entities": [
+            "<https://dblp.org/pid/78/849>"
+        ]
+    },
+    {
+        "id": "Q0074",
+        "entities": [
+            "<https://dblp.org/pid/50/6948>"
+        ]
+    },
+    {
+        "id": "Q0075",
+        "entities": [
+            "<https://dblp.org/pid/137/5475>",
+            "<https://dblp.org/pid/a/EMAboulhamid>"
+        ]
+    },
+    {
+        "id": "Q0076",
+        "entities": [
+            "<https://dblp.org/pid/71/4369>",
+            "<https://dblp.org/pid/256/9311>"
+        ]
+    },
+    {
+        "id": "Q0077",
+        "entities": [
+            "<https://dblp.org/pid/26/379>",
+            "<https://dblp.org/pid/55/4341>"
+        ]
+    },
+    {
+        "id": "Q0078",
+        "entities": [
+            "<https://dblp.org/pid/93/2940-1>"
+        ]
+    },
+    {
+        "id": "Q0079",
+        "entities": [
+            "<https://dblp.org/pid/b/StefanBrecheisen>"
+        ]
+    },
+    {
+        "id": "Q0080",
+        "entities": [
+            "<https://dblp.org/pid/l/AlessandraLumini>",
+            "<https://dblp.org/pid/84/6755>"
+        ]
+    },
+    {
+        "id": "Q0081",
+        "entities": [
+            "<https://dblp.org/pid/160/6284>"
+        ]
+    },
+    {
+        "id": "Q0082",
+        "entities": [
+            "<https://dblp.org/pid/57/1667-1>"
+        ]
+    },
+    {
+        "id": "Q0083",
+        "entities": [
+            "<https://dblp.org/pid/05/6574>"
+        ]
+    },
+    {
+        "id": "Q0084",
+        "entities": [
+            "<https://dblp.org/pid/26/3278>"
+        ]
+    },
+    {
+        "id": "Q0085",
+        "entities": [
+            "<https://dblp.org/pid/158/7936>"
+        ]
+    },
+    {
+        "id": "Q0086",
+        "entities": [
+            "<https://dblp.org/pid/27/2688>"
+        ]
+    },
+    {
+        "id": "Q0087",
+        "entities": [
+            "<https://dblp.org/pid/h/AnnikaHinze>"
+        ]
+    },
+    {
+        "id": "Q0088",
+        "entities": [
+            "<https://dblp.org/pid/08/2220>"
+        ]
+    },
+    {
+        "id": "Q0089",
+        "entities": [
+            "<https://dblp.org/pid/201/9287>"
+        ]
+    },
+    {
+        "id": "Q0090",
+        "entities": [
+            "<https://dblp.org/pid/79/473-3>"
+        ]
+    },
+    {
+        "id": "Q0091",
+        "entities": [
+            "<https://dblp.org/pid/228/9628>",
+            "<https://dblp.org/pid/98/201>"
+        ]
+    },
+    {
+        "id": "Q0092",
+        "entities": [
+            "<https://dblp.org/pid/77/11220>"
+        ]
+    },
+    {
+        "id": "Q0093",
+        "entities": [
+            "<https://dblp.org/pid/81/4023>"
+        ]
+    },
+    {
+        "id": "Q0094",
+        "entities": [
+            "<https://dblp.org/pid/202/3924>"
+        ]
+    },
+    {
+        "id": "Q0095",
+        "entities": [
+            "<https://dblp.org/pid/07/4982>",
+            "<https://dblp.org/pid/53/4111>"
+        ]
+    },
+    {
+        "id": "Q0096",
+        "entities": [
+            "<https://dblp.org/pid/87/4229>",
+            "<https://dblp.org/pid/41/3206>"
+        ]
+    },
+    {
+        "id": "Q0097",
+        "entities": [
+            "<https://dblp.org/pid/240/9193>",
+            "<https://dblp.org/pid/210/0898>"
+        ]
+    },
+    {
+        "id": "Q0098",
+        "entities": [
+            "<https://dblp.org/pid/53/4232>",
+            "<https://dblp.org/pid/77/3833>"
+        ]
+    },
+    {
+        "id": "Q0099",
+        "entities": [
+            "<https://dblp.org/pid/53/2189-22>"
+        ]
+    },
+    {
+        "id": "Q0100",
+        "entities": [
+            "<https://dblp.org/pid/116/5022>",
+            "<https://dblp.org/pid/27/4833>"
+        ]
+    },
+    {
+        "id": "Q0101",
+        "entities": [
+            "<https://dblp.org/pid/10/9006>"
+        ]
+    },
+    {
+        "id": "Q0102",
+        "entities": [
+            "<https://dblp.org/pid/s/KhaledSalah>"
+        ]
+    },
+    {
+        "id": "Q0103",
+        "entities": [
+            "<https://dblp.org/pid/57/2296>"
+        ]
+    },
+    {
+        "id": "Q0104",
+        "entities": [
+            "<https://dblp.org/pid/277/2308-2>"
+        ]
+    },
+    {
+        "id": "Q0105",
+        "entities": [
+            "<https://dblp.org/pid/a/BaruchAwerbuch>"
+        ]
+    },
+    {
+        "id": "Q0106",
+        "entities": [
+            "<https://dblp.org/pid/194/6772>"
+        ]
+    },
+    {
+        "id": "Q0107",
+        "entities": [
+            "<https://dblp.org/pid/204/4000>"
+        ]
+    },
+    {
+        "id": "Q0108",
+        "entities": [
+            "<https://dblp.org/pid/133/9302>"
+        ]
+    },
+    {
+        "id": "Q0109",
+        "entities": [
+            "<https://dblp.org/pid/91/6236-1>"
+        ]
+    },
+    {
+        "id": "Q0110",
+        "entities": [
+            "<https://dblp.org/pid/83/3109>"
+        ]
+    },
+    {
+        "id": "Q0111",
+        "entities": [
+            "<https://dblp.org/pid/95/4334>"
+        ]
+    },
+    {
+        "id": "Q0112",
+        "entities": [
+            "<https://dblp.org/pid/k/PrzemyslawKazienko>"
+        ]
+    },
+    {
+        "id": "Q0113",
+        "entities": [
+            "<https://dblp.org/pid/178/0492>"
+        ]
+    },
+    {
+        "id": "Q0114",
+        "entities": [
+            "<https://dblp.org/pid/57/1667-1>"
+        ]
+    },
+    {
+        "id": "Q0115",
+        "entities": [
+            "<https://dblp.org/pid/18/6454>"
+        ]
+    },
+    {
+        "id": "Q0116",
+        "entities": [
+            "<https://dblp.org/pid/44/2139-6>"
+        ]
+    },
+    {
+        "id": "Q0117",
+        "entities": [
+            "<https://dblp.org/pid/35/1769>"
+        ]
+    },
+    {
+        "id": "Q0118",
+        "entities": [
+            "<https://dblp.org/pid/195/1375>"
+        ]
+    },
+    {
+        "id": "Q0119",
+        "entities": [
+            "<https://dblp.org/pid/177/8072>"
+        ]
+    },
+    {
+        "id": "Q0120",
+        "entities": [
+            "<https://dblp.org/pid/308/7319>"
+        ]
+    },
+    {
+        "id": "Q0121",
+        "entities": [
+            "<https://dblp.org/pid/24/6170>"
+        ]
+    },
+    {
+        "id": "Q0122",
+        "entities": [
+            "<https://dblp.org/pid/69/7040>"
+        ]
+    },
+    {
+        "id": "Q0123",
+        "entities": [
+            "<https://dblp.org/pid/05/5400>"
+        ]
+    },
+    {
+        "id": "Q0124",
+        "entities": [
+            "<https://dblp.org/pid/194/5506>"
+        ]
+    },
+    {
+        "id": "Q0125",
+        "entities": [
+            "<https://dblp.org/pid/27/10487-2>"
+        ]
+    },
+    {
+        "id": "Q0126",
+        "entities": [
+            "<https://dblp.org/pid/232/9630>"
+        ]
+    },
+    {
+        "id": "Q0127",
+        "entities": [
+            "<https://dblp.org/pid/16/3283>"
+        ]
+    },
+    {
+        "id": "Q0128",
+        "entities": [
+            "<https://dblp.org/pid/91/103>"
+        ]
+    },
+    {
+        "id": "Q0129",
+        "entities": [
+            "<https://dblp.org/pid/52/8559>"
+        ]
+    },
+    {
+        "id": "Q0130",
+        "entities": [
+            "<https://dblp.org/pid/94/2690>"
+        ]
+    },
+    {
+        "id": "Q0131",
+        "entities": [
+            "<https://dblp.org/pid/10/7999>"
+        ]
+    },
+    {
+        "id": "Q0132",
+        "entities": [
+            "<https://dblp.org/pid/67/3069>"
+        ]
+    },
+    {
+        "id": "Q0133",
+        "entities": [
+            "<https://dblp.org/pid/69/4019>"
+        ]
+    },
+    {
+        "id": "Q0134",
+        "entities": [
+            "<https://dblp.org/pid/94/4896>"
+        ]
+    },
+    {
+        "id": "Q0135",
+        "entities": [
+            "<https://dblp.org/pid/84/1682>"
+        ]
+    },
+    {
+        "id": "Q0136",
+        "entities": [
+            "<https://dblp.org/pid/84/1582>"
+        ]
+    },
+    {
+        "id": "Q0137",
+        "entities": [
+            "<https://dblp.org/pid/96/1149>"
+        ]
+    },
+    {
+        "id": "Q0138",
+        "entities": [
+            "<https://dblp.org/pid/119/4153>"
+        ]
+    },
+    {
+        "id": "Q0139",
+        "entities": [
+            "<https://dblp.org/pid/20/2039-11>"
+        ]
+    },
+    {
+        "id": "Q0140",
+        "entities": [
+            "<https://dblp.org/pid/152/9617>"
+        ]
+    },
+    {
+        "id": "Q0141",
+        "entities": [
+            "<https://dblp.org/pid/h/JinKaoHao>"
+        ]
+    },
+    {
+        "id": "Q0142",
+        "entities": [
+            "<https://dblp.org/pid/72/1797>"
+        ]
+    },
+    {
+        "id": "Q0143",
+        "entities": [
+            "<https://dblp.org/pid/61/5185>"
+        ]
+    },
+    {
+        "id": "Q0144",
+        "entities": [
+            "<https://dblp.org/pid/46/2802>"
+        ]
+    },
+    {
+        "id": "Q0145",
+        "entities": [
+            "<https://dblp.org/pid/69/8720>"
+        ]
+    },
+    {
+        "id": "Q0146",
+        "entities": [
+            "<https://dblp.org/pid/83/10657>"
+        ]
+    },
+    {
+        "id": "Q0147",
+        "entities": [
+            "<https://dblp.org/pid/92/1053>"
+        ]
+    },
+    {
+        "id": "Q0148",
+        "entities": [
+            "<https://dblp.org/pid/59/8926>"
+        ]
+    },
+    {
+        "id": "Q0149",
+        "entities": [
+            "<https://dblp.org/pid/65/7032>"
+        ]
+    },
+    {
+        "id": "Q0150",
+        "entities": [
+            "<https://dblp.org/pid/63/6576>"
+        ]
+    },
+    {
+        "id": "Q0151",
+        "entities": [
+            "<https://dblp.org/pid/06/2111>",
+            "<https://dblp.org/pid/76/6752>",
+            "<https://dblp.org/rec/journals/ijse/Proudfoot14>"
+        ]
+    },
+    {
+        "id": "Q0152",
+        "entities": [
+            "<https://dblp.org/pid/89/5922>",
+            "<https://dblp.org/rec/conf/compsac/KumagaiKI97>"
+        ]
+    },
+    {
+        "id": "Q0153",
+        "entities": [
+            "<https://dblp.org/pid/217/3448>"
+        ]
+    },
+    {
+        "id": "Q0154",
+        "entities": [
+            "<https://dblp.org/pid/155/1892>",
+            "<https://dblp.org/rec/journals/corr/LafondVB17>"
+        ]
+    },
+    {
+        "id": "Q0155",
+        "entities": [
+            "<https://dblp.org/pid/214/9710>"
+        ]
+    },
+    {
+        "id": "Q0156",
+        "entities": [
+            "<https://dblp.org/pid/20/4627-1>",
+            "<https://dblp.org/rec/conf/iconip/ZhaoCCZP09>"
+        ]
+    },
+    {
+        "id": "Q0157",
+        "entities": [
+            "<https://dblp.org/pid/116/5433>",
+            "<https://dblp.org/rec/conf/ranlp/CheriB15>"
+        ]
+    },
+    {
+        "id": "Q0158",
+        "entities": [
+            "<https://dblp.org/pid/w/AWinkelmann>",
+            "<https://dblp.org/rec/conf/wirtschaftsinformatik/NeussPHW19>"
+        ]
+    },
+    {
+        "id": "Q0159",
+        "entities": [
+            "<https://dblp.org/pid/65/5662>",
+            "<https://dblp.org/rec/journals/twc/TakanoSJM18>"
+        ]
+    },
+    {
+        "id": "Q0160",
+        "entities": [
+            "<https://dblp.org/pid/66/4132>",
+            "<https://dblp.org/rec/conf/ic-nc/Koibuchi13>"
+        ]
+    },
+    {
+        "id": "Q0161",
+        "entities": [
+            "<https://dblp.org/pid/61/121>",
+            "<https://dblp.org/rec/journals/corr/abs-2011-14298>"
+        ]
+    },
+    {
+        "id": "Q0162",
+        "entities": [
+            "<https://dblp.org/pid/84/11232>",
+            "<https://dblp.org/rec/conf/mmm/LiuZB14>"
+        ]
+    },
+    {
+        "id": "Q0163",
+        "entities": [
+            "<https://dblp.org/pid/18/4896>",
+            "<https://dblp.org/pid/15/2648>",
+            "<https://dblp.org/rec/journals/itiis/JillepalliLSA18>"
+        ]
+    },
+    {
+        "id": "Q0164",
+        "entities": [
+            "<https://dblp.org/pid/a/SherifAbdelwahed>",
+            "<https://dblp.org/pid/68/2349>",
+            "<https://dblp.org/rec/journals/tii/MadlPDA09>"
+        ]
+    },
+    {
+        "id": "Q0165",
+        "entities": [
+            "<https://dblp.org/pid/79/3363>",
+            "<https://dblp.org/rec/conf/fusion/DargieL19>"
+        ]
+    },
+    {
+        "id": "Q0166",
+        "entities": [
+            "<https://dblp.org/pid/39/3354>"
+        ]
+    },
+    {
+        "id": "Q0167",
+        "entities": [
+            "<https://dblp.org/pid/82/6572>"
+        ]
+    },
+    {
+        "id": "Q0168",
+        "entities": [
+            "<https://dblp.org/pid/279/8487>"
+        ]
+    },
+    {
+        "id": "Q0169",
+        "entities": [
+            "<https://dblp.org/pid/291/8048>",
+            "<https://dblp.org/pid/95/8947>",
+            "<https://dblp.org/rec/conf/igarss/CordiscoPA03>"
+        ]
+    },
+    {
+        "id": "Q0170",
+        "entities": [
+            "<https://dblp.org/pid/46/2019>"
+        ]
+    },
+    {
+        "id": "Q0171",
+        "entities": [
+            "<https://dblp.org/pid/75/3681>",
+            "<https://dblp.org/rec/journals/ase/NoureddineRS15>"
+        ]
+    },
+    {
+        "id": "Q0172",
+        "entities": [
+            "<https://dblp.org/pid/65/7207>",
+            "<https://dblp.org/rec/conf/wcre/Naranjo-Puentes22>"
+        ]
+    },
+    {
+        "id": "Q0173",
+        "entities": [
+            "<https://dblp.org/pid/145/8008>"
+        ]
+    },
+    {
+        "id": "Q0174",
+        "entities": [
+            "<https://dblp.org/pid/99/9466>",
+            "<https://dblp.org/pid/23/4044>",
+            "<https://dblp.org/rec/conf/mig/BarbulescuRBGC14>"
+        ]
+    },
+    {
+        "id": "Q0175",
+        "entities": [
+            "<https://dblp.org/pid/72/2621>",
+            "<https://dblp.org/rec/conf/ispa/ChengZ021>"
+        ]
+    },
+    {
+        "id": "Q0176",
+        "entities": [
+            "<https://dblp.org/pid/280/3797>",
+            "<https://dblp.org/pid/181/2853>",
+            "<https://dblp.org/rec/journals/access/LiHS20a>"
+        ]
+    },
+    {
+        "id": "Q0177",
+        "entities": [
+            "<https://dblp.org/pid/293/9909>",
+            "<https://dblp.org/rec/journals/corr/abs-2105-14613>"
+        ]
+    },
+    {
+        "id": "Q0178",
+        "entities": [
+            "<https://dblp.org/pid/43/5912>",
+            "<https://dblp.org/pid/97/6654>",
+            "<https://dblp.org/rec/journals/mss/CechlarovaF17>"
+        ]
+    },
+    {
+        "id": "Q0179",
+        "entities": [
+            "<https://dblp.org/pid/132/9019>",
+            "<https://dblp.org/rec/journals/corr/SalemAS13>"
+        ]
+    },
+    {
+        "id": "Q0180",
+        "entities": [
+            "<https://dblp.org/pid/213/8196>",
+            "<https://dblp.org/rec/conf/aina/KhatipovNZZMR18>"
+        ]
+    },
+    {
+        "id": "Q0181",
+        "entities": [
+            "<https://dblp.org/pid/40/3934>"
+        ]
+    },
+    {
+        "id": "Q0182",
+        "entities": [
+            "<https://dblp.org/pid/87/1262>"
+        ]
+    },
+    {
+        "id": "Q0183",
+        "entities": [
+            "<https://dblp.org/pid/26/9049>",
+            "<https://dblp.org/pid/64/7498>",
+            "<https://dblp.org/rec/journals/oir/Garcia-LacallePR11>"
+        ]
+    },
+    {
+        "id": "Q0184",
+        "entities": [
+            "<https://dblp.org/pid/b/JanABergstra>",
+            "<https://dblp.org/pid/m/KeesMiddelburg>",
+            "<https://dblp.org/rec/journals/corr/abs-1006-0813>"
+        ]
+    },
+    {
+        "id": "Q0185",
+        "entities": [
+            "<https://dblp.org/pid/47/2026>",
+            "<https://dblp.org/rec/journals/corr/abs-2006-03716>"
+        ]
+    },
+    {
+        "id": "Q0186",
+        "entities": [
+            "<https://dblp.org/pid/c/HsinchunChen>",
+            "<https://dblp.org/rec/journals/jmis/LinCN00>"
+        ]
+    },
+    {
+        "id": "Q0187",
+        "entities": [
+            "<https://dblp.org/pid/99/497>",
+            "<https://dblp.org/rec/journals/dm/Furedi89>"
+        ]
+    },
+    {
+        "id": "Q0188",
+        "entities": [
+            "<https://dblp.org/pid/18/5058>",
+            "<https://dblp.org/rec/conf/miccai/KataokaWAM01>"
+        ]
+    },
+    {
+        "id": "Q0189",
+        "entities": [
+            "<https://dblp.org/pid/41/6961>",
+            "<https://dblp.org/pid/66/6141>",
+            "<https://dblp.org/rec/journals/sLogica/Tennant05>"
+        ]
+    },
+    {
+        "id": "Q0190",
+        "entities": [
+            "<https://dblp.org/pid/76/7415>",
+            "<https://dblp.org/rec/conf/fie/CardellaDVFC11>"
+        ]
+    },
+    {
+        "id": "Q0191",
+        "entities": [
+            "<https://dblp.org/pid/06/3992>"
+        ]
+    },
+    {
+        "id": "Q0192",
+        "entities": [
+            "<https://dblp.org/pid/06/6333>"
+        ]
+    },
+    {
+        "id": "Q0193",
+        "entities": [
+            "<https://dblp.org/pid/z/HaiZhou>"
+        ]
+    },
+    {
+        "id": "Q0194",
+        "entities": [
+            "<https://dblp.org/pid/27/5373>",
+            "<https://dblp.org/rec/conf/ifip9-1/MiliszewskaH00>"
+        ]
+    },
+    {
+        "id": "Q0195",
+        "entities": [
+            "<https://dblp.org/pid/66/6868>"
+        ]
+    },
+    {
+        "id": "Q0196",
+        "entities": [
+            "<https://dblp.org/pid/95/7434>",
+            "<https://dblp.org/rec/conf/ACISicis/MirshahvaladN09>"
+        ]
+    },
+    {
+        "id": "Q0197",
+        "entities": [
+            "<https://dblp.org/pid/d/DeboraDonato>",
+            "<https://dblp.org/rec/conf/spire/CastilloDG07>"
+        ]
+    },
+    {
+        "id": "Q0198",
+        "entities": [
+            "<https://dblp.org/pid/27/4377>"
+        ]
+    },
+    {
+        "id": "Q0199",
+        "entities": [
+            "<https://dblp.org/pid/67/10220>",
+            "<https://dblp.org/pid/86/10220>",
+            "<https://dblp.org/rec/conf/hpagc/ChhabraT11>"
+        ]
+    },
+    {
+        "id": "Q0200",
+        "entities": [
+            "<https://dblp.org/pid/43/5116>"
+        ]
+    },
+    {
+        "id": "Q0201",
+        "entities": [
+            "<https://dblp.org/pid/208/4422>"
+        ]
+    },
+    {
+        "id": "Q0202",
+        "entities": [
+            "<https://dblp.org/pid/95/4020>",
+            "<https://dblp.org/rec/conf/gcce/ItoWSF21>"
+        ]
+    },
+    {
+        "id": "Q0203",
+        "entities": [
+            "<https://dblp.org/pid/42/2734>",
+            "<https://dblp.org/rec/conf/acpr/HuangT13>"
+        ]
+    },
+    {
+        "id": "Q0204",
+        "entities": [
+            "<https://dblp.org/pid/75/3970>",
+            "<https://dblp.org/rec/conf/ijcnn/BagnallWSPTB06>"
+        ]
+    },
+    {
+        "id": "Q0205",
+        "entities": [
+            "<https://dblp.org/pid/19/4358>",
+            "<https://dblp.org/pid/42/3947>",
+            "<https://dblp.org/rec/conf/webist/GrasBB15a>"
+        ]
+    },
+    {
+        "id": "Q0206",
+        "entities": [
+            "<https://dblp.org/pid/u/AndreasUhl>",
+            "<https://dblp.org/pid/h/JuttaHammerle>",
+            "<https://dblp.org/rec/journals/paapp/UhlH97>"
+        ]
+    },
+    {
+        "id": "Q0207",
+        "entities": [
+            "<https://dblp.org/pid/l/JureLeskovec>",
+            "<https://dblp.org/rec/conf/icwsm/ChengDL14>"
+        ]
+    },
+    {
+        "id": "Q0208",
+        "entities": [
+            "<https://dblp.org/pid/40/5081>",
+            "<https://dblp.org/pid/242/3746>",
+            "<https://dblp.org/rec/journals/jihmsp/LongCL18>"
+        ]
+    },
+    {
+        "id": "Q0209",
+        "entities": [
+            "<https://dblp.org/pid/274/9430>",
+            "<https://dblp.org/rec/journals/ile/MidikC20>"
+        ]
+    },
+    {
+        "id": "Q0210",
+        "entities": [
+            "<https://dblp.org/pid/11/9601>",
+            "<https://dblp.org/pid/197/1322>",
+            "<https://dblp.org/rec/conf/iconac/Ma11>"
+        ]
+    },
+    {
+        "id": "Q0211",
+        "entities": [
+            "<https://dblp.org/pid/98/7300>",
+            "<https://dblp.org/rec/conf/kcap/Garcia0T15a>"
+        ]
+    },
+    {
+        "id": "Q0212",
+        "entities": [
+            "<https://dblp.org/pid/138/1857>",
+            "<https://dblp.org/rec/journals/access/LiuLCD20>"
+        ]
+    },
+    {
+        "id": "Q0213",
+        "entities": [
+            "<https://dblp.org/pid/174/1727>",
+            "<https://dblp.org/rec/journals/sensors/SucerquiaLB17>"
+        ]
+    },
+    {
+        "id": "Q0214",
+        "entities": [
+            "<https://dblp.org/pid/164/8408>",
+            "<https://dblp.org/rec/conf/icra/MitzelDORL15>"
+        ]
+    },
+    {
+        "id": "Q0215",
+        "entities": [
+            "<https://dblp.org/pid/236/1728>",
+            "<https://dblp.org/rec/journals/mbec/EzzatiXSS15>"
+        ]
+    },
+    {
+        "id": "Q0216",
+        "entities": [
+            "<https://dblp.org/pid/145/3996>",
+            "<https://dblp.org/rec/books/sp/21/SainiFSL21>"
+        ]
+    },
+    {
+        "id": "Q0217",
+        "entities": [
+            "<https://dblp.org/pid/314/9396>",
+            "<https://dblp.org/rec/journals/combinatorics/Zohar22>"
+        ]
+    },
+    {
+        "id": "Q0218",
+        "entities": [
+            "<https://dblp.org/pid/169/1703>",
+            "<https://dblp.org/pid/170/3448>",
+            "<https://dblp.org/rec/conf/softcom/VasicB18>"
+        ]
+    },
+    {
+        "id": "Q0219",
+        "entities": [
+            "<https://dblp.org/pid/77/5320>",
+            "<https://dblp.org/pid/79/10191>",
+            "<https://dblp.org/rec/journals/candie/PachecoM11>"
+        ]
+    },
+    {
+        "id": "Q0220",
+        "entities": [
+            "<https://dblp.org/pid/40/5797>"
+        ]
+    },
+    {
+        "id": "Q0221",
+        "entities": [
+            "<https://dblp.org/pid/177/4919>"
+        ]
+    },
+    {
+        "id": "Q0222",
+        "entities": [
+            "<https://dblp.org/pid/s/MartinSauerhoff>"
+        ]
+    },
+    {
+        "id": "Q0223",
+        "entities": [
+            "<https://dblp.org/pid/80/4137>",
+            "<https://dblp.org/rec/journals/cacm/Sarafyan59>"
+        ]
+    },
+    {
+        "id": "Q0224",
+        "entities": [
+            "<https://dblp.org/pid/70/2068>",
+            "<https://dblp.org/rec/journals/scp/HongHP17>"
+        ]
+    },
+    {
+        "id": "Q0225",
+        "entities": [
+            "<https://dblp.org/pid/41/473>",
+            "<https://dblp.org/pid/70/7253>",
+            "<https://dblp.org/rec/journals/ijagr/KooCG18>"
+        ]
+    },
+    {
+        "id": "Q0226",
+        "entities": [
+            "<https://dblp.org/pid/275/7091>",
+            "<https://dblp.org/rec/conf/ijcnn/Moreno-GarciaJG20>"
+        ]
+    },
+    {
+        "id": "Q0227",
+        "entities": [
+            "<https://dblp.org/pid/33/6441-1>"
+        ]
+    },
+    {
+        "id": "Q0228",
+        "entities": [
+            "<https://dblp.org/pid/58/5281>",
+            "<https://dblp.org/rec/conf/amai/JaumardLP00>"
+        ]
+    },
+    {
+        "id": "Q0229",
+        "entities": [
+            "<https://dblp.org/pid/04/5769>",
+            "<https://dblp.org/pid/84/1404>",
+            "<https://dblp.org/rec/journals/behaviourIT/Stewart16j>"
+        ]
+    },
+    {
+        "id": "Q0230",
+        "entities": [
+            "<https://dblp.org/pid/172/6710>",
+            "<https://dblp.org/rec/conf/icis/CheungWC16>"
+        ]
+    },
+    {
+        "id": "Q0231",
+        "entities": [
+            "<https://dblp.org/pid/63/1567>",
+            "<https://dblp.org/pid/132/0744>",
+            "<https://dblp.org/rec/journals/toh/GiboPMA19>"
+        ]
+    },
+    {
+        "id": "Q0232",
+        "entities": [
+            "<https://dblp.org/pid/215/5188>",
+            "<https://dblp.org/pid/37/7141>",
+            "<https://dblp.org/rec/journals/tac/ZhaoZ21>"
+        ]
+    },
+    {
+        "id": "Q0233",
+        "entities": [
+            "<https://dblp.org/pid/c/GeoffCoulson>",
+            "<https://dblp.org/pid/76/720>",
+            "<https://dblp.org/rec/conf/edoc/WaddingtonC97>"
+        ]
+    },
+    {
+        "id": "Q0234",
+        "entities": [
+            "<https://dblp.org/pid/65/6778>",
+            "<https://dblp.org/pid/68/606>",
+            "<https://dblp.org/rec/conf/aina/LongoZBLGN16>"
+        ]
+    },
+    {
+        "id": "Q0235",
+        "entities": [
+            "<https://dblp.org/pid/285/5575>",
+            "<https://dblp.org/pid/03/6428>",
+            "<https://dblp.org/rec/journals/corr/abs-2102-06301>"
+        ]
+    },
+    {
+        "id": "Q0236",
+        "entities": [
+            "<https://dblp.org/pid/67/3928>"
+        ]
+    },
+    {
+        "id": "Q0237",
+        "entities": [
+            "<https://dblp.org/pid/161/8923>",
+            "<https://dblp.org/pid/11/9718-2>",
+            "<https://dblp.org/rec/journals/corr/abs-1802-04791>"
+        ]
+    },
+    {
+        "id": "Q0238",
+        "entities": [
+            "<https://dblp.org/pid/71/7353>",
+            "<https://dblp.org/rec/conf/smacd/ChiangHCLJCLC22>"
+        ]
+    },
+    {
+        "id": "Q0239",
+        "entities": [
+            "<https://dblp.org/pid/194/9991>",
+            "<https://dblp.org/pid/81/2672>",
+            "<https://dblp.org/rec/journals/corr/abs-1801-05554>"
+        ]
+    },
+    {
+        "id": "Q0240",
+        "entities": [
+            "<https://dblp.org/pid/99/5275>",
+            "<https://dblp.org/rec/conf/asap/MalluhiBR93>"
+        ]
+    },
+    {
+        "id": "Q0241",
+        "entities": [
+            "<https://dblp.org/pid/27/3134>"
+        ]
+    },
+    {
+        "id": "Q0242",
+        "entities": [
+            "<https://dblp.org/pid/73/7007>",
+            "<https://dblp.org/rec/conf/ipin/WangZLSW19>"
+        ]
+    },
+    {
+        "id": "Q0243",
+        "entities": [
+            "<https://dblp.org/pid/228/0995>",
+            "<https://dblp.org/pid/28/3612>",
+            "<https://dblp.org/rec/journals/amc/ZhuL22>"
+        ]
+    },
+    {
+        "id": "Q0244",
+        "entities": [
+            "<https://dblp.org/pid/128/0011>",
+            "<https://dblp.org/rec/conf/chi/RandallDL15>"
+        ]
+    },
+    {
+        "id": "Q0245",
+        "entities": [
+            "<https://dblp.org/pid/04/7753>",
+            "<https://dblp.org/pid/33/3282>",
+            "<https://dblp.org/rec/conf/mdm/TsengWWHKLSCLYD09>"
+        ]
+    },
+    {
+        "id": "Q0246",
+        "entities": [
+            "<https://dblp.org/pid/07/1521>",
+            "<https://dblp.org/pid/39/1115>",
+            "<https://dblp.org/rec/conf/emnlp/ZhouWX13>"
+        ]
+    },
+    {
+        "id": "Q0247",
+        "entities": [
+            "<https://dblp.org/pid/25/1224>",
+            "<https://dblp.org/rec/journals/tits/FredetteO17>"
+        ]
+    },
+    {
+        "id": "Q0248",
+        "entities": [
+            "<https://dblp.org/pid/42/830>",
+            "<https://dblp.org/rec/journals/ijcomsys/Asmi08>"
+        ]
+    },
+    {
+        "id": "Q0249",
+        "entities": [
+            "<https://dblp.org/pid/n/HermannNey>",
+            "<https://dblp.org/rec/conf/slt/BaharBN21>"
+        ]
+    },
+    {
+        "id": "Q0250",
+        "entities": [
+            "<https://dblp.org/pid/195/7678>",
+            "<https://dblp.org/rec/journals/ijmor/KianiSM17>"
+        ]
+    },
+    {
+        "id": "Q0251",
+        "entities": [
+            "<https://dblp.org/pid/c/AndrewTCampbell>",
+            "<https://dblp.org/rec/journals/monet/LaneLMYLCADBCC14>"
+        ]
+    },
+    {
+        "id": "Q0252",
+        "entities": [
+            "<https://dblp.org/pid/64/627>",
+            "<https://dblp.org/rec/conf/iros/ShahamiriJ05>"
+        ]
+    },
+    {
+        "id": "Q0253",
+        "entities": [
+            "<https://dblp.org/pid/l/JianzhuangLiu>"
+        ]
+    },
+    {
+        "id": "Q0254",
+        "entities": [
+            "<https://dblp.org/pid/10/2678>"
+        ]
+    },
+    {
+        "id": "Q0255",
+        "entities": [
+            "<https://dblp.org/pid/83/3478>"
+        ]
+    },
+    {
+        "id": "Q0256",
+        "entities": [
+            "<https://dblp.org/pid/81/5021>",
+            "<https://dblp.org/rec/journals/almob/MazinGMRRRK10>"
+        ]
+    },
+    {
+        "id": "Q0257",
+        "entities": [
+            "<https://dblp.org/pid/76/5361>",
+            "<https://dblp.org/rec/journals/cacm/Low73>"
+        ]
+    },
+    {
+        "id": "Q0258",
+        "entities": [
+            "<https://dblp.org/pid/d/TheoDHondt>",
+            "<https://dblp.org/rec/conf/sac/FabryD06>"
+        ]
+    },
+    {
+        "id": "Q0259",
+        "entities": [
+            "<https://dblp.org/pid/57/1380>",
+            "<https://dblp.org/rec/journals/mta/KingPW07>"
+        ]
+    },
+    {
+        "id": "Q0260",
+        "entities": [
+            "<https://dblp.org/pid/56/3697>",
+            "<https://dblp.org/pid/o/UnaMayOReilly>"
+        ]
+    },
+    {
+        "id": "Q0261",
+        "entities": [
+            "<https://dblp.org/pid/35/1634>",
+            "<https://dblp.org/pid/13/8678>"
+        ]
+    },
+    {
+        "id": "Q0262",
+        "entities": [
+            "<https://dblp.org/pid/31/4750>"
+        ]
+    },
+    {
+        "id": "Q0263",
+        "entities": [
+            "<https://dblp.org/pid/246/6527>",
+            "<https://dblp.org/pid/186/0618>"
+        ]
+    },
+    {
+        "id": "Q0264",
+        "entities": [
+            "<https://dblp.org/pid/34/10399>"
+        ]
+    },
+    {
+        "id": "Q0265",
+        "entities": [
+            "<https://dblp.org/pid/24/1570>"
+        ]
+    },
+    {
+        "id": "Q0266",
+        "entities": [
+            "<https://dblp.org/pid/h/ManuelVHermenegildo>",
+            "<https://dblp.org/rec/conf/smc/AlbertPH04>"
+        ]
+    },
+    {
+        "id": "Q0267",
+        "entities": [
+            "<https://dblp.org/pid/317/9493>",
+            "<https://dblp.org/pid/88/5071>"
+        ]
+    },
+    {
+        "id": "Q0268",
+        "entities": [
+            "<https://dblp.org/pid/42/101>"
+        ]
+    },
+    {
+        "id": "Q0269",
+        "entities": [
+            "<https://dblp.org/pid/10/1107>",
+            "<https://dblp.org/pid/173/5931>"
+        ]
+    },
+    {
+        "id": "Q0270",
+        "entities": [
+            "<https://dblp.org/pid/46/6368>"
+        ]
+    },
+    {
+        "id": "Q0271",
+        "entities": [
+            "<https://dblp.org/pid/61/3360>",
+            "<https://dblp.org/rec/journals/sigmetrics/Hughes80>"
+        ]
+    },
+    {
+        "id": "Q0272",
+        "entities": [
+            "<https://dblp.org/pid/s/KengSiau>",
+            "<https://dblp.org/pid/141/7670>"
+        ]
+    },
+    {
+        "id": "Q0273",
+        "entities": [
+            "<https://dblp.org/pid/47/3155>",
+            "<https://dblp.org/pid/90/1445>"
+        ]
+    },
+    {
+        "id": "Q0274",
+        "entities": [
+            "<https://dblp.org/pid/n/ShreeKNayar>",
+            "<https://dblp.org/pid/32/4301>"
+        ]
+    },
+    {
+        "id": "Q0275",
+        "entities": [
+            "<https://dblp.org/pid/312/2176>",
+            "<https://dblp.org/pid/312/1423>"
+        ]
+    },
+    {
+        "id": "Q0276",
+        "entities": [
+            "<https://dblp.org/pid/57/8451>",
+            "<https://dblp.org/pid/57/2368>"
+        ]
+    },
+    {
+        "id": "Q0277",
+        "entities": [
+            "<https://dblp.org/pid/42/5573>",
+            "<https://dblp.org/pid/164/5469>"
+        ]
+    },
+    {
+        "id": "Q0278",
+        "entities": [
+            "<https://dblp.org/pid/25/70>",
+            "<https://dblp.org/pid/98/3679>"
+        ]
+    },
+    {
+        "id": "Q0279",
+        "entities": [
+            "<https://dblp.org/pid/49/5164>",
+            "<https://dblp.org/pid/23/589>"
+        ]
+    },
+    {
+        "id": "Q0280",
+        "entities": [
+            "<https://dblp.org/pid/80/2732-2>"
+        ]
+    },
+    {
+        "id": "Q0281",
+        "entities": [
+            "<https://dblp.org/pid/08/978>"
+        ]
+    },
+    {
+        "id": "Q0282",
+        "entities": [
+            "<https://dblp.org/pid/37/5589>",
+            "<https://dblp.org/pid/191/1686>"
+        ]
+    },
+    {
+        "id": "Q0283",
+        "entities": [
+            "<https://dblp.org/pid/150/3558>"
+        ]
+    },
+    {
+        "id": "Q0284",
+        "entities": [
+            "<https://dblp.org/pid/48/435>",
+            "<https://dblp.org/rec/journals/trob/LiH09>"
+        ]
+    },
+    {
+        "id": "Q0285",
+        "entities": [
+            "<https://dblp.org/pid/81/5018>",
+            "<https://dblp.org/rec/journals/isci/ChenH95>"
+        ]
+    },
+    {
+        "id": "Q0286",
+        "entities": [
+            "<https://dblp.org/pid/22/849>",
+            "<https://dblp.org/pid/92/3758>"
+        ]
+    },
+    {
+        "id": "Q0287",
+        "entities": [
+            "<https://dblp.org/pid/62/5342>",
+            "<https://dblp.org/rec/conf/pdpta/KimI97>"
+        ]
+    },
+    {
+        "id": "Q0288",
+        "entities": [
+            "<https://dblp.org/pid/j/MarijnJanssen>"
+        ]
+    },
+    {
+        "id": "Q0289",
+        "entities": [
+            "<https://dblp.org/pid/212/6519>"
+        ]
+    },
+    {
+        "id": "Q0290",
+        "entities": [
+            "<https://dblp.org/pid/19/451>",
+            "<https://dblp.org/pid/46/5015>"
+        ]
+    },
+    {
+        "id": "Q0291",
+        "entities": [
+            "<https://dblp.org/pid/02/150>",
+            "<https://dblp.org/pid/95/6709>"
+        ]
+    },
+    {
+        "id": "Q0292",
+        "entities": [
+            "<https://dblp.org/pid/154/0084>",
+            "<https://dblp.org/rec/journals/mags/ArabTB19>"
+        ]
+    },
+    {
+        "id": "Q0293",
+        "entities": [
+            "<https://dblp.org/pid/28/4814>",
+            "<https://dblp.org/rec/journals/neuroimage/DavidF03>"
+        ]
+    },
+    {
+        "id": "Q0294",
+        "entities": [
+            "<https://dblp.org/pid/229/8061>"
+        ]
+    },
+    {
+        "id": "Q0295",
+        "entities": [
+            "<https://dblp.org/pid/91/3803>"
+        ]
+    },
+    {
+        "id": "Q0296",
+        "entities": [
+            "<https://dblp.org/pid/35/8096>"
+        ]
+    },
+    {
+        "id": "Q0297",
+        "entities": [
+            "<https://dblp.org/pid/18/6404-1>",
+            "<https://dblp.org/rec/journals/corr/abs-2012-01830>"
+        ]
+    },
+    {
+        "id": "Q0298",
+        "entities": [
+            "<https://dblp.org/pid/228/8056>",
+            "<https://dblp.org/rec/journals/corr/abs-1810-04570>"
+        ]
+    },
+    {
+        "id": "Q0299",
+        "entities": [
+            "<https://dblp.org/pid/68/2144>",
+            "<https://dblp.org/rec/journals/toplas/Beemster94>"
+        ]
+    },
+    {
+        "id": "Q0300",
+        "entities": [
+            "<https://dblp.org/pid/78/1838>",
+            "<https://dblp.org/rec/conf/siggraph/Kapler02>"
+        ]
+    },
+    {
+        "id": "Q0301",
+        "entities": [
+            "<https://dblp.org/pid/91/7058>",
+            "<https://dblp.org/pid/74/7060>"
+        ]
+    },
+    {
+        "id": "Q0302",
+        "entities": [
+            "<https://dblp.org/pid/y/AllenYYang>",
+            "<https://dblp.org/pid/69/1112-1>"
+        ]
+    },
+    {
+        "id": "Q0303",
+        "entities": [
+            "<https://dblp.org/pid/32/5931>",
+            "<https://dblp.org/pid/56/728-1>"
+        ]
+    },
+    {
+        "id": "Q0304",
+        "entities": [
+            "<https://dblp.org/pid/95/6062>",
+            "<https://dblp.org/pid/117/0118>"
+        ]
+    },
+    {
+        "id": "Q0305",
+        "entities": [
+            "<https://dblp.org/pid/62/3422>",
+            "<https://dblp.org/pid/u/AndreasUhl>"
+        ]
+    },
+    {
+        "id": "Q0306",
+        "entities": [
+            "<https://dblp.org/pid/12/7139>"
+        ]
+    },
+    {
+        "id": "Q0307",
+        "entities": [
+            "<https://dblp.org/pid/24/4887>",
+            "<https://dblp.org/pid/99/5508>"
+        ]
+    },
+    {
+        "id": "Q0308",
+        "entities": [
+            "<https://dblp.org/pid/20/4777>",
+            "<https://dblp.org/pid/80/5108>"
+        ]
+    },
+    {
+        "id": "Q0309",
+        "entities": [
+            "<https://dblp.org/pid/90/3302>"
+        ]
+    },
+    {
+        "id": "Q0310",
+        "entities": [
+            "<https://dblp.org/pid/b/FrancisRBach>",
+            "<https://dblp.org/pid/39/11263>"
+        ]
+    },
+    {
+        "id": "Q0311",
+        "entities": [
+            "<https://dblp.org/pid/232/2197>",
+            "<https://dblp.org/pid/u/SennurUlukus>"
+        ]
+    },
+    {
+        "id": "Q0312",
+        "entities": [
+            "<https://dblp.org/pid/184/7025>",
+            "<https://dblp.org/pid/312/1025>"
+        ]
+    },
+    {
+        "id": "Q0313",
+        "entities": [
+            "<https://dblp.org/pid/74/8301>",
+            "<https://dblp.org/pid/85/6647>"
+        ]
+    },
+    {
+        "id": "Q0314",
+        "entities": [
+            "<https://dblp.org/pid/26/5156>"
+        ]
+    },
+    {
+        "id": "Q0315",
+        "entities": [
+            "<https://dblp.org/pid/20/1801>"
+        ]
+    },
+    {
+        "id": "Q0316",
+        "entities": [
+            "<https://dblp.org/pid/129/6243>",
+            "<https://dblp.org/pid/72/852>"
+        ]
+    },
+    {
+        "id": "Q0317",
+        "entities": [
+            "<https://dblp.org/pid/47/439>",
+            "<https://dblp.org/pid/53/300>"
+        ]
+    },
+    {
+        "id": "Q0318",
+        "entities": [
+            "<https://dblp.org/pid/168/5605>",
+            "<https://dblp.org/pid/222/2859>"
+        ]
+    },
+    {
+        "id": "Q0319",
+        "entities": [
+            "<https://dblp.org/pid/198/7497>",
+            "<https://dblp.org/pid/94/6230>"
+        ]
+    },
+    {
+        "id": "Q0320",
+        "entities": [
+            "<https://dblp.org/pid/26/4820>",
+            "<https://dblp.org/pid/06/9231>"
+        ]
+    },
+    {
+        "id": "Q0321",
+        "entities": [
+            "<https://dblp.org/pid/250/0363>"
+        ]
+    },
+    {
+        "id": "Q0322",
+        "entities": [
+            "<https://dblp.org/pid/126/6719>",
+            "<https://dblp.org/pid/126/6737>"
+        ]
+    },
+    {
+        "id": "Q0323",
+        "entities": [
+            "<https://dblp.org/pid/d/ShlomiDolev>"
+        ]
+    },
+    {
+        "id": "Q0324",
+        "entities": [
+            "<https://dblp.org/pid/76/4976>",
+            "<https://dblp.org/pid/153/3096>"
+        ]
+    },
+    {
+        "id": "Q0325",
+        "entities": [
+            "<https://dblp.org/pid/23/886>",
+            "<https://dblp.org/pid/196/7269>"
+        ]
+    },
+    {
+        "id": "Q0326",
+        "entities": [
+            "<https://dblp.org/pid/24/5960>"
+        ]
+    },
+    {
+        "id": "Q0327",
+        "entities": [
+            "<https://dblp.org/pid/18/643>",
+            "<https://dblp.org/pid/72/7769>"
+        ]
+    },
+    {
+        "id": "Q0328",
+        "entities": [
+            "<https://dblp.org/pid/15/1598>"
+        ]
+    },
+    {
+        "id": "Q0329",
+        "entities": [
+            "<https://dblp.org/pid/75/5723-2>",
+            "<https://dblp.org/pid/35/7221>"
+        ]
+    },
+    {
+        "id": "Q0330",
+        "entities": [
+            "<https://dblp.org/pid/04/1363>",
+            "<https://dblp.org/pid/148/2367>"
+        ]
+    },
+    {
+        "id": "Q0331",
+        "entities": [
+            "<https://dblp.org/pid/z/BarbaraZitova>"
+        ]
+    },
+    {
+        "id": "Q0332",
+        "entities": [
+            "<https://dblp.org/pid/294/6726>"
+        ]
+    },
+    {
+        "id": "Q0333",
+        "entities": [
+            "<https://dblp.org/pid/26/2519>"
+        ]
+    },
+    {
+        "id": "Q0334",
+        "entities": [
+            "<https://dblp.org/pid/168/6125>",
+            "<https://dblp.org/pid/179/7665>"
+        ]
+    },
+    {
+        "id": "Q0335",
+        "entities": [
+            "<https://dblp.org/pid/22/6904>"
+        ]
+    },
+    {
+        "id": "Q0336",
+        "entities": [
+            "<https://dblp.org/pid/93/4244>"
+        ]
+    },
+    {
+        "id": "Q0337",
+        "entities": [
+            "<https://dblp.org/pid/170/1761>",
+            "<https://dblp.org/pid/98/10628>"
+        ]
+    },
+    {
+        "id": "Q0338",
+        "entities": [
+            "<https://dblp.org/pid/223/1904>"
+        ]
+    },
+    {
+        "id": "Q0339",
+        "entities": [
+            "<https://dblp.org/pid/98/4092>"
+        ]
+    },
+    {
+        "id": "Q0340",
+        "entities": [
+            "<https://dblp.org/pid/02/4699>",
+            "<https://dblp.org/pid/47/6848-1>"
+        ]
+    },
+    {
+        "id": "Q0341",
+        "entities": [
+            "<https://dblp.org/pid/93/1710>",
+            "<https://dblp.org/pid/98/5564>"
+        ]
+    },
+    {
+        "id": "Q0342",
+        "entities": [
+            "<https://dblp.org/pid/72/3422>",
+            "<https://dblp.org/pid/166/3954>"
+        ]
+    },
+    {
+        "id": "Q0343",
+        "entities": [
+            "<https://dblp.org/pid/64/9464>"
+        ]
+    },
+    {
+        "id": "Q0344",
+        "entities": [
+            "<https://dblp.org/pid/43/6363>",
+            "<https://dblp.org/pid/01/6672>"
+        ]
+    },
+    {
+        "id": "Q0345",
+        "entities": [
+            "<https://dblp.org/pid/92/748-1>",
+            "<https://dblp.org/pid/236/3110>"
+        ]
+    },
+    {
+        "id": "Q0346",
+        "entities": [
+            "<https://dblp.org/pid/117/3502>",
+            "<https://dblp.org/pid/28/23>"
+        ]
+    },
+    {
+        "id": "Q0347",
+        "entities": [
+            "<https://dblp.org/pid/69/5399>",
+            "<https://dblp.org/pid/91/6470>"
+        ]
+    },
+    {
+        "id": "Q0348",
+        "entities": [
+            "<https://dblp.org/pid/74/5817>"
+        ]
+    },
+    {
+        "id": "Q0349",
+        "entities": [
+            "<https://dblp.org/pid/70/7952>",
+            "<https://dblp.org/pid/97/8695>"
+        ]
+    },
+    {
+        "id": "Q0350",
+        "entities": [
+            "<https://dblp.org/pid/83/1905>",
+            "<https://dblp.org/pid/57/2856>"
+        ]
+    },
+    {
+        "id": "Q0351",
+        "entities": [
+            "<https://dblp.org/pid/08/8564>"
+        ]
+    },
+    {
+        "id": "Q0352",
+        "entities": [
+            "<https://dblp.org/rec/conf/amia/Wang0HS14>"
+        ]
+    },
+    {
+        "id": "Q0353",
+        "entities": [
+            "<https://dblp.org/rec/conf/aike/TzachevaBS18>"
+        ]
+    },
+    {
+        "id": "Q0354",
+        "entities": [
+            "<https://dblp.org/pid/67/5096>"
+        ]
+    },
+    {
+        "id": "Q0355",
+        "entities": [
+            "<https://dblp.org/pid/28/23>"
+        ]
+    },
+    {
+        "id": "Q0356",
+        "entities": [
+            "<https://dblp.org/pid/19/5229>",
+            "<https://dblp.org/rec/conf/vtc/AnttonenM14>"
+        ]
+    },
+    {
+        "id": "Q0357",
+        "entities": [
+            "<https://dblp.org/pid/149/2687>"
+        ]
+    },
+    {
+        "id": "Q0358",
+        "entities": [
+            "<https://dblp.org/pid/03/1471>",
+            "<https://dblp.org/rec/journals/eswa/DanismanBM15>"
+        ]
+    },
+    {
+        "id": "Q0359",
+        "entities": [
+            "<https://dblp.org/rec/conf/larc/OvalleCR11>"
+        ]
+    },
+    {
+        "id": "Q0360",
+        "entities": [
+            "<https://dblp.org/rec/conf/qshine/LuP04>"
+        ]
+    },
+    {
+        "id": "Q0361",
+        "entities": [
+            "<https://dblp.org/rec/conf/cicc/GhoshTTG10>"
+        ]
+    },
+    {
+        "id": "Q0362",
+        "entities": [
+            "<https://dblp.org/rec/conf/cvpr/WuYH14>"
+        ]
+    },
+    {
+        "id": "Q0363",
+        "entities": [
+            "<https://dblp.org/pid/158/0638>"
+        ]
+    },
+    {
+        "id": "Q0364",
+        "entities": [
+            "<https://dblp.org/pid/283/3763>",
+            "<https://dblp.org/rec/conf/irps/BerensWPARSG20>"
+        ]
+    },
+    {
+        "id": "Q0365",
+        "entities": [
+            "<https://dblp.org/rec/conf/IEEEcca/LianLF07>"
+        ]
+    },
+    {
+        "id": "Q0366",
+        "entities": [
+            "<https://dblp.org/pid/55/7203>",
+            "<https://dblp.org/rec/journals/ile/Dickey15>"
+        ]
+    },
+    {
+        "id": "Q0367",
+        "entities": [
+            "<https://dblp.org/pid/148/7267>",
+            "<https://dblp.org/rec/conf/iecon/ZhangSGPBHJOAAA18>"
+        ]
+    },
+    {
+        "id": "Q0368",
+        "entities": [
+            "<https://dblp.org/rec/conf/mmm/BoschenS17>"
+        ]
+    },
+    {
+        "id": "Q0369",
+        "entities": [
+            "<https://dblp.org/rec/journals/eor/He19>"
+        ]
+    },
+    {
+        "id": "Q0370",
+        "entities": [
+            "<https://dblp.org/rec/conf/itc/DevadasK98>"
+        ]
+    },
+    {
+        "id": "Q0371",
+        "entities": [
+            "<https://dblp.org/pid/14/1270>"
+        ]
+    },
+    {
+        "id": "Q0372",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/JonesM10>"
+        ]
+    },
+    {
+        "id": "Q0373",
+        "entities": [
+            "<https://dblp.org/pid/86/6912>",
+            "<https://dblp.org/rec/journals/tcom/WoernerS94>"
+        ]
+    },
+    {
+        "id": "Q0374",
+        "entities": [
+            "<https://dblp.org/pid/262/3063>"
+        ]
+    },
+    {
+        "id": "Q0375",
+        "entities": [
+            "<https://dblp.org/pid/95/6660>",
+            "<https://dblp.org/rec/conf/webmedia/IvanovMM19>"
+        ]
+    },
+    {
+        "id": "Q0376",
+        "entities": [
+            "<https://dblp.org/pid/83/6865>",
+            "<https://dblp.org/rec/journals/jiis/YalamanchiliP04>"
+        ]
+    },
+    {
+        "id": "Q0377",
+        "entities": [
+            "<https://dblp.org/rec/conf/eccv/BakkenKSB20>"
+        ]
+    },
+    {
+        "id": "Q0378",
+        "entities": [
+            "<https://dblp.org/rec/journals/sivp/AttoPM11>"
+        ]
+    },
+    {
+        "id": "Q0379",
+        "entities": [
+            "<https://dblp.org/rec/journals/pajais/HoH22>"
+        ]
+    },
+    {
+        "id": "Q0380",
+        "entities": [
+            "<https://dblp.org/rec/journals/bspc/PrakarshaS22>"
+        ]
+    },
+    {
+        "id": "Q0381",
+        "entities": [
+            "<https://dblp.org/pid/95/3398>"
+        ]
+    },
+    {
+        "id": "Q0382",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-1905-06134>"
+        ]
+    },
+    {
+        "id": "Q0383",
+        "entities": [
+            "<https://dblp.org/pid/139/2708>"
+        ]
+    },
+    {
+        "id": "Q0384",
+        "entities": [
+            "<https://dblp.org/pid/238/3234>",
+            "<https://dblp.org/rec/conf/worldcist/AmaroMDD19>"
+        ]
+    },
+    {
+        "id": "Q0385",
+        "entities": [
+            "<https://dblp.org/pid/161/3969>",
+            "<https://dblp.org/rec/journals/aeog/KarnaHGBMQKBAB15>"
+        ]
+    },
+    {
+        "id": "Q0386",
+        "entities": [
+            "<https://dblp.org/pid/m/MargaretMartonosi>"
+        ]
+    },
+    {
+        "id": "Q0387",
+        "entities": [
+            "<https://dblp.org/pid/70/8958>",
+            "<https://dblp.org/rec/conf/igarss/TangLS13>"
+        ]
+    },
+    {
+        "id": "Q0388",
+        "entities": [
+            "<https://dblp.org/rec/conf/date/HasanMPB20>"
+        ]
+    },
+    {
+        "id": "Q0389",
+        "entities": [
+            "<https://dblp.org/pid/61/10980>",
+            "<https://dblp.org/rec/journals/csda/LeeCW16>"
+        ]
+    },
+    {
+        "id": "Q0390",
+        "entities": [
+            "<https://dblp.org/pid/194/1475>"
+        ]
+    },
+    {
+        "id": "Q0391",
+        "entities": [
+            "<https://dblp.org/rec/conf/rcar/PangTLLJS19>"
+        ]
+    },
+    {
+        "id": "Q0392",
+        "entities": [
+            "<https://dblp.org/pid/117/4895>"
+        ]
+    },
+    {
+        "id": "Q0393",
+        "entities": [
+            "<https://dblp.org/pid/79/135>",
+            "<https://dblp.org/rec/conf/ipps/BonakdarpourDP11>"
+        ]
+    },
+    {
+        "id": "Q0394",
+        "entities": [
+            "<https://dblp.org/pid/d/RodneyGDowney>",
+            "<https://dblp.org/rec/journals/apal/DowneyK86>"
+        ]
+    },
+    {
+        "id": "Q0395",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-1910-09497>"
+        ]
+    },
+    {
+        "id": "Q0396",
+        "entities": [
+            "<https://dblp.org/rec/conf/cogsci/CohenT17>"
+        ]
+    },
+    {
+        "id": "Q0397",
+        "entities": [
+            "<https://dblp.org/pid/08/1198>"
+        ]
+    },
+    {
+        "id": "Q0398",
+        "entities": [
+            "<https://dblp.org/rec/conf/ecsqaru/Lukasiewicz95>"
+        ]
+    },
+    {
+        "id": "Q0399",
+        "entities": [
+            "<https://dblp.org/rec/conf/mobiquitous/LeeK15>"
+        ]
+    },
+    {
+        "id": "Q0400",
+        "entities": [
+            "<https://dblp.org/pid/40/5388>"
+        ]
+    },
+    {
+        "id": "Q0401",
+        "entities": [
+            "<https://dblp.org/pid/75/3167>"
+        ]
+    },
+    {
+        "id": "Q0402",
+        "entities": [
+            "<https://dblp.org/pid/99/6221>"
+        ]
+    },
+    {
+        "id": "Q0403",
+        "entities": [
+            "<https://dblp.org/pid/52/1095>"
+        ]
+    },
+    {
+        "id": "Q0404",
+        "entities": [
+            "<https://dblp.org/pid/98/6670>",
+            "<https://dblp.org/pid/57/2108>"
+        ]
+    },
+    {
+        "id": "Q0405",
+        "entities": [
+            "<https://dblp.org/pid/236/3509>"
+        ]
+    },
+    {
+        "id": "Q0406",
+        "entities": [
+            "<https://dblp.org/pid/00/5057>"
+        ]
+    },
+    {
+        "id": "Q0407",
+        "entities": [
+            "<https://dblp.org/pid/80/10255>"
+        ]
+    },
+    {
+        "id": "Q0408",
+        "entities": [
+            "<https://dblp.org/pid/y/LiYanYuan>"
+        ]
+    },
+    {
+        "id": "Q0409",
+        "entities": [
+            "<https://dblp.org/pid/178/3549>"
+        ]
+    },
+    {
+        "id": "Q0410",
+        "entities": [
+            "<https://dblp.org/pid/148/1538>",
+            "<https://dblp.org/pid/148/2718>"
+        ]
+    },
+    {
+        "id": "Q0411",
+        "entities": [
+            "<https://dblp.org/pid/36/2690>"
+        ]
+    },
+    {
+        "id": "Q0412",
+        "entities": [
+            "<https://dblp.org/pid/93/1064>"
+        ]
+    },
+    {
+        "id": "Q0413",
+        "entities": [
+            "<https://dblp.org/pid/l/FrankThomsonLeighton>"
+        ]
+    },
+    {
+        "id": "Q0414",
+        "entities": [
+            "<https://dblp.org/pid/83/2355>"
+        ]
+    },
+    {
+        "id": "Q0415",
+        "entities": [
+            "<https://dblp.org/pid/209/6921-4>"
+        ]
+    },
+    {
+        "id": "Q0416",
+        "entities": [
+            "<https://dblp.org/pid/60/1802>"
+        ]
+    },
+    {
+        "id": "Q0417",
+        "entities": [
+            "<https://dblp.org/pid/60/3962>"
+        ]
+    },
+    {
+        "id": "Q0418",
+        "entities": [
+            "<https://dblp.org/pid/25/345>"
+        ]
+    },
+    {
+        "id": "Q0419",
+        "entities": [
+            "<https://dblp.org/pid/87/5355>"
+        ]
+    },
+    {
+        "id": "Q0420",
+        "entities": [
+            "<https://dblp.org/pid/86/658>",
+            "<https://dblp.org/pid/28/8846>"
+        ]
+    },
+    {
+        "id": "Q0421",
+        "entities": [
+            "<https://dblp.org/pid/03/2510>"
+        ]
+    },
+    {
+        "id": "Q0422",
+        "entities": [
+            "<https://dblp.org/pid/118/5197>"
+        ]
+    },
+    {
+        "id": "Q0423",
+        "entities": [
+            "<https://dblp.org/pid/04/2871>"
+        ]
+    },
+    {
+        "id": "Q0424",
+        "entities": [
+            "<https://dblp.org/pid/03/9004>"
+        ]
+    },
+    {
+        "id": "Q0425",
+        "entities": [
+            "<https://dblp.org/pid/206/7662>"
+        ]
+    },
+    {
+        "id": "Q0426",
+        "entities": [
+            "<https://dblp.org/pid/263/3282>"
+        ]
+    },
+    {
+        "id": "Q0427",
+        "entities": [
+            "<https://dblp.org/pid/66/1183>"
+        ]
+    },
+    {
+        "id": "Q0428",
+        "entities": [
+            "<https://dblp.org/pid/34/6457>"
+        ]
+    },
+    {
+        "id": "Q0429",
+        "entities": [
+            "<https://dblp.org/pid/179/9724>"
+        ]
+    },
+    {
+        "id": "Q0430",
+        "entities": [
+            "<https://dblp.org/pid/27/1106>"
+        ]
+    },
+    {
+        "id": "Q0431",
+        "entities": [
+            "<https://dblp.org/pid/08/1387>"
+        ]
+    },
+    {
+        "id": "Q0432",
+        "entities": [
+            "<https://dblp.org/pid/41/2782>"
+        ]
+    },
+    {
+        "id": "Q0433",
+        "entities": [
+            "<https://dblp.org/pid/d/KlausDavid>"
+        ]
+    },
+    {
+        "id": "Q0434",
+        "entities": [
+            "<https://dblp.org/pid/186/4602>"
+        ]
+    },
+    {
+        "id": "Q0435",
+        "entities": [
+            "<https://dblp.org/pid/70/4023>"
+        ]
+    },
+    {
+        "id": "Q0436",
+        "entities": [
+            "<https://dblp.org/pid/40/1513>"
+        ]
+    },
+    {
+        "id": "Q0437",
+        "entities": [
+            "<https://dblp.org/pid/45/880>"
+        ]
+    },
+    {
+        "id": "Q0438",
+        "entities": [
+            "<https://dblp.org/pid/01/2280>"
+        ]
+    },
+    {
+        "id": "Q0439",
+        "entities": [
+            "<https://dblp.org/pid/09/4196>"
+        ]
+    },
+    {
+        "id": "Q0440",
+        "entities": [
+            "<https://dblp.org/pid/00/2812>"
+        ]
+    },
+    {
+        "id": "Q0441",
+        "entities": [
+            "<https://dblp.org/pid/93/5054>"
+        ]
+    },
+    {
+        "id": "Q0442",
+        "entities": [
+            "<https://dblp.org/pid/149/7799>"
+        ]
+    },
+    {
+        "id": "Q0443",
+        "entities": [
+            "<https://dblp.org/pid/08/8138>"
+        ]
+    },
+    {
+        "id": "Q0444",
+        "entities": [
+            "<https://dblp.org/pid/r/ARajaraman>"
+        ]
+    },
+    {
+        "id": "Q0445",
+        "entities": [
+            "<https://dblp.org/pid/59/7119>"
+        ]
+    },
+    {
+        "id": "Q0446",
+        "entities": [
+            "<https://dblp.org/pid/50/3993>"
+        ]
+    },
+    {
+        "id": "Q0447",
+        "entities": [
+            "<https://dblp.org/pid/78/5662>"
+        ]
+    },
+    {
+        "id": "Q0448",
+        "entities": [
+            "<https://dblp.org/pid/216/4230>"
+        ]
+    },
+    {
+        "id": "Q0449",
+        "entities": [
+            "<https://dblp.org/pid/s/AndreasSpillner2>"
+        ]
+    },
+    {
+        "id": "Q0450",
+        "entities": [
+            "<https://dblp.org/pid/135/4920>",
+            "<https://dblp.org/pid/82/3140>"
+        ]
+    },
+    {
+        "id": "Q0451",
+        "entities": [
+            "<https://dblp.org/pid/117/9832>"
+        ]
+    },
+    {
+        "id": "Q0452",
+        "entities": [
+            "<https://dblp.org/pid/43/8066-1>"
+        ]
+    },
+    {
+        "id": "Q0453",
+        "entities": [
+            "<https://dblp.org/pid/30/11416>"
+        ]
+    },
+    {
+        "id": "Q0454",
+        "entities": [
+            "<https://dblp.org/pid/140/8389>"
+        ]
+    },
+    {
+        "id": "Q0455",
+        "entities": [
+            "<https://dblp.org/pid/16/782>"
+        ]
+    },
+    {
+        "id": "Q0456",
+        "entities": [
+            "<https://dblp.org/pid/76/2080>"
+        ]
+    },
+    {
+        "id": "Q0457",
+        "entities": [
+            "<https://dblp.org/pid/60/331>"
+        ]
+    },
+    {
+        "id": "Q0458",
+        "entities": [
+            "<https://dblp.org/pid/78/3245>"
+        ]
+    },
+    {
+        "id": "Q0459",
+        "entities": [
+            "<https://dblp.org/pid/22/5030>"
+        ]
+    },
+    {
+        "id": "Q0460",
+        "entities": [
+            "<https://dblp.org/pid/05/4430>"
+        ]
+    },
+    {
+        "id": "Q0461",
+        "entities": [
+            "<https://dblp.org/pid/88/1904>"
+        ]
+    },
+    {
+        "id": "Q0462",
+        "entities": [
+            "<https://dblp.org/pid/w/MelanieWeis>"
+        ]
+    },
+    {
+        "id": "Q0463",
+        "entities": [
+            "<https://dblp.org/pid/25/7261>"
+        ]
+    },
+    {
+        "id": "Q0464",
+        "entities": [
+            "<https://dblp.org/pid/132/0101>"
+        ]
+    },
+    {
+        "id": "Q0465",
+        "entities": [
+            "<https://dblp.org/pid/83/888>"
+        ]
+    },
+    {
+        "id": "Q0466",
+        "entities": [
+            "<https://dblp.org/pid/15/2537>"
+        ]
+    },
+    {
+        "id": "Q0467",
+        "entities": [
+            "<https://dblp.org/pid/77/10612>"
+        ]
+    },
+    {
+        "id": "Q0468",
+        "entities": [
+            "<https://dblp.org/pid/55/2363-4>"
+        ]
+    },
+    {
+        "id": "Q0469",
+        "entities": [
+            "<https://dblp.org/pid/b/LaxmiNBhuyan>"
+        ]
+    },
+    {
+        "id": "Q0470",
+        "entities": [
+            "<https://dblp.org/pid/265/5708>"
+        ]
+    },
+    {
+        "id": "Q0471",
+        "entities": [
+            "<https://dblp.org/pid/47/722-4>"
+        ]
+    },
+    {
+        "id": "Q0472",
+        "entities": [
+            "<https://dblp.org/pid/201/4461>"
+        ]
+    },
+    {
+        "id": "Q0473",
+        "entities": [
+            "<https://dblp.org/pid/a/MarcoAndreetto>"
+        ]
+    },
+    {
+        "id": "Q0474",
+        "entities": [
+            "<https://dblp.org/pid/35/10805>"
+        ]
+    },
+    {
+        "id": "Q0475",
+        "entities": [
+            "<https://dblp.org/pid/00/6219>"
+        ]
+    },
+    {
+        "id": "Q0476",
+        "entities": [
+            "<https://dblp.org/pid/h/ManuelVHermenegildo>"
+        ]
+    },
+    {
+        "id": "Q0477",
+        "entities": [
+            "<https://dblp.org/pid/98/813>"
+        ]
+    },
+    {
+        "id": "Q0478",
+        "entities": [
+            "<https://dblp.org/pid/265/1340>"
+        ]
+    },
+    {
+        "id": "Q0479",
+        "entities": [
+            "<https://dblp.org/pid/151/2051>"
+        ]
+    },
+    {
+        "id": "Q0480",
+        "entities": [
+            "<https://dblp.org/pid/54/1218>"
+        ]
+    },
+    {
+        "id": "Q0481",
+        "entities": [
+            "<https://dblp.org/pid/138/1749>"
+        ]
+    },
+    {
+        "id": "Q0482",
+        "entities": [
+            "<https://dblp.org/pid/178/8641>"
+        ]
+    },
+    {
+        "id": "Q0483",
+        "entities": [
+            "<https://dblp.org/pid/59/2578>"
+        ]
+    },
+    {
+        "id": "Q0484",
+        "entities": [
+            "<https://dblp.org/pid/39/610>"
+        ]
+    },
+    {
+        "id": "Q0485",
+        "entities": [
+            "<https://dblp.org/pid/20/10341>"
+        ]
+    },
+    {
+        "id": "Q0486",
+        "entities": [
+            "<https://dblp.org/pid/128/8886>"
+        ]
+    },
+    {
+        "id": "Q0487",
+        "entities": [
+            "<https://dblp.org/pid/01/2395>"
+        ]
+    },
+    {
+        "id": "Q0488",
+        "entities": [
+            "<https://dblp.org/pid/134/5500>"
+        ]
+    },
+    {
+        "id": "Q0489",
+        "entities": [
+            "<https://dblp.org/pid/172/1423>"
+        ]
+    },
+    {
+        "id": "Q0490",
+        "entities": [
+            "<https://dblp.org/pid/40/10030>"
+        ]
+    },
+    {
+        "id": "Q0491",
+        "entities": [
+            "<https://dblp.org/pid/73/564>"
+        ]
+    },
+    {
+        "id": "Q0492",
+        "entities": [
+            "<https://dblp.org/pid/g/OrlenaGotel>"
+        ]
+    },
+    {
+        "id": "Q0493",
+        "entities": [
+            "<https://dblp.org/pid/231/3748>"
+        ]
+    },
+    {
+        "id": "Q0494",
+        "entities": [
+            "<https://dblp.org/pid/32/6716>"
+        ]
+    },
+    {
+        "id": "Q0495",
+        "entities": [
+            "<https://dblp.org/pid/77/6124>"
+        ]
+    },
+    {
+        "id": "Q0496",
+        "entities": [
+            "<https://dblp.org/pid/36/3031>"
+        ]
+    },
+    {
+        "id": "Q0497",
+        "entities": [
+            "<https://dblp.org/pid/81/5255>"
+        ]
+    },
+    {
+        "id": "Q0498",
+        "entities": [
+            "<https://dblp.org/pid/23/10962>"
+        ]
+    },
+    {
+        "id": "Q0499",
+        "entities": [
+            "<https://dblp.org/pid/49/3721-1>"
+        ]
+    },
+    {
+        "id": "Q0500",
+        "entities": [
+            "<https://dblp.org/pid/80/1422>"
+        ]
+    },
+    {
+        "id": "Q0501",
+        "entities": [
+            "<https://dblp.org/rec/conf/hicss/Marakas95>"
+        ]
+    },
+    {
+        "id": "Q0502",
+        "entities": [
+            "<https://dblp.org/rec/conf/IEEEcloud/FarahnakianPLP14>"
+        ]
+    },
+    {
+        "id": "Q0503",
+        "entities": [
+            "<https://dblp.org/rec/conf/collaboration/PrakkenG99>"
+        ]
+    },
+    {
+        "id": "Q0504",
+        "entities": [
+            "<https://dblp.org/rec/conf/wecwis/KonaBBBW09>"
+        ]
+    },
+    {
+        "id": "Q0505",
+        "entities": [
+            "<https://dblp.org/rec/journals/bc/Nelson91>"
+        ]
+    },
+    {
+        "id": "Q0506",
+        "entities": [
+            "<https://dblp.org/rec/journals/access/LiSLZDKDS21>"
+        ]
+    },
+    {
+        "id": "Q0507",
+        "entities": [
+            "<https://dblp.org/rec/conf/sigir/SaraivaMFMRZ01>"
+        ]
+    },
+    {
+        "id": "Q0508",
+        "entities": [
+            "<https://dblp.org/rec/conf/wsdm/TrienesTSH20>"
+        ]
+    },
+    {
+        "id": "Q0509",
+        "entities": [
+            "<https://dblp.org/rec/journals/tis/Sorensen10>"
+        ]
+    },
+    {
+        "id": "Q0510",
+        "entities": [
+            "<https://dblp.org/rec/journals/mansci/Ha01>"
+        ]
+    },
+    {
+        "id": "Q0511",
+        "entities": [
+            "<https://dblp.org/rec/conf/lrec/PessentheinerPH16>"
+        ]
+    },
+    {
+        "id": "Q0512",
+        "entities": [
+            "<https://dblp.org/rec/journals/siamsc/TerragniVV11>"
+        ]
+    },
+    {
+        "id": "Q0513",
+        "entities": [
+            "<https://dblp.org/rec/conf/dexa/CappelliLM02>"
+        ]
+    },
+    {
+        "id": "Q0514",
+        "entities": [
+            "<https://dblp.org/rec/journals/tac/Cruz-ZavalaMF11>"
+        ]
+    },
+    {
+        "id": "Q0515",
+        "entities": [
+            "<https://dblp.org/rec/conf/cdc/MaadMSB04>"
+        ]
+    },
+    {
+        "id": "Q0516",
+        "entities": [
+            "<https://dblp.org/rec/journals/mj/ChangLLLLC09>"
+        ]
+    },
+    {
+        "id": "Q0517",
+        "entities": [
+            "<https://dblp.org/rec/conf/isnn/YiT10>"
+        ]
+    },
+    {
+        "id": "Q0518",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-1810-08660>"
+        ]
+    },
+    {
+        "id": "Q0519",
+        "entities": [
+            "<https://dblp.org/rec/conf/dcai/GomezMBJGA10>"
+        ]
+    },
+    {
+        "id": "Q0520",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-2010-00979>"
+        ]
+    },
+    {
+        "id": "Q0521",
+        "entities": [
+            "<https://dblp.org/rec/conf/fskd/ZhaoY11>"
+        ]
+    },
+    {
+        "id": "Q0522",
+        "entities": [
+            "<https://dblp.org/rec/conf/cimaging/FengR06>"
+        ]
+    },
+    {
+        "id": "Q0523",
+        "entities": [
+            "<https://dblp.org/rec/journals/ploscb/StewartRTNBCAWPBLSVHTTD13>"
+        ]
+    },
+    {
+        "id": "Q0524",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-1905-01659>"
+        ]
+    },
+    {
+        "id": "Q0525",
+        "entities": [
+            "<https://dblp.org/rec/journals/dt/LeeYCWI11>"
+        ]
+    },
+    {
+        "id": "Q0526",
+        "entities": [
+            "<https://dblp.org/rec/conf/cdc/SelivanovF15>"
+        ]
+    },
+    {
+        "id": "Q0527",
+        "entities": [
+            "<https://dblp.org/rec/conf/stacs/Gradel04>"
+        ]
+    },
+    {
+        "id": "Q0528",
+        "entities": [
+            "<https://dblp.org/rec/conf/nips/LangfordLZ08>"
+        ]
+    },
+    {
+        "id": "Q0529",
+        "entities": [
+            "<https://dblp.org/rec/journals/tie/SalimianI17>"
+        ]
+    },
+    {
+        "id": "Q0530",
+        "entities": [
+            "<https://dblp.org/rec/reference/algo/Spirakis16b>"
+        ]
+    },
+    {
+        "id": "Q0531",
+        "entities": [
+            "<https://dblp.org/rec/journals/tcst/DaafouzGB98>"
+        ]
+    },
+    {
+        "id": "Q0532",
+        "entities": [
+            "<https://dblp.org/rec/conf/aime/GambergerL03>"
+        ]
+    },
+    {
+        "id": "Q0533",
+        "entities": [
+            "<https://dblp.org/rec/conf/pimrc/ChoiL02>"
+        ]
+    },
+    {
+        "id": "Q0534",
+        "entities": [
+            "<https://dblp.org/rec/conf/cts/GaldamezSG12>"
+        ]
+    },
+    {
+        "id": "Q0535",
+        "entities": [
+            "<https://dblp.org/rec/conf/iccvw/MatsuoA13>"
+        ]
+    },
+    {
+        "id": "Q0536",
+        "entities": [
+            "<https://dblp.org/rec/journals/software/CarverPSY17>"
+        ]
+    },
+    {
+        "id": "Q0537",
+        "entities": [
+            "<https://dblp.org/rec/conf/webist/ZwattendorferZT12>"
+        ]
+    },
+    {
+        "id": "Q0538",
+        "entities": [
+            "<https://dblp.org/rec/conf/qsic/MoraCRP09>"
+        ]
+    },
+    {
+        "id": "Q0539",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-2201-02460>"
+        ]
+    },
+    {
+        "id": "Q0540",
+        "entities": [
+            "<https://dblp.org/rec/journals/tit/SunL97>"
+        ]
+    },
+    {
+        "id": "Q0541",
+        "entities": [
+            "<https://dblp.org/rec/conf/sigsoft/StylosM08>"
+        ]
+    },
+    {
+        "id": "Q0542",
+        "entities": [
+            "<https://dblp.org/rec/conf/symbiotic/SjobergCFKKLP16>"
+        ]
+    },
+    {
+        "id": "Q0543",
+        "entities": [
+            "<https://dblp.org/rec/journals/aml/Previale94>"
+        ]
+    },
+    {
+        "id": "Q0544",
+        "entities": [
+            "<https://dblp.org/rec/conf/issre/PalazziLFP19>"
+        ]
+    },
+    {
+        "id": "Q0545",
+        "entities": [
+            "<https://dblp.org/rec/conf/cimsivp/CekicB11>"
+        ]
+    },
+    {
+        "id": "Q0546",
+        "entities": [
+            "<https://dblp.org/rec/conf/fuzzIEEE/IonescuR04>"
+        ]
+    },
+    {
+        "id": "Q0547",
+        "entities": [
+            "<https://dblp.org/rec/journals/ejcon/MorseDFSPHKY98>"
+        ]
+    },
+    {
+        "id": "Q0548",
+        "entities": [
+            "<https://dblp.org/rec/conf/iecon/DuLZ21>"
+        ]
+    },
+    {
+        "id": "Q0549",
+        "entities": [
+            "<https://dblp.org/rec/conf/parco/BertholdL07>"
+        ]
+    },
+    {
+        "id": "Q0550",
+        "entities": [
+            "<https://dblp.org/rec/conf/icassp/XuH04>"
+        ]
+    },
+    {
+        "id": "Q0551",
+        "entities": [
+            "<https://dblp.org/rec/conf/sbqs/BarretoMR09>"
+        ]
+    },
+    {
+        "id": "Q0552",
+        "entities": [
+            "<https://dblp.org/rec/journals/isci/XiaoLMLL20>",
+            "<https://dblp.org/pid/15/3770>"
+        ]
+    },
+    {
+        "id": "Q0553",
+        "entities": [
+            "<https://dblp.org/rec/conf/isspa/Qureshi96>"
+        ]
+    },
+    {
+        "id": "Q0554",
+        "entities": [
+            "<https://dblp.org/rec/conf/iis/ChCKM06>",
+            "<https://dblp.org/pid/k/MieczyslawAKlopotek>"
+        ]
+    },
+    {
+        "id": "Q0555",
+        "entities": [
+            "<https://dblp.org/rec/conf/csmr/Sneed97>"
+        ]
+    },
+    {
+        "id": "Q0556",
+        "entities": [
+            "<https://dblp.org/rec/conf/esws/EllVS12a>",
+            "<https://dblp.org/pid/59/5618>"
+        ]
+    },
+    {
+        "id": "Q0557",
+        "entities": [
+            "<https://dblp.org/rec/conf/globalsip/MagguHMW17>"
+        ]
+    },
+    {
+        "id": "Q0558",
+        "entities": [
+            "<https://dblp.org/rec/journals/titb/MiaoFZDHHL17>"
+        ]
+    },
+    {
+        "id": "Q0559",
+        "entities": [
+            "<https://dblp.org/rec/journals/nar/BlakeBKRSBABBBB21>",
+            "<https://dblp.org/pid/290/7401>"
+        ]
+    },
+    {
+        "id": "Q0560",
+        "entities": [
+            "<https://dblp.org/rec/journals/tamd/WuWEY21>"
+        ]
+    },
+    {
+        "id": "Q0561",
+        "entities": [
+            "<https://dblp.org/rec/journals/tnn/CohenAOTBS18>"
+        ]
+    },
+    {
+        "id": "Q0562",
+        "entities": [
+            "<https://dblp.org/rec/journals/jbi/FilikovPKFO20>"
+        ]
+    },
+    {
+        "id": "Q0563",
+        "entities": [
+            "<https://dblp.org/rec/journals/sj/GuptaBSJ15>",
+            "<https://dblp.org/pid/95/4362>"
+        ]
+    },
+    {
+        "id": "Q0564",
+        "entities": [
+            "<https://dblp.org/rec/conf/wimob/MunzbergSHR19>"
+        ]
+    },
+    {
+        "id": "Q0565",
+        "entities": [
+            "<https://dblp.org/rec/journals/njc/NielsenN06>"
+        ]
+    },
+    {
+        "id": "Q0566",
+        "entities": [
+            "<https://dblp.org/rec/conf/sigcse/Roth80>"
+        ]
+    },
+    {
+        "id": "Q0567",
+        "entities": [
+            "<https://dblp.org/rec/conf/tencon/SJCT19>",
+            "<https://dblp.org/pid/223/2324>"
+        ]
+    },
+    {
+        "id": "Q0568",
+        "entities": [
+            "<https://dblp.org/rec/journals/amc/EstevezLS13>"
+        ]
+    },
+    {
+        "id": "Q0569",
+        "entities": [
+            "<https://dblp.org/rec/conf/isit/ParkSSS14a>"
+        ]
+    },
+    {
+        "id": "Q0570",
+        "entities": [
+            "<https://dblp.org/rec/journals/cm/KangYMZHXBG15>"
+        ]
+    },
+    {
+        "id": "Q0571",
+        "entities": [
+            "<https://dblp.org/rec/journals/ett/MilitanoFIM10>"
+        ]
+    },
+    {
+        "id": "Q0572",
+        "entities": [
+            "<https://dblp.org/rec/conf/hci/LiaoDW16>"
+        ]
+    },
+    {
+        "id": "Q0573",
+        "entities": [
+            "<https://dblp.org/rec/conf/cogsci/QuillienVPB17>"
+        ]
+    },
+    {
+        "id": "Q0574",
+        "entities": [
+            "<https://dblp.org/rec/journals/tecs/KoLCMTMGDSD10>"
+        ]
+    },
+    {
+        "id": "Q0575",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-2001-10218>",
+            "<https://dblp.org/pid/93/8055>"
+        ]
+    },
+    {
+        "id": "Q0576",
+        "entities": [
+            "<https://dblp.org/rec/conf/igarss/MrozBLTS18>",
+            "<https://dblp.org/pid/189/3448>"
+        ]
+    },
+    {
+        "id": "Q0577",
+        "entities": [
+            "<https://dblp.org/rec/conf/acl/FujinumaBK22>"
+        ]
+    },
+    {
+        "id": "Q0578",
+        "entities": [
+            "<https://dblp.org/rec/conf/siguccs/MeshkatyP04>"
+        ]
+    },
+    {
+        "id": "Q0579",
+        "entities": [
+            "<https://dblp.org/rec/conf/isgteurope/AlvesBBM19>"
+        ]
+    },
+    {
+        "id": "Q0580",
+        "entities": [
+            "<https://dblp.org/rec/conf/acsac/BertinoKTV05>"
+        ]
+    },
+    {
+        "id": "Q0581",
+        "entities": [
+            "<https://dblp.org/rec/conf/iros/NunoBO10>"
+        ]
+    },
+    {
+        "id": "Q0582",
+        "entities": [
+            "<https://dblp.org/rec/conf/vlsid/Sapatnekar00>"
+        ]
+    },
+    {
+        "id": "Q0583",
+        "entities": [
+            "<https://dblp.org/rec/journals/staeors/JiaBCL16>"
+        ]
+    },
+    {
+        "id": "Q0584",
+        "entities": [
+            "<https://dblp.org/rec/conf/midp/NiaziPG16>"
+        ]
+    },
+    {
+        "id": "Q0585",
+        "entities": [
+            "<https://dblp.org/rec/conf/icpads/LuaCC11>",
+            "<https://dblp.org/pid/82/1037>"
+        ]
+    },
+    {
+        "id": "Q0586",
+        "entities": [
+            "<https://dblp.org/rec/journals/infsof/AzarV11>"
+        ]
+    },
+    {
+        "id": "Q0587",
+        "entities": [
+            "<https://dblp.org/rec/journals/jr/Aguilar09>"
+        ]
+    },
+    {
+        "id": "Q0588",
+        "entities": [
+            "<https://dblp.org/rec/conf/fimh/BacoyannisKCCS19>",
+            "<https://dblp.org/pid/92/5704>"
+        ]
+    },
+    {
+        "id": "Q0589",
+        "entities": [
+            "<https://dblp.org/rec/journals/jacm/KaplanU80>"
+        ]
+    },
+    {
+        "id": "Q0590",
+        "entities": [
+            "<https://dblp.org/rec/conf/pfe/GomaaH03>"
+        ]
+    },
+    {
+        "id": "Q0591",
+        "entities": [
+            "<https://dblp.org/rec/conf/icse/GaoFYL0X22>",
+            "<https://dblp.org/pid/265/3446>"
+        ]
+    },
+    {
+        "id": "Q0592",
+        "entities": [
+            "<https://dblp.org/rec/conf/cvpr/KoppelTW08>"
+        ]
+    },
+    {
+        "id": "Q0593",
+        "entities": [
+            "<https://dblp.org/rec/journals/tgrs/RicciardelliRC10>"
+        ]
+    },
+    {
+        "id": "Q0594",
+        "entities": [
+            "<https://dblp.org/rec/conf/ecsa/MarcoGII10>"
+        ]
+    },
+    {
+        "id": "Q0595",
+        "entities": [
+            "<https://dblp.org/rec/journals/access/ChenFWGWG19>"
+        ]
+    },
+    {
+        "id": "Q0596",
+        "entities": [
+            "<https://dblp.org/rec/journals/dt/AsadJ16>"
+        ]
+    },
+    {
+        "id": "Q0597",
+        "entities": [
+            "<https://dblp.org/rec/journals/sjis/Andersen92>"
+        ]
+    },
+    {
+        "id": "Q0598",
+        "entities": [
+            "<https://dblp.org/rec/journals/cgf/GermerS09>"
+        ]
+    },
+    {
+        "id": "Q0599",
+        "entities": [
+            "<https://dblp.org/rec/conf/latincom/RiceP17>"
+        ]
+    },
+    {
+        "id": "Q0600",
+        "entities": [
+            "<https://dblp.org/rec/journals/integration/DingQZZ21>"
+        ]
+    },
+    {
+        "id": "Q0601",
+        "entities": [
+            "<https://dblp.org/rec/journals/software/SchaffertBBK08>"
+        ]
+    },
+    {
+        "id": "Q0602",
+        "entities": [
+            "<https://dblp.org/rec/conf/icexss/Kuehl16>"
+        ]
+    },
+    {
+        "id": "Q0603",
+        "entities": [
+            "<https://dblp.org/rec/conf/siggraph/TaguchiN05>"
+        ]
+    },
+    {
+        "id": "Q0604",
+        "entities": [
+            "<https://dblp.org/rec/journals/cacm/Monroe17>"
+        ]
+    },
+    {
+        "id": "Q0605",
+        "entities": [
+            "<https://dblp.org/rec/conf/educon/ManeschijnB16>"
+        ]
+    },
+    {
+        "id": "Q0606",
+        "entities": [
+            "<https://dblp.org/rec/conf/codit/MohantyN19>"
+        ]
+    },
+    {
+        "id": "Q0607",
+        "entities": [
+            "<https://dblp.org/rec/conf/compsac/BragaM02>"
+        ]
+    },
+    {
+        "id": "Q0608",
+        "entities": [
+            "<https://dblp.org/rec/journals/tsi/OliverRMV02>"
+        ]
+    },
+    {
+        "id": "Q0609",
+        "entities": [
+            "<https://dblp.org/rec/conf/dagstuhl/Muller92>"
+        ]
+    },
+    {
+        "id": "Q0610",
+        "entities": [
+            "<https://dblp.org/rec/conf/icpr/ZhuH94>"
+        ]
+    },
+    {
+        "id": "Q0611",
+        "entities": [
+            "<https://dblp.org/rec/journals/tkde/Teuhola96>"
+        ]
+    },
+    {
+        "id": "Q0612",
+        "entities": [
+            "<https://dblp.org/rec/journals/tdsc/CaiHGL18>"
+        ]
+    },
+    {
+        "id": "Q0613",
+        "entities": [
+            "<https://dblp.org/rec/conf/psivt/SthitpattanapongsaS11>"
+        ]
+    },
+    {
+        "id": "Q0614",
+        "entities": [
+            "<https://dblp.org/rec/journals/adam/HungWHC18>"
+        ]
+    },
+    {
+        "id": "Q0615",
+        "entities": [
+            "<https://dblp.org/rec/journals/orl/CanovasGLM07>"
+        ]
+    },
+    {
+        "id": "Q0616",
+        "entities": [
+            "<https://dblp.org/rec/journals/amc/BalachandranGRT15>"
+        ]
+    },
+    {
+        "id": "Q0617",
+        "entities": [
+            "<https://dblp.org/rec/journals/jacm/CyganGS15>"
+        ]
+    },
+    {
+        "id": "Q0618",
+        "entities": [
+            "<https://dblp.org/rec/conf/iccda/ZhangC21>"
+        ]
+    },
+    {
+        "id": "Q0619",
+        "entities": [
+            "<https://dblp.org/rec/journals/mp/Jiang0W18>"
+        ]
+    },
+    {
+        "id": "Q0620",
+        "entities": [
+            "<https://dblp.org/rec/conf/iseud/Maceli17>"
+        ]
+    },
+    {
+        "id": "Q0621",
+        "entities": [
+            "<https://dblp.org/rec/conf/iwsda/KimSKLK13>"
+        ]
+    },
+    {
+        "id": "Q0622",
+        "entities": [
+            "<https://dblp.org/rec/journals/js/WangYXW17>"
+        ]
+    },
+    {
+        "id": "Q0623",
+        "entities": [
+            "<https://dblp.org/rec/conf/icira/XieZWD19>"
+        ]
+    },
+    {
+        "id": "Q0624",
+        "entities": [
+            "<https://dblp.org/rec/conf/iwssip/BalikR18>"
+        ]
+    },
+    {
+        "id": "Q0625",
+        "entities": [
+            "<https://dblp.org/rec/conf/icpp/RamamrithamSS89>"
+        ]
+    },
+    {
+        "id": "Q0626",
+        "entities": [
+            "<https://dblp.org/rec/journals/envsoft/ParkerKKCLB12>"
+        ]
+    },
+    {
+        "id": "Q0627",
+        "entities": [
+            "<https://dblp.org/rec/journals/toms/ZaveC83>"
+        ]
+    },
+    {
+        "id": "Q0628",
+        "entities": [
+            "<https://dblp.org/rec/conf/cscs/ZahariaRT21>"
+        ]
+    },
+    {
+        "id": "Q0629",
+        "entities": [
+            "<https://dblp.org/rec/journals/nca/Torres-AlegreFP20>"
+        ]
+    },
+    {
+        "id": "Q0630",
+        "entities": [
+            "<https://dblp.org/rec/conf/iccad/PinckneyVKK21>"
+        ]
+    },
+    {
+        "id": "Q0631",
+        "entities": [
+            "<https://dblp.org/rec/journals/sigact/Gasarch10h>"
+        ]
+    },
+    {
+        "id": "Q0632",
+        "entities": [
+            "<https://dblp.org/rec/journals/pr/ChangAY00>"
+        ]
+    },
+    {
+        "id": "Q0633",
+        "entities": [
+            "<https://dblp.org/rec/journals/jcst/WangW95>"
+        ]
+    },
+    {
+        "id": "Q0634",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-2204-13385>"
+        ]
+    },
+    {
+        "id": "Q0635",
+        "entities": [
+            "<https://dblp.org/rec/conf/lssc/Filippova17>"
+        ]
+    },
+    {
+        "id": "Q0636",
+        "entities": [
+            "<https://dblp.org/rec/journals/cee/PaulrajFPJ18>"
+        ]
+    },
+    {
+        "id": "Q0637",
+        "entities": [
+            "<https://dblp.org/rec/conf/ro-man/BuoncompagniM19>"
+        ]
+    },
+    {
+        "id": "Q0638",
+        "entities": [
+            "<https://dblp.org/rec/conf/rita/AngelV13>"
+        ]
+    },
+    {
+        "id": "Q0639",
+        "entities": [
+            "<https://dblp.org/rec/journals/anor/Legut20>"
+        ]
+    },
+    {
+        "id": "Q0640",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-2204-03610>"
+        ]
+    },
+    {
+        "id": "Q0641",
+        "entities": [
+            "<https://dblp.org/rec/conf/chi/Waern16>"
+        ]
+    },
+    {
+        "id": "Q0642",
+        "entities": [
+            "<https://dblp.org/rec/conf/icra/NickelsH01>"
+        ]
+    },
+    {
+        "id": "Q0643",
+        "entities": [
+            "<https://dblp.org/rec/journals/iandc/Post75>"
+        ]
+    },
+    {
+        "id": "Q0644",
+        "entities": [
+            "<https://dblp.org/rec/conf/lcpc/MalekiEP14>"
+        ]
+    },
+    {
+        "id": "Q0645",
+        "entities": [
+            "<https://dblp.org/rec/journals/jcp/YangPHZGL14>"
+        ]
+    },
+    {
+        "id": "Q0646",
+        "entities": [
+            "<https://dblp.org/rec/conf/its/Fournier-VigerNNM10>"
+        ]
+    },
+    {
+        "id": "Q0647",
+        "entities": [
+            "<https://dblp.org/rec/journals/sigplan/Hanson81>"
+        ]
+    },
+    {
+        "id": "Q0648",
+        "entities": [
+            "<https://dblp.org/rec/conf/parle/VeldeOD93>"
+        ]
+    },
+    {
+        "id": "Q0649",
+        "entities": [
+            "<https://dblp.org/rec/journals/tkl/HenriksenHCCCSS18>"
+        ]
+    },
+    {
+        "id": "Q0650",
+        "entities": [
+            "<https://dblp.org/rec/journals/sadm/AkbarzadehMMDMS19>"
+        ]
+    },
+    {
+        "id": "Q0651",
+        "entities": [
+            "<https://dblp.org/rec/conf/chi/LinderK15>",
+            "Comput. Networks"
+        ]
+    },
+    {
+        "id": "Q0652",
+        "entities": [
+            "<https://dblp.org/rec/conf/ph/MajiMMMSPM08>"
+        ]
+    },
+    {
+        "id": "Q0653",
+        "entities": [
+            "<https://dblp.org/rec/journals/csda/FanD11>",
+            "iThings/GreenCom/CPSCom/SmartData"
+        ]
+    },
+    {
+        "id": "Q0654",
+        "entities": [
+            "<https://dblp.org/rec/conf/aina/HondaNNDET16>",
+            "CoRR"
+        ]
+    },
+    {
+        "id": "Q0655",
+        "entities": [
+            "<https://dblp.org/rec/conf/csdm/AlabdulkareemASAW13>",
+            "<https://dblp.org/rec/journals/corr/abs-2201-10430>"
+        ]
+    },
+    {
+        "id": "Q0656",
+        "entities": [
+            "<https://dblp.org/rec/journals/tit/FedotovR01>",
+            "Int. J. Math. Math. Sci."
+        ]
+    },
+    {
+        "id": "Q0657",
+        "entities": [
+            "<https://dblp.org/rec/journals/iet-com/HuH17>",
+            "<https://dblp.org/rec/journals/ijflis/KimRJ16>"
+        ]
+    },
+    {
+        "id": "Q0658",
+        "entities": [
+            "<https://dblp.org/rec/conf/chi/KunzeKYK13>",
+            "CoRR"
+        ]
+    },
+    {
+        "id": "Q0659",
+        "entities": [
+            "<https://dblp.org/rec/journals/chinaf/ZhengWXZ21>",
+            "<https://dblp.org/rec/conf/cscl/Sorensen99>"
+        ]
+    },
+    {
+        "id": "Q0660",
+        "entities": [
+            "<https://dblp.org/rec/conf/formats/BouyerLR05>",
+            "<http://purl.org/net/nknouf/ns/bibtex#Inproceedings>"
+        ]
+    },
+    {
+        "id": "Q0661",
+        "entities": [
+            "<https://dblp.org/rec/conf/case/Lajunen13>"
+        ]
+    },
+    {
+        "id": "Q0662",
+        "entities": [
+            "<https://dblp.org/rec/conf/csit/KononenkoL18>"
+        ]
+    },
+    {
+        "id": "Q0663",
+        "entities": [
+            "<https://dblp.org/rec/conf/hci/SunLLW15>",
+            "<http://purl.org/net/nknouf/ns/bibtex#Inproceedings>"
+        ]
+    },
+    {
+        "id": "Q0664",
+        "entities": [
+            "<https://dblp.org/rec/conf/iros/StachnissB02>"
+        ]
+    },
+    {
+        "id": "Q0665",
+        "entities": [
+            "<https://dblp.org/rec/conf/apocs/BasatGS20>",
+            "<http://purl.org/net/nknouf/ns/bibtex#Inproceedings>"
+        ]
+    },
+    {
+        "id": "Q0666",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-1304-1120>"
+        ]
+    },
+    {
+        "id": "Q0667",
+        "entities": [
+            "<https://dblp.org/rec/journals/jal/FingerhutST97>"
+        ]
+    },
+    {
+        "id": "Q0668",
+        "entities": [
+            "<https://dblp.org/rec/conf/icccn/OkumuraMM00>"
+        ]
+    },
+    {
+        "id": "Q0669",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-0802-3046>",
+            "<http://purl.org/net/nknouf/ns/bibtex#Article>"
+        ]
+    },
+    {
+        "id": "Q0670",
+        "entities": [
+            "<https://dblp.org/rec/conf/m3e2/PorokhnyaO19>",
+            "<https://dblp.org/rec/journals/corr/BlumR15>"
+        ]
+    },
+    {
+        "id": "Q0671",
+        "entities": [
+            "<https://dblp.org/rec/journals/ijcta/GuptaSZC14>"
+        ]
+    },
+    {
+        "id": "Q0672",
+        "entities": [
+            "<https://dblp.org/rec/conf/hicss/AppelmanHS07>",
+            "<https://dblp.org/rec/conf/prdc/JinJ09>"
+        ]
+    },
+    {
+        "id": "Q0673",
+        "entities": [
+            "<https://dblp.org/rec/journals/iotj/LeeNJLC21>",
+            "J. Philos. Log."
+        ]
+    },
+    {
+        "id": "Q0674",
+        "entities": [
+            "<https://dblp.org/rec/journals/jmiv/Luke13>"
+        ]
+    },
+    {
+        "id": "Q0675",
+        "entities": [
+            "<https://dblp.org/rec/conf/iccS/ZurekPPK17>",
+            "CoRR"
+        ]
+    },
+    {
+        "id": "Q0676",
+        "entities": [
+            "<https://dblp.org/rec/conf/semcco/KaruppiahMS14>",
+            "ICPCSEE (1)"
+        ]
+    },
+    {
+        "id": "Q0677",
+        "entities": [
+            "<https://dblp.org/rec/conf/bigdataconf/DholakiaVDDTSSS17>",
+            "SIGIR"
+        ]
+    },
+    {
+        "id": "Q0678",
+        "entities": [
+            "<https://dblp.org/rec/conf/bibe/JakobssonWM07>",
+            "<http://purl.org/net/nknouf/ns/bibtex#Inproceedings>"
+        ]
+    },
+    {
+        "id": "Q0679",
+        "entities": [
+            "<https://dblp.org/rec/conf/isip/ZuoZL08>",
+            "<https://dblp.org/rec/journals/cm/Hamdi97>"
+        ]
+    },
+    {
+        "id": "Q0680",
+        "entities": [
+            "<https://dblp.org/rec/journals/ijrr/NichollsL89>"
+        ]
+    },
+    {
+        "id": "Q0681",
+        "entities": [
+            "<https://dblp.org/rec/conf/smc/WangZ09a>",
+            "<http://purl.org/net/nknouf/ns/bibtex#Inproceedings>"
+        ]
+    },
+    {
+        "id": "Q0682",
+        "entities": [
+            "<https://dblp.org/rec/journals/jnca/PedhadiyaJB19>",
+            "<http://purl.org/net/nknouf/ns/bibtex#Article>"
+        ]
+    },
+    {
+        "id": "Q0683",
+        "entities": [
+            "<https://dblp.org/rec/journals/kybernetika/Vanecek06>",
+            "<https://dblp.org/rec/conf/foiks/0002M20>"
+        ]
+    },
+    {
+        "id": "Q0684",
+        "entities": [
+            "<https://dblp.org/rec/conf/icaart/KhanH12>",
+            "<https://dblp.org/rec/journals/jam/JinZ13>"
+        ]
+    },
+    {
+        "id": "Q0685",
+        "entities": [
+            "<https://dblp.org/rec/journals/alife/Yoshihara97>",
+            "<https://dblp.org/rec/conf/sinobiometrics/HeT04>"
+        ]
+    },
+    {
+        "id": "Q0686",
+        "entities": [
+            "<https://dblp.org/rec/conf/iccwcs/DahdouhDO17>"
+        ]
+    },
+    {
+        "id": "Q0687",
+        "entities": [
+            "<https://dblp.org/rec/conf/sdm/DouLQKZ07>",
+            "<http://purl.org/net/nknouf/ns/bibtex#Inproceedings>"
+        ]
+    },
+    {
+        "id": "Q0688",
+        "entities": [
+            "<https://dblp.org/rec/journals/iacr/DodisQW21>",
+            "<https://dblp.org/rec/conf/aciids/PalakN19>"
+        ]
+    },
+    {
+        "id": "Q0689",
+        "entities": [
+            "<https://dblp.org/rec/journals/cais/HovorkaG13>",
+            "<https://dblp.org/rec/conf/icnc/KuZCYC17>"
+        ]
+    },
+    {
+        "id": "Q0690",
+        "entities": [
+            "<https://dblp.org/rec/journals/clsr/Davies94a>"
+        ]
+    },
+    {
+        "id": "Q0691",
+        "entities": [
+            "<https://dblp.org/rec/journals/npl/RussoMR21>",
+            "<https://dblp.org/rec/conf/xpu/Bless10>"
+        ]
+    },
+    {
+        "id": "Q0692",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-2104-00587>",
+            "<https://dblp.org/rec/journals/ijnc/AlsulaimanPZ13>"
+        ]
+    },
+    {
+        "id": "Q0693",
+        "entities": [
+            "<https://dblp.org/rec/journals/automatica/Young81a>"
+        ]
+    },
+    {
+        "id": "Q0694",
+        "entities": [
+            "<https://dblp.org/rec/conf/educon/GrunewaldMMTTW13>",
+            "<http://purl.org/net/nknouf/ns/bibtex#Inproceedings>"
+        ]
+    },
+    {
+        "id": "Q0695",
+        "entities": [
+            "<https://dblp.org/rec/journals/tits/CalabuigMMBG18>",
+            "<https://dblp.org/rec/conf/isorc/KarrayPKG13>"
+        ]
+    },
+    {
+        "id": "Q0696",
+        "entities": [
+            "<https://dblp.org/rec/conf/tma/WachsSC17>"
+        ]
+    },
+    {
+        "id": "Q0697",
+        "entities": [
+            "<https://dblp.org/rec/conf/iccsa/DellAquila22>",
+            "Math. Control. Signals Syst."
+        ]
+    },
+    {
+        "id": "Q0698",
+        "entities": [
+            "<https://dblp.org/rec/conf/smc/YadaM06>"
+        ]
+    },
+    {
+        "id": "Q0699",
+        "entities": [
+            "<https://dblp.org/rec/conf/icchp/GuillonBM02>",
+            "<https://dblp.org/rec/journals/mmas/KorneevB16>"
+        ]
+    },
+    {
+        "id": "Q0700",
+        "entities": [
+            "<https://dblp.org/rec/conf/interspeech/RazikMFH05>",
+            "<http://purl.org/net/nknouf/ns/bibtex#Inproceedings>"
+        ]
+    },
+    {
+        "id": "Q0701",
+        "entities": [
+            "<https://dblp.org/rec/conf/mcpr/MarieR83>"
+        ]
+    },
+    {
+        "id": "Q0702",
+        "entities": [
+            "<https://dblp.org/rec/conf/bracis/MaletzkeRB17>"
+        ]
+    },
+    {
+        "id": "Q0703",
+        "entities": [
+            "<https://dblp.org/rec/conf/itsc/BischoffMN17>",
+            "<https://dblp.org/rec/journals/corr/abs-2206-05741>"
+        ]
+    },
+    {
+        "id": "Q0704",
+        "entities": [
+            "<https://dblp.org/rec/conf/aaai/ShapiroKO08>"
+        ]
+    },
+    {
+        "id": "Q0705",
+        "entities": [
+            "<https://dblp.org/rec/conf/chi/SadasivanGGD05>",
+            "<https://dblp.org/rec/journals/jcst/XuW99>"
+        ]
+    },
+    {
+        "id": "Q0706",
+        "entities": [
+            "<https://dblp.org/rec/books/sp/13/Krugler13>"
+        ]
+    },
+    {
+        "id": "Q0707",
+        "entities": [
+            "<https://dblp.org/rec/journals/gidr/BrosdaH91>"
+        ]
+    },
+    {
+        "id": "Q0708",
+        "entities": [
+            "<https://dblp.org/rec/conf/cec/LiuZTV09>"
+        ]
+    },
+    {
+        "id": "Q0709",
+        "entities": [
+            "<https://dblp.org/rec/conf/iceis/DionisioT14>",
+            "<https://dblp.org/rec/books/vi/97/StienenG97>"
+        ]
+    },
+    {
+        "id": "Q0710",
+        "entities": [
+            "<https://dblp.org/rec/conf/centeris/FagerstromRPLSE19>"
+        ]
+    },
+    {
+        "id": "Q0711",
+        "entities": [
+            "<https://dblp.org/rec/conf/acssc/VedadiS12>"
+        ]
+    },
+    {
+        "id": "Q0712",
+        "entities": [
+            "<https://dblp.org/rec/journals/itpro/TongW07>",
+            "<https://dblp.org/rec/conf/icassp/GarciaC84>"
+        ]
+    },
+    {
+        "id": "Q0713",
+        "entities": [
+            "<https://dblp.org/rec/journals/scientometrics/TutuncuYS22>"
+        ]
+    },
+    {
+        "id": "Q0714",
+        "entities": [
+            "<https://dblp.org/rec/journals/ejasp/GauvainL03>",
+            "<https://dblp.org/rec/conf/csit/DudaKMPR20>"
+        ]
+    },
+    {
+        "id": "Q0715",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-2010-05753>",
+            "<https://dblp.org/rec/conf/icip/PuttensteinHH02>"
+        ]
+    },
+    {
+        "id": "Q0716",
+        "entities": [
+            "<https://dblp.org/rec/journals/cg/AhsanMPG22>"
+        ]
+    },
+    {
+        "id": "Q0717",
+        "entities": [
+            "<https://dblp.org/rec/conf/icis/FreisingerS21>"
+        ]
+    },
+    {
+        "id": "Q0718",
+        "entities": [
+            "<https://dblp.org/rec/journals/cnsns/Pinnola16>"
+        ]
+    },
+    {
+        "id": "Q0719",
+        "entities": [
+            "<https://dblp.org/rec/conf/globecom/NguyenLH21>"
+        ]
+    },
+    {
+        "id": "Q0720",
+        "entities": [
+            "<https://dblp.org/rec/journals/sensors/LiuXPLLHX21>"
+        ]
+    },
+    {
+        "id": "Q0721",
+        "entities": [
+            "<https://dblp.org/rec/conf/chi/StevensVA02>",
+            "<https://dblp.org/rec/journals/dhq/ArgamonCHOSV09>"
+        ]
+    },
+    {
+        "id": "Q0722",
+        "entities": [
+            "<https://dblp.org/rec/conf/tsd/BartosekH13>",
+            "<https://dblp.org/rec/conf/dh/AnaisAGT13>"
+        ]
+    },
+    {
+        "id": "Q0723",
+        "entities": [
+            "<https://dblp.org/rec/journals/jms/ManochaSB20>"
+        ]
+    },
+    {
+        "id": "Q0724",
+        "entities": [
+            "<https://dblp.org/rec/conf/icecsys/HuberWM96>"
+        ]
+    },
+    {
+        "id": "Q0725",
+        "entities": [
+            "<https://dblp.org/rec/journals/robotica/Craig89b>"
+        ]
+    },
+    {
+        "id": "Q0726",
+        "entities": [
+            "<https://dblp.org/rec/conf/dlt/MateescuSY97>"
+        ]
+    },
+    {
+        "id": "Q0727",
+        "entities": [
+            "<https://dblp.org/rec/journals/neuroimage/PiazzaCAMBRBM16>"
+        ]
+    },
+    {
+        "id": "Q0728",
+        "entities": [
+            "<https://dblp.org/rec/conf/icse/MullerKA021>",
+            "<https://dblp.org/rec/conf/ibica/Almanza-ArjonaM19>"
+        ]
+    },
+    {
+        "id": "Q0729",
+        "entities": [
+            "<https://dblp.org/rec/conf/serene/PereverzevaTL12>"
+        ]
+    },
+    {
+        "id": "Q0730",
+        "entities": [
+            "<https://dblp.org/rec/journals/tit/BachS09>"
+        ]
+    },
+    {
+        "id": "Q0731",
+        "entities": [
+            "<https://dblp.org/rec/journals/prl/Margalit89>"
+        ]
+    },
+    {
+        "id": "Q0732",
+        "entities": [
+            "<https://dblp.org/rec/journals/iandc/BenerecettiF17>"
+        ]
+    },
+    {
+        "id": "Q0733",
+        "entities": [
+            "<https://dblp.org/rec/journals/cn/Ko11>"
+        ]
+    },
+    {
+        "id": "Q0734",
+        "entities": [
+            "<https://dblp.org/rec/conf/icnc/ChenHZL08>"
+        ]
+    },
+    {
+        "id": "Q0735",
+        "entities": [
+            "<https://dblp.org/rec/journals/js/ZhengZSS18>",
+            "<https://dblp.org/rec/journals/cnsns/ChenL17>"
+        ]
+    },
+    {
+        "id": "Q0736",
+        "entities": [
+            "<https://dblp.org/rec/conf/centeris/AntunesSLFA15>"
+        ]
+    },
+    {
+        "id": "Q0737",
+        "entities": [
+            "<https://dblp.org/rec/conf/icassp/OxvigPAL13>"
+        ]
+    },
+    {
+        "id": "Q0738",
+        "entities": [
+            "<https://dblp.org/rec/conf/wcnc/ShahF14>"
+        ]
+    },
+    {
+        "id": "Q0739",
+        "entities": [
+            "<https://dblp.org/rec/journals/lp/Stanley12>",
+            "<https://dblp.org/rec/conf/ifip3-4/OsorioN19>"
+        ]
+    },
+    {
+        "id": "Q0740",
+        "entities": [
+            "<https://dblp.org/rec/journals/cse/CouttsL12>",
+            "<https://dblp.org/rec/journals/comsis/PopovicB12>"
+        ]
+    },
+    {
+        "id": "Q0741",
+        "entities": [
+            "<https://dblp.org/rec/conf/fpt/StylesTL04>",
+            "<https://dblp.org/rec/journals/neco/BaudatA00>"
+        ]
+    },
+    {
+        "id": "Q0742",
+        "entities": [
+            "<https://dblp.org/rec/conf/igarss/SuiDY0CL21>"
+        ]
+    },
+    {
+        "id": "Q0743",
+        "entities": [
+            "<https://dblp.org/rec/conf/icpp/CirneSCSBSSBS03>"
+        ]
+    },
+    {
+        "id": "Q0744",
+        "entities": [
+            "<https://dblp.org/rec/journals/hmd/Robra-BissantzL17>",
+            "<https://dblp.org/rec/journals/corr/abs-1910-00208>"
+        ]
+    },
+    {
+        "id": "Q0745",
+        "entities": [
+            "<https://dblp.org/rec/journals/wpc/Zou20>"
+        ]
+    },
+    {
+        "id": "Q0746",
+        "entities": [
+            "<https://dblp.org/rec/conf/icccnt/ChawlaSP18>"
+        ]
+    },
+    {
+        "id": "Q0747",
+        "entities": [
+            "<https://dblp.org/rec/journals/iet-cds/Maskell07>"
+        ]
+    },
+    {
+        "id": "Q0748",
+        "entities": [
+            "<https://dblp.org/rec/conf/gsi/LorenziP13>"
+        ]
+    },
+    {
+        "id": "Q0749",
+        "entities": [
+            "<https://dblp.org/rec/conf/bmvc/CoxHMR92>",
+            "<https://dblp.org/rec/conf/icassp/DrugmanKRG13>"
+        ]
+    },
+    {
+        "id": "Q0750",
+        "entities": [
+            "<https://dblp.org/rec/conf/hotstorage/MarmolSTRDRG14>"
+        ]
+    },
+    {
+        "id": "Q0751",
+        "entities": [
+            "<https://dblp.org/rec/conf/eurographics/OhrhallingerM12>"
+        ]
+    },
+    {
+        "id": "Q0752",
+        "entities": [
+            "<https://dblp.org/rec/conf/aia/KuusikLL05>"
+        ]
+    },
+    {
+        "id": "Q0753",
+        "entities": [
+            "<https://dblp.org/rec/conf/exling/LiWZ10>"
+        ]
+    },
+    {
+        "id": "Q0754",
+        "entities": [
+            "<https://dblp.org/rec/conf/igta/BianXZ16>"
+        ]
+    },
+    {
+        "id": "Q0755",
+        "entities": [
+            "<https://dblp.org/rec/conf/stoc/Vaidya87>"
+        ]
+    },
+    {
+        "id": "Q0756",
+        "entities": [
+            "<https://dblp.org/rec/journals/cbm/HayashiS02>"
+        ]
+    },
+    {
+        "id": "Q0757",
+        "entities": [
+            "<https://dblp.org/rec/journals/tim/AndoG05>"
+        ]
+    },
+    {
+        "id": "Q0758",
+        "entities": [
+            "<https://dblp.org/rec/journals/cmpb/YeginerK08>"
+        ]
+    },
+    {
+        "id": "Q0759",
+        "entities": [
+            "<https://dblp.org/rec/journals/rairo/AlrefaeiD15>"
+        ]
+    },
+    {
+        "id": "Q0760",
+        "entities": [
+            "<https://dblp.org/rec/conf/ispacs/NishimakiS19>"
+        ]
+    },
+    {
+        "id": "Q0761",
+        "entities": [
+            "<https://dblp.org/rec/conf/istas/Zimmerman09>"
+        ]
+    },
+    {
+        "id": "Q0762",
+        "entities": [
+            "<https://dblp.org/rec/journals/bjmc/Ovcinnikova20>",
+            "<https://dblp.org/rec/journals/itor/Eghbali-ZarchTT19>"
+        ]
+    },
+    {
+        "id": "Q0763",
+        "entities": [
+            "<https://dblp.org/rec/journals/pc/ConnerT94>"
+        ]
+    },
+    {
+        "id": "Q0764",
+        "entities": [
+            "<https://dblp.org/rec/journals/amc/Huang18>"
+        ]
+    },
+    {
+        "id": "Q0765",
+        "entities": [
+            "<https://dblp.org/rec/journals/jvcir/SameerN18>"
+        ]
+    },
+    {
+        "id": "Q0766",
+        "entities": [
+            "<https://dblp.org/rec/conf/cira/KozimaNY05>"
+        ]
+    },
+    {
+        "id": "Q0767",
+        "entities": [
+            "<https://dblp.org/rec/journals/tcom/TurkboylariS98>"
+        ]
+    },
+    {
+        "id": "Q0768",
+        "entities": [
+            "<https://dblp.org/rec/conf/ifip/IkebeLT68>",
+            "<https://dblp.org/rec/journals/isci/BasarikBH22>"
+        ]
+    },
+    {
+        "id": "Q0769",
+        "entities": [
+            "<https://dblp.org/rec/conf/camad/KotilainenVKAV06>",
+            "<https://dblp.org/rec/conf/icnc/Germen05>"
+        ]
+    },
+    {
+        "id": "Q0770",
+        "entities": [
+            "<https://dblp.org/rec/conf/eit/PenyalaIM20>",
+            "<https://dblp.org/rec/journals/dm/Mazzuoccolo13>"
+        ]
+    },
+    {
+        "id": "Q0771",
+        "entities": [
+            "<https://dblp.org/rec/conf/rait/JhaMP16>",
+            "<https://dblp.org/rec/journals/mvl/BhattacharyyaB08>"
+        ]
+    },
+    {
+        "id": "Q0772",
+        "entities": [
+            "<https://dblp.org/rec/conf/iccp2/VajdaZ11>"
+        ]
+    },
+    {
+        "id": "Q0773",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-2204-02292>"
+        ]
+    },
+    {
+        "id": "Q0774",
+        "entities": [
+            "<https://dblp.org/rec/conf/dsaa/PaulMYLCCA19>"
+        ]
+    },
+    {
+        "id": "Q0775",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-2203-13685>",
+            "<https://dblp.org/rec/conf/wsa/HalbauerKHDGF13>"
+        ]
+    },
+    {
+        "id": "Q0776",
+        "entities": [
+            "<https://dblp.org/rec/journals/tmi/AnXC00>",
+            "<https://dblp.org/rec/conf/chi/MiniukovichA15>"
+        ]
+    },
+    {
+        "id": "Q0777",
+        "entities": [
+            "<https://dblp.org/rec/journals/appml/ZhangWZ18>",
+            "<https://dblp.org/rec/journals/jsce/GuoGDZ15>"
+        ]
+    },
+    {
+        "id": "Q0778",
+        "entities": [
+            "<https://dblp.org/rec/conf/igarss/GuanZG20>",
+            "<https://dblp.org/rec/conf/spin/TraulsenCMM07>"
+        ]
+    },
+    {
+        "id": "Q0779",
+        "entities": [
+            "<https://dblp.org/rec/journals/tie/JainSS13>"
+        ]
+    },
+    {
+        "id": "Q0780",
+        "entities": [
+            "<https://dblp.org/rec/conf/iui/Ball99>"
+        ]
+    },
+    {
+        "id": "Q0781",
+        "entities": [
+            "<https://dblp.org/rec/conf/chi/Hersh82>"
+        ]
+    },
+    {
+        "id": "Q0782",
+        "entities": [
+            "<https://dblp.org/rec/conf/ssci/MohammadiT17>",
+            "<https://dblp.org/rec/conf/ecbs/SaraswatE08>"
+        ]
+    },
+    {
+        "id": "Q0783",
+        "entities": [
+            "<https://dblp.org/rec/conf/apweb/ZhangP04>",
+            "<https://dblp.org/rec/conf/cscw/TausczikP12>"
+        ]
+    },
+    {
+        "id": "Q0784",
+        "entities": [
+            "<https://dblp.org/rec/journals/jmm2/QinMZ10>"
+        ]
+    },
+    {
+        "id": "Q0785",
+        "entities": [
+            "<https://dblp.org/rec/conf/aiia/PisanoCOS21a>"
+        ]
+    },
+    {
+        "id": "Q0786",
+        "entities": [
+            "<https://dblp.org/rec/journals/sigchi/Mantei89>"
+        ]
+    },
+    {
+        "id": "Q0787",
+        "entities": [
+            "<https://dblp.org/rec/conf/sigbdp/GoodS90a>"
+        ]
+    },
+    {
+        "id": "Q0788",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-2103-07205>"
+        ]
+    },
+    {
+        "id": "Q0789",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-1912-10323>",
+            "<https://dblp.org/rec/conf/ispan/OuyangLL09>"
+        ]
+    },
+    {
+        "id": "Q0790",
+        "entities": [
+            "<https://dblp.org/rec/journals/iet-com/MurugaveniM20>",
+            "<https://dblp.org/rec/journals/pr/InoueU00>"
+        ]
+    },
+    {
+        "id": "Q0791",
+        "entities": [
+            "<https://dblp.org/rec/conf/isvc/KimJ13>"
+        ]
+    },
+    {
+        "id": "Q0792",
+        "entities": [
+            "<https://dblp.org/rec/conf/caip/ShenLL05>"
+        ]
+    },
+    {
+        "id": "Q0793",
+        "entities": [
+            "<https://dblp.org/rec/journals/ral/KnuthCOB22>"
+        ]
+    },
+    {
+        "id": "Q0794",
+        "entities": [
+            "<https://dblp.org/rec/conf/atal/SinhaKT16>"
+        ]
+    },
+    {
+        "id": "Q0795",
+        "entities": [
+            "<https://dblp.org/rec/reference/complexity/Lee09>"
+        ]
+    },
+    {
+        "id": "Q0796",
+        "entities": [
+            "<https://dblp.org/rec/conf/eceh/BlaszczynskiKMW06>"
+        ]
+    },
+    {
+        "id": "Q0797",
+        "entities": [
+            "<https://dblp.org/rec/journals/jcphy/LapentaC06>"
+        ]
+    },
+    {
+        "id": "Q0798",
+        "entities": [
+            "<https://dblp.org/rec/conf/icpads/TripathiTT06>",
+            "<https://dblp.org/rec/journals/jcisd/BaiHZLZ17>"
+        ]
+    },
+    {
+        "id": "Q0799",
+        "entities": [
+            "<https://dblp.org/rec/conf/ieaaie/ShrLC06>",
+            "<https://dblp.org/rec/conf/icc/CrescenzoSKPD02>"
+        ]
+    },
+    {
+        "id": "Q0800",
+        "entities": [
+            "<https://dblp.org/rec/journals/jece/WangXX17>"
+        ]
+    },
+    {
+        "id": "Q0801",
+        "entities": [
+            "<https://dblp.org/rec/journals/jssc/YoonJSB16>",
+            "<https://dblp.org/rec/journals/jcn/LindseyC99>"
+        ]
+    },
+    {
+        "id": "Q0802",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-1711-04452>",
+            "<https://dblp.org/rec/conf/cdc/XuWZ00>"
+        ]
+    },
+    {
+        "id": "Q0803",
+        "entities": [
+            "<https://dblp.org/rec/journals/tc/WuDZMJ22>",
+            "<https://dblp.org/rec/conf/wollic/BaumgartnerK14>"
+        ]
+    },
+    {
+        "id": "Q0804",
+        "entities": [
+            "<https://dblp.org/rec/conf/soict/ChienSH16>",
+            "<https://dblp.org/rec/journals/ibmsj/Evernden96>"
+        ]
+    },
+    {
+        "id": "Q0805",
+        "entities": [
+            "<https://dblp.org/rec/conf/med/SoodBDBLUL20>",
+            "<https://dblp.org/rec/conf/cvpr/XuLCKBZ20>"
+        ]
+    },
+    {
+        "id": "Q0806",
+        "entities": [
+            "<https://dblp.org/rec/conf/mswim/SadaphalJ09>",
+            "<https://dblp.org/rec/conf/icassp/NeciogluCB00>"
+        ]
+    },
+    {
+        "id": "Q0807",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-2203-16832>",
+            "<https://dblp.org/rec/conf/icaisc/Skubalska-Rafajlowicz06>"
+        ]
+    },
+    {
+        "id": "Q0808",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-2006-06634>",
+            "<https://dblp.org/rec/journals/osn/ZhangM17>"
+        ]
+    },
+    {
+        "id": "Q0809",
+        "entities": [
+            "<https://dblp.org/rec/conf/urai/FuLGS21>",
+            "<https://dblp.org/rec/journals/bmcbi/SprouffskeW16>"
+        ]
+    },
+    {
+        "id": "Q0810",
+        "entities": [
+            "<https://dblp.org/rec/journals/scn/SeoLNCK16>",
+            "<https://dblp.org/rec/journals/ploscb/WuMSM19>"
+        ]
+    },
+    {
+        "id": "Q0811",
+        "entities": [
+            "<https://dblp.org/rec/conf/icpec/MinamideTY20>",
+            "<https://dblp.org/rec/conf/iscas/RoermundHHRZDQ05>"
+        ]
+    },
+    {
+        "id": "Q0812",
+        "entities": [
+            "<https://dblp.org/rec/conf/cvpr/RajasegaranJJJS19>",
+            "<https://dblp.org/rec/journals/jssc/HinrichsWLKOP00>"
+        ]
+    },
+    {
+        "id": "Q0813",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-1011-1432>",
+            "<https://dblp.org/rec/conf/compcon/Ray85>"
+        ]
+    },
+    {
+        "id": "Q0814",
+        "entities": [
+            "<https://dblp.org/rec/journals/robotica/Miller93>",
+            "<https://dblp.org/rec/journals/jc/EbertP21>"
+        ]
+    },
+    {
+        "id": "Q0815",
+        "entities": [
+            "<https://dblp.org/rec/conf/extreme/LeM02>",
+            "<https://dblp.org/rec/conf/cisis/MiyakawaSMM09>"
+        ]
+    },
+    {
+        "id": "Q0816",
+        "entities": [
+            "<https://dblp.org/rec/conf/icoin/KimK21>",
+            "<https://dblp.org/rec/conf/bigdataconf/JiangYW20>"
+        ]
+    },
+    {
+        "id": "Q0817",
+        "entities": [
+            "<https://dblp.org/rec/journals/lht/KumarM20>",
+            "<https://dblp.org/rec/journals/eg/GashiRR21>"
+        ]
+    },
+    {
+        "id": "Q0818",
+        "entities": [
+            "<https://dblp.org/rec/conf/acit2/LiuPWYF15>",
+            "<https://dblp.org/rec/conf/interspeech/NedelSS00>"
+        ]
+    },
+    {
+        "id": "Q0819",
+        "entities": [
+            "<https://dblp.org/rec/journals/pubtrans/JarbouiFB12>",
+            "<https://dblp.org/rec/journals/kbs/HsuCW22>"
+        ]
+    },
+    {
+        "id": "Q0820",
+        "entities": [
+            "<https://dblp.org/rec/conf/mhs/KamishimaOSO17>",
+            "<https://dblp.org/rec/journals/corr/abs-2112-13597>"
+        ]
+    },
+    {
+        "id": "Q0821",
+        "entities": [
+            "<https://dblp.org/rec/journals/jcn/SimonW03>",
+            "<https://dblp.org/rec/conf/icls/EberleSAR18>"
+        ]
+    },
+    {
+        "id": "Q0822",
+        "entities": [
+            "<https://dblp.org/rec/conf/wedelmusic/VasiloglouSH02>",
+            "<https://dblp.org/rec/conf/itqm/MishraM17>"
+        ]
+    },
+    {
+        "id": "Q0823",
+        "entities": [
+            "<https://dblp.org/rec/journals/thms/BoltonGB13>",
+            "<https://dblp.org/rec/journals/tsmc/KrozelA93>"
+        ]
+    },
+    {
+        "id": "Q0824",
+        "entities": [
+            "<https://dblp.org/rec/journals/ton/ShahVK16>",
+            "<https://dblp.org/rec/journals/mta/BinGSC19>"
+        ]
+    },
+    {
+        "id": "Q0825",
+        "entities": [
+            "<https://dblp.org/rec/journals/cn/AkkariD20a>",
+            "<https://dblp.org/rec/journals/kbs/LiuCHXLZ21>"
+        ]
+    },
+    {
+        "id": "Q0826",
+        "entities": [
+            "<https://dblp.org/rec/conf/vl/Johnson03>",
+            "<https://dblp.org/rec/journals/soca/PaakkonenP15>"
+        ]
+    },
+    {
+        "id": "Q0827",
+        "entities": [
+            "<https://dblp.org/rec/conf/acivs/CouillaudHZ12>",
+            "<https://dblp.org/rec/conf/ecctd/AntonovSKR17>"
+        ]
+    },
+    {
+        "id": "Q0828",
+        "entities": [
+            "<https://dblp.org/rec/conf/gi/PommereningHGD12>",
+            "<https://dblp.org/rec/conf/isqed/SubramaniyanL13>"
+        ]
+    },
+    {
+        "id": "Q0829",
+        "entities": [
+            "<https://dblp.org/rec/conf/mobicom/HartungKLW18>",
+            "<https://dblp.org/rec/journals/corr/abs-2005-03080>"
+        ]
+    },
+    {
+        "id": "Q0830",
+        "entities": [
+            "<https://dblp.org/rec/conf/vision/Kaminsky05>",
+            "<https://dblp.org/rec/journals/ibmsj/McKinnon74>"
+        ]
+    },
+    {
+        "id": "Q0831",
+        "entities": [
+            "<https://dblp.org/rec/journals/hmd/Portmann15>",
+            "<https://dblp.org/rec/journals/ojcomps/Cheok20>"
+        ]
+    },
+    {
+        "id": "Q0832",
+        "entities": [
+            "<https://dblp.org/rec/journals/tnn/Lin07>",
+            "<https://dblp.org/rec/conf/sbgames/BicalhoFB20>"
+        ]
+    },
+    {
+        "id": "Q0833",
+        "entities": [
+            "<https://dblp.org/rec/conf/wollic/DawarSZ16>",
+            "<https://dblp.org/rec/conf/cicba/BoseM18a>"
+        ]
+    },
+    {
+        "id": "Q0834",
+        "entities": [
+            "<https://dblp.org/rec/journals/imcs/WerlingerMHB10>",
+            "<https://dblp.org/rec/conf/bigdataconf/WenHZFL19>"
+        ]
+    },
+    {
+        "id": "Q0835",
+        "entities": [
+            "<https://dblp.org/rec/journals/jar/GamboaC07>",
+            "<https://dblp.org/rec/conf/mpc/Moller89>"
+        ]
+    },
+    {
+        "id": "Q0836",
+        "entities": [
+            "<https://dblp.org/rec/conf/icchp/AslaksenFS06>",
+            "<https://dblp.org/rec/conf/wsfm/Halle10>"
+        ]
+    },
+    {
+        "id": "Q0837",
+        "entities": [
+            "<https://dblp.org/rec/journals/ijssci/SarivougioukasV16>",
+            "<https://dblp.org/rec/conf/icassp/ChenW19>"
+        ]
+    },
+    {
+        "id": "Q0838",
+        "entities": [
+            "<https://dblp.org/rec/conf/icml/NicholD21>",
+            "<https://dblp.org/rec/conf/comsnets/SinghKNS20>"
+        ]
+    },
+    {
+        "id": "Q0839",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-1903-07027>",
+            "<https://dblp.org/rec/conf/iscas/RamaswamyM95>"
+        ]
+    },
+    {
+        "id": "Q0840",
+        "entities": [
+            "<https://dblp.org/rec/conf/iros/BerchtoldG94>",
+            "<https://dblp.org/rec/conf/iecon/FurutaKOST17>"
+        ]
+    },
+    {
+        "id": "Q0841",
+        "entities": [
+            "<https://dblp.org/rec/conf/hicss/SantosR97>",
+            "<https://dblp.org/rec/journals/dke/KosalaBBB06>"
+        ]
+    },
+    {
+        "id": "Q0842",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-2207-02159>",
+            "<https://dblp.org/rec/conf/IEEEcloud/ShahzadS16>"
+        ]
+    },
+    {
+        "id": "Q0843",
+        "entities": [
+            "<https://dblp.org/rec/journals/jcmc/BosnjakT01>",
+            "<https://dblp.org/rec/journals/cm/PrezerakosSVZ98>"
+        ]
+    },
+    {
+        "id": "Q0844",
+        "entities": [
+            "<https://dblp.org/rec/journals/cnsns/LeviSS18>",
+            "<https://dblp.org/rec/journals/ijis/Liao02>"
+        ]
+    },
+    {
+        "id": "Q0845",
+        "entities": [
+            "<https://dblp.org/rec/journals/computer/MalyGM98>",
+            "<https://dblp.org/rec/journals/ijngc/Mohamed11>"
+        ]
+    },
+    {
+        "id": "Q0846",
+        "entities": [
+            "<https://dblp.org/rec/journals/mmor/Bol72>",
+            "<https://dblp.org/rec/conf/sbac-pad/PandaB12>"
+        ]
+    },
+    {
+        "id": "Q0847",
+        "entities": [
+            "<https://dblp.org/rec/journals/ijnvo/AtzenbeckHM11>",
+            "<https://dblp.org/rec/journals/corr/abs-1108-3843>"
+        ]
+    },
+    {
+        "id": "Q0848",
+        "entities": [
+            "<https://dblp.org/rec/conf/dyspan/HarrisonMS15>",
+            "<https://dblp.org/rec/journals/sensors/YaminAAS19>"
+        ]
+    },
+    {
+        "id": "Q0849",
+        "entities": [
+            "<https://dblp.org/rec/conf/chi/ZoranC18>",
+            "<https://dblp.org/rec/conf/ifip5-7/ZvaritchMG21>"
+        ]
+    },
+    {
+        "id": "Q0850",
+        "entities": [
+            "<https://dblp.org/rec/journals/ijkm/RanasingheD13>",
+            "<https://dblp.org/rec/journals/bioinformatics/AbrusanGDM09>"
+        ]
+    },
+    {
+        "id": "Q0851",
+        "entities": [
+            "<https://dblp.org/rec/conf/sc/Webb93>"
+        ]
+    },
+    {
+        "id": "Q0852",
+        "entities": [
+            "<https://dblp.org/rec/conf/icgse/SMS16>"
+        ]
+    },
+    {
+        "id": "Q0853",
+        "entities": [
+            "<https://dblp.org/rec/conf/its/RamachandranA08>"
+        ]
+    },
+    {
+        "id": "Q0854",
+        "entities": [
+            "<https://dblp.org/rec/journals/intr/LeungSC20>"
+        ]
+    },
+    {
+        "id": "Q0855",
+        "entities": [
+            "<https://dblp.org/rec/conf/pvm/MohrW06>"
+        ]
+    },
+    {
+        "id": "Q0856",
+        "entities": [
+            "<https://dblp.org/rec/conf/ijcai/BryceK07>"
+        ]
+    },
+    {
+        "id": "Q0857",
+        "entities": [
+            "<https://dblp.org/rec/conf/isat/MulkaL19>"
+        ]
+    },
+    {
+        "id": "Q0858",
+        "entities": [
+            "<https://dblp.org/rec/conf/islped/XuDHYY14>"
+        ]
+    },
+    {
+        "id": "Q0859",
+        "entities": [
+            "<https://dblp.org/rec/conf/sycss/HaeriS16>"
+        ]
+    },
+    {
+        "id": "Q0860",
+        "entities": [
+            "<https://dblp.org/rec/journals/telsys/BoudriesAS17>"
+        ]
+    },
+    {
+        "id": "Q0861",
+        "entities": [
+            "<https://dblp.org/rec/journals/iee/CarterCT87>"
+        ]
+    },
+    {
+        "id": "Q0862",
+        "entities": [
+            "<https://dblp.org/rec/journals/ton/LiuX21>"
+        ]
+    },
+    {
+        "id": "Q0863",
+        "entities": [
+            "<https://dblp.org/rec/conf/iros/ShenSGM07>"
+        ]
+    },
+    {
+        "id": "Q0864",
+        "entities": [
+            "<https://dblp.org/rec/conf/camsap/MarquesLGR11>"
+        ]
+    },
+    {
+        "id": "Q0865",
+        "entities": [
+            "<https://dblp.org/rec/journals/tase/HimmelsteinFL10>"
+        ]
+    },
+    {
+        "id": "Q0866",
+        "entities": [
+            "<https://dblp.org/rec/conf/iccel/BaeKKKC19>"
+        ]
+    },
+    {
+        "id": "Q0867",
+        "entities": [
+            "<https://dblp.org/rec/conf/fps/JiagueFGLS11>"
+        ]
+    },
+    {
+        "id": "Q0868",
+        "entities": [
+            "<https://dblp.org/rec/conf/sigcse/PughB18>"
+        ]
+    },
+    {
+        "id": "Q0869",
+        "entities": [
+            "<https://dblp.org/rec/conf/isdevel/StrazdinaSAK08>"
+        ]
+    },
+    {
+        "id": "Q0870",
+        "entities": [
+            "<https://dblp.org/rec/conf/cvpr/Li19a>"
+        ]
+    },
+    {
+        "id": "Q0871",
+        "entities": [
+            "<https://dblp.org/rec/conf/interact/MinochaD03>"
+        ]
+    },
+    {
+        "id": "Q0872",
+        "entities": [
+            "<https://dblp.org/rec/conf/sccc/ChangoNG19>"
+        ]
+    },
+    {
+        "id": "Q0873",
+        "entities": [
+            "<https://dblp.org/rec/conf/icica/WeiMC10>"
+        ]
+    },
+    {
+        "id": "Q0874",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-1808-10363>"
+        ]
+    },
+    {
+        "id": "Q0875",
+        "entities": [
+            "<https://dblp.org/rec/journals/siamsc/MonkP94>"
+        ]
+    },
+    {
+        "id": "Q0876",
+        "entities": [
+            "<https://dblp.org/rec/conf/vts/Singh14>"
+        ]
+    },
+    {
+        "id": "Q0877",
+        "entities": [
+            "<https://dblp.org/rec/journals/robotica/Ranky85a>"
+        ]
+    },
+    {
+        "id": "Q0878",
+        "entities": [
+            "<https://dblp.org/rec/journals/ijcaet/SrikanthR11>"
+        ]
+    },
+    {
+        "id": "Q0879",
+        "entities": [
+            "<https://dblp.org/rec/conf/edm/NyeHFSHM14>"
+        ]
+    },
+    {
+        "id": "Q0880",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-2111-02061>"
+        ]
+    },
+    {
+        "id": "Q0881",
+        "entities": [
+            "<https://dblp.org/rec/books/sp/22/UslanderT22>"
+        ]
+    },
+    {
+        "id": "Q0882",
+        "entities": [
+            "<https://dblp.org/rec/conf/css/ChenSL20>"
+        ]
+    },
+    {
+        "id": "Q0883",
+        "entities": [
+            "<https://dblp.org/rec/journals/ijeb/BurgessSW05>"
+        ]
+    },
+    {
+        "id": "Q0884",
+        "entities": [
+            "<https://dblp.org/rec/journals/pik/Mochalski97>"
+        ]
+    },
+    {
+        "id": "Q0885",
+        "entities": [
+            "<https://dblp.org/rec/conf/mike/Joshi0M14>"
+        ]
+    },
+    {
+        "id": "Q0886",
+        "entities": [
+            "<https://dblp.org/rec/journals/dss/MukhopadhyayLM97>"
+        ]
+    },
+    {
+        "id": "Q0887",
+        "entities": [
+            "<https://dblp.org/rec/conf/svr/WoodUPPK21>"
+        ]
+    },
+    {
+        "id": "Q0888",
+        "entities": [
+            "<https://dblp.org/rec/conf/mc/LofflerPH13>"
+        ]
+    },
+    {
+        "id": "Q0889",
+        "entities": [
+            "<https://dblp.org/rec/journals/sensors/GuLXLP21>"
+        ]
+    },
+    {
+        "id": "Q0890",
+        "entities": [
+            "<https://dblp.org/rec/conf/gcce/YamaneU20>"
+        ]
+    },
+    {
+        "id": "Q0891",
+        "entities": [
+            "<https://dblp.org/rec/journals/complexity/XieDYZX21>"
+        ]
+    },
+    {
+        "id": "Q0892",
+        "entities": [
+            "<https://dblp.org/rec/conf/icse/ChenWSLRJ22>"
+        ]
+    },
+    {
+        "id": "Q0893",
+        "entities": [
+            "<https://dblp.org/rec/conf/indin/JacobsenO17>"
+        ]
+    },
+    {
+        "id": "Q0894",
+        "entities": [
+            "<https://dblp.org/rec/conf/eurorvvv-ws/ChuprikovaMCM18>"
+        ]
+    },
+    {
+        "id": "Q0895",
+        "entities": [
+            "<https://dblp.org/rec/journals/ec/PosikH12>"
+        ]
+    },
+    {
+        "id": "Q0896",
+        "entities": [
+            "<https://dblp.org/rec/journals/ijces/ZhongCC03>"
+        ]
+    },
+    {
+        "id": "Q0897",
+        "entities": [
+            "<https://dblp.org/rec/journals/ijar/LuoTZ19>"
+        ]
+    },
+    {
+        "id": "Q0898",
+        "entities": [
+            "<https://dblp.org/rec/journals/ploscb/TerruzziSBRBF20>"
+        ]
+    },
+    {
+        "id": "Q0899",
+        "entities": [
+            "<https://dblp.org/rec/conf/esws/0002Z16>"
+        ]
+    },
+    {
+        "id": "Q0900",
+        "entities": [
+            "<https://dblp.org/rec/journals/chb/DSouzaC10>"
+        ]
+    },
+    {
+        "id": "Q0901",
+        "entities": [
+            "<https://dblp.org/rec/journals/eor/KeXFSQ13>"
+        ]
+    },
+    {
+        "id": "Q0902",
+        "entities": [
+            "<https://dblp.org/rec/conf/eusipco/SmolkaBPL05>"
+        ]
+    },
+    {
+        "id": "Q0903",
+        "entities": [
+            "<https://dblp.org/rec/journals/cacm/MarkosianNBBK94>"
+        ]
+    },
+    {
+        "id": "Q0904",
+        "entities": [
+            "<https://dblp.org/rec/conf/isorc/KimLRS08>"
+        ]
+    },
+    {
+        "id": "Q0905",
+        "entities": [
+            "<https://dblp.org/rec/conf/iros/DrumwrightM03>"
+        ]
+    },
+    {
+        "id": "Q0906",
+        "entities": [
+            "<https://dblp.org/rec/journals/jet/Nava15>"
+        ]
+    },
+    {
+        "id": "Q0907",
+        "entities": [
+            "<https://dblp.org/rec/journals/tit/Ong17>"
+        ]
+    },
+    {
+        "id": "Q0908",
+        "entities": [
+            "<https://dblp.org/rec/conf/synasc/Sterca08>"
+        ]
+    },
+    {
+        "id": "Q0909",
+        "entities": [
+            "<https://dblp.org/rec/conf/hai/Hoffman15>"
+        ]
+    },
+    {
+        "id": "Q0910",
+        "entities": [
+            "<https://dblp.org/rec/conf/iscas/MaghariM10>"
+        ]
+    },
+    {
+        "id": "Q0911",
+        "entities": [
+            "<https://dblp.org/rec/conf/chi/HoltzSS22>"
+        ]
+    },
+    {
+        "id": "Q0912",
+        "entities": [
+            "<https://dblp.org/rec/conf/rta/Felty19>"
+        ]
+    },
+    {
+        "id": "Q0913",
+        "entities": [
+            "<https://dblp.org/rec/journals/neuroimage/FujitaMZDZPZID10>"
+        ]
+    },
+    {
+        "id": "Q0914",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-1809-08700>"
+        ]
+    },
+    {
+        "id": "Q0915",
+        "entities": [
+            "<https://dblp.org/rec/journals/siamco/Heunis15>"
+        ]
+    },
+    {
+        "id": "Q0916",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-1904-01719>"
+        ]
+    },
+    {
+        "id": "Q0917",
+        "entities": [
+            "<https://dblp.org/rec/journals/ijgt/HinojosaMZ08>"
+        ]
+    },
+    {
+        "id": "Q0918",
+        "entities": [
+            "<https://dblp.org/rec/journals/eait/KoratSA11>"
+        ]
+    },
+    {
+        "id": "Q0919",
+        "entities": [
+            "<https://dblp.org/rec/conf/www/ChenGS04>"
+        ]
+    },
+    {
+        "id": "Q0920",
+        "entities": [
+            "<https://dblp.org/rec/conf/cbms/SantoshGB21>"
+        ]
+    },
+    {
+        "id": "Q0921",
+        "entities": [
+            "<https://dblp.org/rec/conf/tcc/Valiant08>"
+        ]
+    },
+    {
+        "id": "Q0922",
+        "entities": [
+            "<https://dblp.org/rec/conf/cav/SinghGP10>"
+        ]
+    },
+    {
+        "id": "Q0923",
+        "entities": [
+            "<https://dblp.org/rec/conf/icmc/Loy91>"
+        ]
+    },
+    {
+        "id": "Q0924",
+        "entities": [
+            "<https://dblp.org/rec/journals/prl/ChuML21>"
+        ]
+    },
+    {
+        "id": "Q0925",
+        "entities": [
+            "<https://dblp.org/rec/conf/iui/Espinoza03>"
+        ]
+    },
+    {
+        "id": "Q0926",
+        "entities": [
+            "<https://dblp.org/rec/conf/oopsla/BorjessonPSS07>"
+        ]
+    },
+    {
+        "id": "Q0927",
+        "entities": [
+            "<https://dblp.org/rec/journals/tcom/SoltaniGTH20>"
+        ]
+    },
+    {
+        "id": "Q0928",
+        "entities": [
+            "<https://dblp.org/rec/conf/nordichi/TigwellFM18>"
+        ]
+    },
+    {
+        "id": "Q0929",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-2010-02808>"
+        ]
+    },
+    {
+        "id": "Q0930",
+        "entities": [
+            "<https://dblp.org/rec/conf/iccv/WassermannDD07>"
+        ]
+    },
+    {
+        "id": "Q0931",
+        "entities": [
+            "<https://dblp.org/rec/conf/vldb/DuanB07>"
+        ]
+    },
+    {
+        "id": "Q0932",
+        "entities": [
+            "<https://dblp.org/rec/conf/isscc/MarucciFMLSL14>"
+        ]
+    },
+    {
+        "id": "Q0933",
+        "entities": [
+            "<https://dblp.org/rec/journals/siamco/ColomboMW06>"
+        ]
+    },
+    {
+        "id": "Q0934",
+        "entities": [
+            "<https://dblp.org/rec/series/ads/YuC10>"
+        ]
+    },
+    {
+        "id": "Q0935",
+        "entities": [
+            "<https://dblp.org/rec/journals/cacie/OumouniS21>"
+        ]
+    },
+    {
+        "id": "Q0936",
+        "entities": [
+            "<https://dblp.org/rec/conf/icpca/ZhaoWZY12>"
+        ]
+    },
+    {
+        "id": "Q0937",
+        "entities": [
+            "<https://dblp.org/rec/journals/sensors/ShahafKBYG18>"
+        ]
+    },
+    {
+        "id": "Q0938",
+        "entities": [
+            "<https://dblp.org/rec/conf/icphs/LleoR11>"
+        ]
+    },
+    {
+        "id": "Q0939",
+        "entities": [
+            "<https://dblp.org/rec/journals/iacr/LiuMP21>"
+        ]
+    },
+    {
+        "id": "Q0940",
+        "entities": [
+            "<https://dblp.org/rec/journals/tac/Ushio97>"
+        ]
+    },
+    {
+        "id": "Q0941",
+        "entities": [
+            "<https://dblp.org/rec/journals/percom/MawjiHZ11>"
+        ]
+    },
+    {
+        "id": "Q0942",
+        "entities": [
+            "<https://dblp.org/rec/conf/date/RabozziNSSSS17>"
+        ]
+    },
+    {
+        "id": "Q0943",
+        "entities": [
+            "<https://dblp.org/rec/conf/cvpr/Jing00T20>"
+        ]
+    },
+    {
+        "id": "Q0944",
+        "entities": [
+            "<https://dblp.org/rec/journals/aamas/DellAnnaDD20>"
+        ]
+    },
+    {
+        "id": "Q0945",
+        "entities": [
+            "<https://dblp.org/rec/conf/vmcai/RosenbergBN12>"
+        ]
+    },
+    {
+        "id": "Q0946",
+        "entities": [
+            "<https://dblp.org/rec/conf/igarss/RottCDEHKMMPRY08>"
+        ]
+    },
+    {
+        "id": "Q0947",
+        "entities": [
+            "<https://dblp.org/rec/journals/taslp/CaiL13>"
+        ]
+    },
+    {
+        "id": "Q0948",
+        "entities": [
+            "<https://dblp.org/rec/conf/ipccc/TangZDX15>"
+        ]
+    },
+    {
+        "id": "Q0949",
+        "entities": [
+            "<https://dblp.org/rec/conf/clef/Schaetti18b>"
+        ]
+    },
+    {
+        "id": "Q0950",
+        "entities": [
+            "<https://dblp.org/rec/conf/iccchina/HeMLYM16>"
+        ]
+    },
+    {
+        "id": "Q0951",
+        "entities": [
+            "<https://dblp.org/rec/journals/tpds/SalkhordehEA18>"
+        ]
+    },
+    {
+        "id": "Q0952",
+        "entities": [
+            "<https://dblp.org/rec/journals/corr/abs-2010-14122>"
+        ]
+    },
+    {
+        "id": "Q0953",
+        "entities": [
+            "<https://dblp.org/rec/journals/itd/Goyal11>",
+            "<https://dblp.org/rec/conf/ewhci/Tolsby93>"
+        ]
+    },
+    {
+        "id": "Q0954",
+        "entities": [
+            "<https://dblp.org/rec/conf/openshmem/BakerWV15>"
+        ]
+    },
+    {
+        "id": "Q0955",
+        "entities": [
+            "<https://dblp.org/rec/conf/icassp/VasilacheVT99>",
+            "<https://dblp.org/rec/journals/staeors/ItakuraMH22>"
+        ]
+    },
+    {
+        "id": "Q0956",
+        "entities": [
+            "<https://dblp.org/rec/conf/cans/IzadiSSK09>",
+            "<https://dblp.org/rec/conf/isscc/HongHKK10>"
+        ]
+    },
+    {
+        "id": "Q0957",
+        "entities": [
+            "<https://dblp.org/rec/journals/adt/ChateauraynaudT07>",
+            "<https://dblp.org/rec/conf/iceb/PaoL04>"
+        ]
+    },
+    {
+        "id": "Q0958",
+        "entities": [
+            "<https://dblp.org/rec/conf/IEEEscc/LiuLLW13>",
+            "<https://dblp.org/rec/conf/isocc/ChoKLK16>"
+        ]
+    },
+    {
+        "id": "Q0959",
+        "entities": [
+            "<https://dblp.org/rec/conf/kes/Phillips-WrenI04>"
+        ]
+    },
+    {
+        "id": "Q0960",
+        "entities": [
+            "<https://dblp.org/rec/conf/naacl/BuRZYWZW21>"
+        ]
+    },
+    {
+        "id": "Q0961",
+        "entities": [
+            "<https://dblp.org/rec/conf/winsys/CrivellaroC021>"
+        ]
+    },
+    {
+        "id": "Q0962",
+        "entities": [
+            "<https://dblp.org/rec/conf/siggrapha/BerryOWU0CK08>"
+        ]
+    },
+    {
+        "id": "Q0963",
+        "entities": [
+            "<https://dblp.org/rec/journals/rairo/SerairiH18>",
+            "<https://dblp.org/rec/journals/corr/abs-1806-03254>"
+        ]
+    },
+    {
+        "id": "Q0964",
+        "entities": [
+            "<https://dblp.org/rec/conf/iaai/MeltzerS90>"
+        ]
+    },
+    {
+        "id": "Q0965",
+        "entities": [
+            "<https://dblp.org/rec/books/daglib/p/HuberFKD14>",
+            "<https://dblp.org/rec/journals/mta/XiaoZH19a>"
+        ]
+    },
+    {
+        "id": "Q0966",
+        "entities": [
+            "<https://dblp.org/rec/conf/ccs/AsokanBISSTW15>"
+        ]
+    },
+    {
+        "id": "Q0967",
+        "entities": [
+            "<https://dblp.org/rec/conf/swat/AbdelkaderM18>"
+        ]
+    },
+    {
+        "id": "Q0968",
+        "entities": [
+            "<https://dblp.org/rec/conf/iscram/WalG13>",
+            "<https://dblp.org/rec/journals/cee/PallisVP08>"
+        ]
+    },
+    {
+        "id": "Q0969",
+        "entities": [
+            "<https://dblp.org/rec/journals/jwe/JinYZL13>",
+            "<https://dblp.org/rec/journals/cbsn/WangG17>"
+        ]
+    },
+    {
+        "id": "Q0970",
+        "entities": [
+            "<https://dblp.org/rec/conf/chi/TanYM07>",
+            "<https://dblp.org/rec/conf/ksem/BhatiaK07>"
+        ]
+    },
+    {
+        "id": "Q0971",
+        "entities": [
+            "<https://dblp.org/rec/journals/ml/FernandezBC21>"
+        ]
+    },
+    {
+        "id": "Q0972",
+        "entities": [
+            "<https://dblp.org/rec/books/sp/08/HahmannBBEMR08>"
+        ]
+    },
+    {
+        "id": "Q0973",
+        "entities": [
+            "<https://dblp.org/rec/journals/cor/SansoGM05>"
+        ]
+    },
+    {
+        "id": "Q0974",
+        "entities": [
+            "<https://dblp.org/rec/conf/mie/AlecuBMJ06>",
+            "<https://dblp.org/rec/journals/corr/abs-2006-02107>"
+        ]
+    },
+    {
+        "id": "Q0975",
+        "entities": [
+            "<https://dblp.org/rec/conf/diagrams/TverskyCYMN12>"
+        ]
+    },
+    {
+        "id": "Q0976",
+        "entities": [
+            "<https://dblp.org/rec/conf/cec/BeneckeM21>"
+        ]
+    },
+    {
+        "id": "Q0977",
+        "entities": [
+            "<https://dblp.org/rec/journals/jfi/WangSXWC20>"
+        ]
+    },
+    {
+        "id": "Q0978",
+        "entities": [
+            "<https://dblp.org/rec/conf/npc/QiaoSHYWZ17>",
+            "<https://dblp.org/rec/journals/see/McArthur09>"
+        ]
+    },
+    {
+        "id": "Q0979",
+        "entities": [
+            "<https://dblp.org/rec/journals/titb/KhandokerPK09>",
+            "<https://dblp.org/rec/journals/tbcas/ChoiK09>"
+        ]
+    },
+    {
+        "id": "Q0980",
+        "entities": [
+            "<https://dblp.org/rec/journals/cmig/WongCHGVW21>"
+        ]
+    },
+    {
+        "id": "Q0981",
+        "entities": [
+            "<https://dblp.org/rec/conf/gis/DangC15>"
+        ]
+    },
+    {
+        "id": "Q0982",
+        "entities": [
+            "<https://dblp.org/rec/conf/nems/WangLLYC11>",
+            "<https://dblp.org/rec/conf/disappearing/EhnBEJKLMNPRW07>"
+        ]
+    },
+    {
+        "id": "Q0983",
+        "entities": [
+            "<https://dblp.org/rec/conf/amia/HarleA0DDDHMMA18>",
+            "<https://dblp.org/rec/conf/smc/DengXW98>"
+        ]
+    },
+    {
+        "id": "Q0984",
+        "entities": [
+            "<https://dblp.org/rec/conf/gis/ChenSCGFZ10>"
+        ]
+    },
+    {
+        "id": "Q0985",
+        "entities": [
+            "<https://dblp.org/rec/conf/icmla/WillertETK08>",
+            "<https://dblp.org/rec/journals/sensors/KarszniaOB21>"
+        ]
+    },
+    {
+        "id": "Q0986",
+        "entities": [
+            "<https://dblp.org/rec/journals/dam/HavetSS12>"
+        ]
+    },
+    {
+        "id": "Q0987",
+        "entities": [
+            "<https://dblp.org/rec/books/sp/17/Atzmueller0M17>"
+        ]
+    },
+    {
+        "id": "Q0988",
+        "entities": [
+            "<https://dblp.org/rec/journals/npl/ZhaoFW10>",
+            "<https://dblp.org/rec/journals/ijbdcn/AliP17>"
+        ]
+    },
+    {
+        "id": "Q0989",
+        "entities": [
+            "<https://dblp.org/rec/conf/tabletop/BanovicLDYT11>"
+        ]
+    },
+    {
+        "id": "Q0990",
+        "entities": [
+            "<https://dblp.org/rec/conf/icebe/ZengLDCS06>"
+        ]
+    },
+    {
+        "id": "Q0991",
+        "entities": [
+            "<https://dblp.org/rec/conf/simpar/WettachSB10>"
+        ]
+    },
+    {
+        "id": "Q0992",
+        "entities": [
+            "<https://dblp.org/rec/journals/jrm/KitagawaTI03>"
+        ]
+    },
+    {
+        "id": "Q0993",
+        "entities": [
+            "<https://dblp.org/rec/conf/cec/Carpentieri08>"
+        ]
+    },
+    {
+        "id": "Q0994",
+        "entities": [
+            "<https://dblp.org/rec/journals/advor/Chaourar17>"
+        ]
+    },
+    {
+        "id": "Q0995",
+        "entities": [
+            "<https://dblp.org/rec/conf/iccchina/GuiZSW17>"
+        ]
+    },
+    {
+        "id": "Q0996",
+        "entities": [
+            "<https://dblp.org/rec/conf/cibcb/000207>",
+            "<https://dblp.org/rec/conf/cmg/Hoplin83>"
+        ]
+    },
+    {
+        "id": "Q0997",
+        "entities": [
+            "<https://dblp.org/rec/conf/avsp/JesseJ08>",
+            "<https://dblp.org/rec/conf/ipps/FeilKU02>"
+        ]
+    },
+    {
+        "id": "Q0998",
+        "entities": [
+            "<https://dblp.org/rec/journals/jct/BiliottiF99>"
+        ]
+    },
+    {
+        "id": "Q0999",
+        "entities": [
+            "<https://dblp.org/rec/journals/access/HarrisSBVB17>",
+            "<https://dblp.org/rec/conf/ijcnn/BiscontriP00>"
+        ]
+    },
+    {
+        "id": "Q1000",
+        "entities": [
+            "<https://dblp.org/rec/journals/apjor/SatoS12>",
+            "<https://dblp.org/rec/journals/tii/BujosaAP21>"
+        ]
+    }
+]
