@@ -187,6 +187,10 @@
         ]
     },
     {
+        "id": "HQ0090",
+        "answer": []
+    },
+    {
         "id": "AQ0575",
         "answer": [
             "http://orkg.org/orkg/resource/R131873",
@@ -235,6 +239,10 @@
             "http://orkg.org/orkg/resource/R120873",
             "enwik8"
         ]
+    },
+    {
+        "id": "HQ0055",
+        "answer": []
     },
     {
         "id": "AQ2353",
@@ -715,6 +723,10 @@
         ]
     },
     {
+        "id": "HQ0077",
+        "answer": []
+    },
+    {
         "id": "AQ0943",
         "answer": [
             "http://orkg.org/orkg/resource/R119875",
@@ -1073,6 +1085,10 @@
     },
     {
         "id": "AQ0351",
+        "answer": []
+    },
+    {
+        "id": "HQ0052",
         "answer": []
     },
     {
@@ -1803,6 +1819,10 @@
         ]
     },
     {
+        "id": "HQ0095",
+        "answer": []
+    },
+    {
         "id": "AQ1085",
         "answer": [
             "http://orkg.org/orkg/resource/R114483",
@@ -2174,6 +2194,10 @@
             "http://orkg.org/orkg/resource/R118532",
             "Multimodal PISA"
         ]
+    },
+    {
+        "id": "HQ0069",
+        "answer": []
     },
     {
         "id": "HQ0063",

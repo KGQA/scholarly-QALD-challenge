@@ -526,6 +526,10 @@
         ]
     },
     {
+        "id": "HQ0081",
+        "answer": []
+    },
+    {
         "id": "AQ0314",
         "answer": [
             "http://orkg.org/orkg/resource/R126033",
@@ -603,6 +607,10 @@
             "http://orkg.org/orkg/resource/R124047",
             "Bi+"
         ]
+    },
+    {
+        "id": "HQ0097",
+        "answer": []
     },
     {
         "id": "AQ1685",
@@ -996,6 +1004,10 @@
         ]
     },
     {
+        "id": "HQ0043",
+        "answer": []
+    },
+    {
         "id": "AQ2345",
         "answer": [
             "https://github.com/RLAgent/state-marginal-matching"
@@ -1105,6 +1117,10 @@
         "answer": [
             "https://github.com/WING-NUS/scisumm-corpus"
         ]
+    },
+    {
+        "id": "HQ0085",
+        "answer": []
     },
     {
         "id": "AQ0447",
@@ -1244,6 +1260,10 @@
             "http://orkg.org/orkg/resource/R126155",
             "Tsetlin Machine"
         ]
+    },
+    {
+        "id": "HQ0078",
+        "answer": []
     },
     {
         "id": "AQ0409",
@@ -1551,6 +1571,10 @@
     },
     {
         "id": "AQ0692",
+        "answer": []
+    },
+    {
+        "id": "HQ0026",
         "answer": []
     },
     {
@@ -2113,6 +2137,10 @@
         ]
     },
     {
+        "id": "HQ0032",
+        "answer": []
+    },
+    {
         "id": "AQ1712",
         "answer": [
             "http://orkg.org/orkg/resource/R124905",
@@ -2424,6 +2452,10 @@
             "http://orkg.org/orkg/resource/R121393",
             "Temporal awareness"
         ]
+    },
+    {
+        "id": "HQ0017",
+        "answer": []
     },
     {
         "id": "AQ2237",
@@ -3043,6 +3075,10 @@
             "https://github.com/TACJu/TransFG",
             "https://github.com/facebookresearch/deit"
         ]
+    },
+    {
+        "id": "HQ0027",
+        "answer": []
     },
     {
         "id": "AQ0190",
@@ -4454,6 +4490,10 @@
             "BLEU score",
             "31.4"
         ]
+    },
+    {
+        "id": "HQ0068",
+        "answer": []
     },
     {
         "id": "AQ0439",

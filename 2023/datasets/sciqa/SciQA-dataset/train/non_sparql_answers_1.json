@@ -828,6 +828,10 @@
         ]
     },
     {
+        "id": "HQ0013",
+        "answer": []
+    },
+    {
         "id": "AQ1443",
         "answer": [
             "http://orkg.org/orkg/resource/R118783",
@@ -905,6 +909,10 @@
         ]
     },
     {
+        "id": "HQ0061",
+        "answer": []
+    },
+    {
         "id": "AQ1619",
         "answer": [
             "http://orkg.org/orkg/resource/R126160",
@@ -913,6 +921,10 @@
     },
     {
         "id": "AQ0724",
+        "answer": []
+    },
+    {
+        "id": "HQ0086",
         "answer": []
     },
     {
@@ -3519,6 +3531,10 @@
         ]
     },
     {
+        "id": "HQ0072",
+        "answer": []
+    },
+    {
         "id": "AQ0622",
         "answer": [
             "http://orkg.org/orkg/resource/R133937",
@@ -4453,6 +4469,10 @@
         ]
     },
     {
+        "id": "HQ0093",
+        "answer": []
+    },
+    {
         "id": "AQ1418",
         "answer": [
             "http://orkg.org/orkg/resource/R117154",
@@ -4516,6 +4536,10 @@
             "http://orkg.org/orkg/resource/R126091",
             "LeViT-128S"
         ]
+    },
+    {
+        "id": "HQ0094",
+        "answer": []
     },
     {
         "id": "AQ1598",
@@ -5164,6 +5188,10 @@
         ]
     },
     {
+        "id": "HQ0014",
+        "answer": []
+    },
+    {
         "id": "AQ0189",
         "answer": [
             "http://orkg.org/orkg/resource/R116612",
@@ -5429,6 +5457,10 @@
             "http://orkg.org/orkg/resource/R128073",
             "Micro Recall"
         ]
+    },
+    {
+        "id": "HQ0059",
+        "answer": []
     },
     {
         "id": "AQ0700",
@@ -6715,6 +6747,10 @@
         ]
     },
     {
+        "id": "HQ0030",
+        "answer": []
+    },
+    {
         "id": "AQ0196",
         "answer": [
             "http://orkg.org/orkg/resource/R123293",
@@ -7398,6 +7434,10 @@
         ]
     },
     {
+        "id": "HQ0054",
+        "answer": []
+    },
+    {
         "id": "AQ2463",
         "answer": [
             "http://orkg.org/orkg/resource/R38570",
@@ -7781,6 +7821,10 @@
         ]
     },
     {
+        "id": "HQ0056",
+        "answer": []
+    },
+    {
         "id": "AQ0901",
         "answer": [
             "http://orkg.org/orkg/resource/R115579",
@@ -7833,6 +7877,10 @@
         ]
     },
     {
+        "id": "HQ0042",
+        "answer": []
+    },
+    {
         "id": "AQ1280",
         "answer": [
             "http://orkg.org/orkg/resource/R119875",
@@ -7845,6 +7893,10 @@
         "answer": [
             "Yes"
         ]
+    },
+    {
+        "id": "HQ0087",
+        "answer": []
     },
     {
         "id": "AQ1539",
@@ -8169,6 +8221,10 @@
         ]
     },
     {
+        "id": "HQ0034",
+        "answer": []
+    },
+    {
         "id": "AQ1211",
         "answer": [
             "http://orkg.org/orkg/resource/R114483",
@@ -8472,6 +8528,10 @@
             "https://github.com/kochlisGit/autonomous-vehicles-agent",
             "https://github.com/deepmind/rlax"
         ]
+    },
+    {
+        "id": "HQ0033",
+        "answer": []
     },
     {
         "id": "AQ1617",
@@ -8856,6 +8916,10 @@
         ]
     },
     {
+        "id": "HQ0060",
+        "answer": []
+    },
+    {
         "id": "AQ1364",
         "answer": [
             "http://orkg.org/orkg/resource/R114480",
@@ -9227,6 +9291,10 @@
     },
     {
         "id": "AQ1039",
+        "answer": []
+    },
+    {
+        "id": "HQ0020",
         "answer": []
     },
     {
@@ -9868,6 +9936,10 @@
             "http://orkg.org/orkg/resource/R128071",
             "AxCell"
         ]
+    },
+    {
+        "id": "HQ0051",
+        "answer": []
     },
     {
         "id": "AQ1315",
@@ -11230,6 +11302,10 @@
         ]
     },
     {
+        "id": "HQ0028",
+        "answer": []
+    },
+    {
         "id": "AQ1921",
         "answer": []
     },
@@ -11926,6 +12002,10 @@
             "http://orkg.org/orkg/resource/R117121",
             "BLEU score"
         ]
+    },
+    {
+        "id": "HQ0074",
+        "answer": []
     },
     {
         "id": "AQ1218",
@@ -12815,6 +12895,10 @@
         "answer": []
     },
     {
+        "id": "HQ0018",
+        "answer": []
+    },
+    {
         "id": "AQ1885",
         "answer": [
             "http://orkg.org/orkg/resource/R119565",
@@ -12920,6 +13004,10 @@
             "http://orkg.org/orkg/resource/R123293",
             "CURL"
         ]
+    },
+    {
+        "id": "HQ0089",
+        "answer": []
     },
     {
         "id": "AQ1501",
@@ -14550,6 +14638,10 @@
         ]
     },
     {
+        "id": "HQ0066",
+        "answer": []
+    },
+    {
         "id": "AQ0017",
         "answer": [
             "http://orkg.org/orkg/resource/R123013",
@@ -15345,6 +15437,10 @@
         ]
     },
     {
+        "id": "HQ0071",
+        "answer": []
+    },
+    {
         "id": "AQ0589",
         "answer": [
             "http://orkg.org/orkg/resource/R134126",
@@ -15685,6 +15781,10 @@
         ]
     },
     {
+        "id": "HQ0053",
+        "answer": []
+    },
+    {
         "id": "AQ0312",
         "answer": [
             "http://orkg.org/orkg/resource/R116612",
@@ -15875,6 +15975,10 @@
             "BLEU",
             "36.2"
         ]
+    },
+    {
+        "id": "HQ0096",
+        "answer": []
     },
     {
         "id": "AQ0305",
@@ -16939,6 +17043,10 @@
         ]
     },
     {
+        "id": "HQ0076",
+        "answer": []
+    },
+    {
         "id": "AQ1199",
         "answer": [
             "http://orkg.org/orkg/resource/R111697",
@@ -17442,6 +17550,10 @@
             "http://orkg.org/orkg/resource/R125945",
             "ApproxRepSet"
         ]
+    },
+    {
+        "id": "HQ0088",
+        "answer": []
     },
     {
         "id": "AQ0147",
