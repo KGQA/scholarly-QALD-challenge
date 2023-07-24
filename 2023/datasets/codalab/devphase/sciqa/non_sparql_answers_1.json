@@ -1,0 +1,5611 @@
+[
+    {
+        "id": "AQ1475",
+        "answer": [
+            "http://orkg.org/orkg/resource/R117327",
+            "GPT-3 175B (Few-Shot)"
+        ]
+    },
+    {
+        "id": "AQ0495",
+        "answer": [
+            "http://orkg.org/orkg/resource/R130786",
+            "Dynamic Evaluation of Neural Sequence Models",
+            "http://orkg.org/orkg/resource/R130803",
+            "Language Models with Transformers",
+            "http://orkg.org/orkg/resource/R130817",
+            "Direct Output Connection for a High-Rank Language Model",
+            "http://orkg.org/orkg/resource/R130839",
+            "Improved Language Modeling by Decoding the Past",
+            "http://orkg.org/orkg/resource/R130852",
+            "Breaking the Softmax Bottleneck: A High-Rank RNN Language Model",
+            "http://orkg.org/orkg/resource/R130871",
+            "Partially Shuffling the Training Data to Improve Language Models",
+            "http://orkg.org/orkg/resource/R130890",
+            "Regularizing and Optimizing LSTM Language Models",
+            "http://orkg.org/orkg/resource/R130909",
+            "Trellis Networks for Sequence Modeling",
+            "http://orkg.org/orkg/resource/R130920",
+            "Fraternal Dropout",
+            "http://orkg.org/orkg/resource/R130930",
+            "Deep Equilibrium Models",
+            "http://orkg.org/orkg/resource/R130946",
+            "Neural Architecture Search with Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R130962",
+            "Tying Word Vectors and Word Classifiers: A Loss Framework for Language Modeling",
+            "http://orkg.org/orkg/resource/R130975",
+            "An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling",
+            "http://orkg.org/orkg/resource/R131002",
+            "R-Transformer: Recurrent Neural Network Enhanced Transformer",
+            "http://orkg.org/orkg/resource/R130601",
+            "Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context",
+            "http://orkg.org/orkg/resource/R129853",
+            "Language Models are Few-Shot Learners",
+            "http://orkg.org/orkg/resource/R129805",
+            "Improving Neural Language Modeling via Adversarial Training"
+        ]
+    },
+    {
+        "id": "AQ0176",
+        "answer": [
+            "http://orkg.org/orkg/resource/R122343",
+            "SB-CNN aug",
+            "http://orkg.org/orkg/resource/R122344",
+            "SB-CNN noaug"
+        ]
+    },
+    {
+        "id": "AQ0392",
+        "answer": [
+            "http://orkg.org/orkg/resource/R130817",
+            "Direct Output Connection for a High-Rank Language Model",
+            "http://orkg.org/orkg/resource/R129331",
+            "Generalizing Natural Language Analysis through Span-relation Representations"
+        ]
+    },
+    {
+        "id": "AQ1059",
+        "answer": []
+    },
+    {
+        "id": "AQ0021",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116717",
+            "SciIE",
+            "http://orkg.org/orkg/resource/R226756",
+            "Flair-TDM"
+        ]
+    },
+    {
+        "id": "HQ0038",
+        "answer": [
+            "2857.3636363636365e0"
+        ]
+    },
+    {
+        "id": "AQ0566",
+        "answer": [
+            "http://orkg.org/orkg/resource/R131642",
+            "MultiFiT: Efficient Multi-lingual Language Model Fine-tuning",
+            "http://orkg.org/orkg/resource/R131658",
+            "A Corpus for Multilingual Document Classification in Eight Languages",
+            "http://orkg.org/orkg/resource/R131694",
+            "Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond",
+            "http://orkg.org/orkg/resource/R131718",
+            "Bridging the domain gap in cross-lingual document classification"
+        ]
+    },
+    {
+        "id": "AQ1807",
+        "answer": [
+            "http://orkg.org/orkg/resource/R126100",
+            "VGG8B(2x) + LocalLearning + CO"
+        ]
+    },
+    {
+        "id": "AQ1437",
+        "answer": [
+            "http://orkg.org/orkg/resource/R117327",
+            "GPT-3 175B (Few-Shot)"
+        ]
+    },
+    {
+        "id": "AQ1221",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score",
+            "959"
+        ]
+    },
+    {
+        "id": "AQ1803",
+        "answer": [
+            "http://orkg.org/orkg/resource/R126033",
+            "BiT-L (50 hypers/task)"
+        ]
+    },
+    {
+        "id": "AQ0573",
+        "answer": [
+            "http://orkg.org/orkg/resource/R131759",
+            "PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization"
+        ]
+    },
+    {
+        "id": "AQ0698",
+        "answer": []
+    },
+    {
+        "id": "AQ0530",
+        "answer": [
+            "http://orkg.org/orkg/resource/R129608",
+            "Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing",
+            "http://orkg.org/orkg/resource/R129632",
+            "Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets"
+        ]
+    },
+    {
+        "id": "AQ1634",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119888",
+            "MAC"
+        ]
+    },
+    {
+        "id": "AQ0727",
+        "answer": [
+            "http://orkg.org/orkg/resource/R114165",
+            "Sequence error"
+        ]
+    },
+    {
+        "id": "AQ0435",
+        "answer": [
+            "http://orkg.org/orkg/resource/R129926",
+            "Generating Long Sequences with Sparse Transformers"
+        ]
+    },
+    {
+        "id": "AQ0999",
+        "answer": [
+            "http://orkg.org/orkg/resource/R121003",
+            "Bits per byte"
+        ]
+    },
+    {
+        "id": "AQ1967",
+        "answer": [
+            "https://github.com/davidjurgens/citation-function"
+        ]
+    },
+    {
+        "id": "AQ2193",
+        "answer": [
+            "https://github.com/huggingface/transformers",
+            "https://github.com/benkrause/dynamiceval-transformer",
+            "https://github.com/Machine-Learning-Tokyo/Poetry-GAN",
+            "https://github.com/Jmkernes/PAR-Transformer-XL",
+            "https://github.com/listenviolet/XLNet",
+            "https://github.com/samwisegamjeee/pytorch-transformers",
+            "https://github.com/cmunnis/BERT_vs_Transformer-XL",
+            "https://github.com/zhdbwe/Paper-DailyReading",
+            "https://github.com/cedrickchee/pytorch-pretrained-BERT",
+            "https://github.com/threelittlemonkeys/transformer-pytorch",
+            "https://github.com/huggingface/xlnet",
+            "https://github.com/inzva/fake-academic-paper-generation",
+            "https://github.com/sooftware/Attention-Implementation",
+            "https://github.com/sooftware/nlp-attentions",
+            "https://github.com/sh951011/Attention-Implementation",
+            "https://github.com/TimDettmers/transformer-xl",
+            "https://github.com/okkteam/Transformer-Transducer",
+            "https://github.com/facebookresearch/code-prediction-transformer",
+            "https://github.com/wxt1997/Transformer-Transducer",
+            "https://github.com/sooftware/conformer",
+            "https://github.com/lab-ml/nn/tree/master/labml_nn/transformers/xl",
+            "https://github.com/kimiyoung/transformer-xl"
+        ]
+    },
+    {
+        "id": "AQ1743",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124053",
+            "Massively Multilingual Sentence Embeddings"
+        ]
+    },
+    {
+        "id": "AQ2064",
+        "answer": [
+            "https://github.com/lduml/blog",
+            "https://github.com/Xaniar87/SAN_SQuAD2",
+            "https://github.com/yongbowin/san_mrc_annotation",
+            "https://github.com/om00839/machine-suneung",
+            "https://github.com/kevinduh/san_mrc"
+        ]
+    },
+    {
+        "id": "AQ0059",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116615",
+            "Table-Sequence",
+            "http://orkg.org/orkg/resource/R116626",
+            "Multi-turn QA",
+            "http://orkg.org/orkg/resource/R116629",
+            "SPTree",
+            "http://orkg.org/orkg/resource/R116630",
+            "DYGIE",
+            "http://orkg.org/orkg/resource/R116638",
+            "DYGIE++",
+            "http://orkg.org/orkg/resource/R116645",
+            "Ours: cross-sentence ALB"
+        ]
+    },
+    {
+        "id": "AQ1993",
+        "answer": [
+            "https://github.com/nusnlp/PtrNetDecoding4JERE"
+        ]
+    },
+    {
+        "id": "AQ1956",
+        "answer": [
+            "https://github.com/allenai/scitldr"
+        ]
+    },
+    {
+        "id": "AQ1369",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy",
+            "71.46%"
+        ]
+    },
+    {
+        "id": "AQ1250",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy",
+            "75.45"
+        ]
+    },
+    {
+        "id": "AQ2249",
+        "answer": [
+            "https://github.com/devendrachaplot/Object-Goal-Navigation"
+        ]
+    },
+    {
+        "id": "AQ0952",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score"
+        ]
+    },
+    {
+        "id": "AQ1537",
+        "answer": [
+            "http://orkg.org/orkg/resource/R120924",
+            "FS-LSTM-4"
+        ]
+    },
+    {
+        "id": "AQ0500",
+        "answer": [
+            "http://orkg.org/orkg/resource/R131085",
+            "Discrete Flows: Invertible Generative Models of Discrete Data",
+            "http://orkg.org/orkg/resource/R130839",
+            "Improved Language Modeling by Decoding the Past",
+            "http://orkg.org/orkg/resource/R130909",
+            "Trellis Networks for Sequence Modeling",
+            "http://orkg.org/orkg/resource/R130946",
+            "Neural Architecture Search with Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R130975",
+            "An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling",
+            "http://orkg.org/orkg/resource/R131002",
+            "R-Transformer: Recurrent Neural Network Enhanced Transformer",
+            "http://orkg.org/orkg/resource/R130545",
+            "Addressing Some Limitations of Transformers with Feedback Memory",
+            "http://orkg.org/orkg/resource/R130712",
+            "An Analysis of Neural Language Modeling at Multiple Scales",
+            "http://orkg.org/orkg/resource/R130749",
+            "Fast-Slow Recurrent Neural Networks",
+            "http://orkg.org/orkg/resource/R130777",
+            "HyperNetworks"
+        ]
+    },
+    {
+        "id": "AQ0924",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score"
+        ]
+    },
+    {
+        "id": "AQ1806",
+        "answer": [
+            "http://orkg.org/orkg/resource/R126097",
+            "CAIT-M36-448"
+        ]
+    },
+    {
+        "id": "HQ0003",
+        "answer": [
+            "3",
+            "http://orkg.org/orkg/resource/R5048"
+        ]
+    },
+    {
+        "id": "HQ0057",
+        "answer": [
+            "https://seel.cse.lsu.edu/data/re17.zip",
+            "https://mast.informatik.uni-hamburg.de/wp-content/uploads/2014/03/REJ_data.zip",
+            "https://sites.google.com/site/appsuserreviews/",
+            "https://seel.cse.lsu.edu/data/refsq17.zip",
+            "https://mast.informatik.uni-hamburg.de/wp-content/uploads/2014/03/REJ_data.zip ",
+            "https://zenodo.org/record/56907#.YKT_NudCRPY",
+            "https://sites.google.com/site/appsimilarity/",
+            "https://github.com/saltlab/Minning-App-Stores",
+            "https://github.com/SAILResearch/replication-prioritize_devices_test_app"
+        ]
+    },
+    {
+        "id": "AQ1891",
+        "answer": [
+            "http://orkg.org/orkg/resource/R164005",
+            "SoMeSci"
+        ]
+    },
+    {
+        "id": "AQ0503",
+        "answer": [
+            "http://orkg.org/orkg/resource/R131730",
+            "BioSentVec: creating sentence embeddings for biomedical texts",
+            "http://orkg.org/orkg/resource/R129632",
+            "Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets"
+        ]
+    },
+    {
+        "id": "AQ1745",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124053",
+            "Massively Multilingual Sentence Embeddings"
+        ]
+    },
+    {
+        "id": "AQ0661",
+        "answer": [
+            "http://orkg.org/orkg/resource/R134962",
+            "CvT: Introducing Convolutions to Vision Transformers",
+            "http://orkg.org/orkg/resource/R134998",
+            "Training data-efficient image transformers & distillation through attention",
+            "http://orkg.org/orkg/resource/R134508",
+            "Big Transfer (BiT): General Visual Representation Learning",
+            "http://orkg.org/orkg/resource/R134578",
+            "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+            "http://orkg.org/orkg/resource/R134633",
+            "Incorporating Convolution Designs into Visual Transformers",
+            "http://orkg.org/orkg/resource/R134713",
+            "Going deeper with Image Transformers",
+            "http://orkg.org/orkg/resource/R134775",
+            "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference"
+        ]
+    },
+    {
+        "id": "AQ0550",
+        "answer": [
+            "http://orkg.org/orkg/resource/R131287",
+            "DD-PPO: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames"
+        ]
+    },
+    {
+        "id": "AQ1214",
+        "answer": [
+            "http://orkg.org/orkg/resource/R114483",
+            "F1",
+            "93.42"
+        ]
+    },
+    {
+        "id": "AQ1498",
+        "answer": [
+            "http://orkg.org/orkg/resource/R117327",
+            "GPT-3 175B (Few-Shot)"
+        ]
+    },
+    {
+        "id": "AQ1692",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124911",
+            "DQN hs"
+        ]
+    },
+    {
+        "id": "AQ1997",
+        "answer": [
+            "https://github.com/saarahasad/Relation-Extraction",
+            "https://github.com/LorrinWWW/two-are-better-than-one"
+        ]
+    },
+    {
+        "id": "AQ1920",
+        "answer": []
+    },
+    {
+        "id": "AQ0991",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy"
+        ]
+    },
+    {
+        "id": "AQ1587",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116685",
+            "SciBERT (Base Vocab)"
+        ]
+    },
+    {
+        "id": "AQ2008",
+        "answer": [
+            "https://github.com/thunlp/DocRED"
+        ]
+    },
+    {
+        "id": "AQ1656",
+        "answer": [
+            "http://orkg.org/orkg/resource/R126364",
+            "BiLSTM-TDN(ResNet-101)"
+        ]
+    },
+    {
+        "id": "AQ1262",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116360",
+            "ROUGE-L",
+            "36.51",
+            "http://orkg.org/orkg/resource/R120314",
+            "ROUGE-1",
+            "37.68",
+            "http://orkg.org/orkg/resource/R124684",
+            "ROUGE-2",
+            "21.25"
+        ]
+    },
+    {
+        "id": "AQ0554",
+        "answer": [
+            "http://orkg.org/orkg/resource/R134962",
+            "CvT: Introducing Convolutions to Vision Transformers",
+            "http://orkg.org/orkg/resource/R135097",
+            "Sequential Random Network for Fine-grained Image Classification",
+            "http://orkg.org/orkg/resource/R134508",
+            "Big Transfer (BiT): General Visual Representation Learning",
+            "http://orkg.org/orkg/resource/R134578",
+            "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+            "http://orkg.org/orkg/resource/R134633",
+            "Incorporating Convolution Designs into Visual Transformers",
+            "http://orkg.org/orkg/resource/R134924",
+            "Sharpness-Aware Minimization for Efficiently Improving Generalization",
+            "http://orkg.org/orkg/resource/R131303",
+            "Neural Architecture Transfer"
+        ]
+    },
+    {
+        "id": "AQ1333",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy",
+            "76.58"
+        ]
+    },
+    {
+        "id": "AQ2273",
+        "answer": [
+            "https://github.com/neukg/AcrE"
+        ]
+    },
+    {
+        "id": "AQ1503",
+        "answer": [
+            "http://orkg.org/orkg/resource/R120662",
+            "ELMo"
+        ]
+    },
+    {
+        "id": "AQ0361",
+        "answer": [
+            "http://orkg.org/orkg/resource/R129411",
+            "SciBERT: A Pretrained Language Model for Scientific Text",
+            "http://orkg.org/orkg/resource/R129488",
+            "Span-based Joint Entity and Relation Extraction with Transformer Pre-training",
+            "http://orkg.org/orkg/resource/R129569",
+            "A General Framework for Information Extraction using Dynamic Span Graphs",
+            "http://orkg.org/orkg/resource/R129585",
+            "Entity, Relation, and Event Extraction with Contextualized Span Representations",
+            "http://orkg.org/orkg/resource/R129595",
+            "A Frustratingly Easy Approach for Entity and Relation Extraction"
+        ]
+    },
+    {
+        "id": "AQ0314",
+        "answer": [
+            "http://orkg.org/orkg/resource/R126033",
+            "BiT-L (50 hypers/task)",
+            "http://orkg.org/orkg/resource/R126036",
+            "BiT-L",
+            "http://orkg.org/orkg/resource/R126043",
+            "BiT-M",
+            "http://orkg.org/orkg/resource/R126047",
+            "BiT-S",
+            "http://orkg.org/orkg/resource/R126034",
+            "ViT-H/14",
+            "http://orkg.org/orkg/resource/R126037",
+            "ViT-L/16",
+            "http://orkg.org/orkg/resource/R126038",
+            "ViT-L/16 (\"ImageNet-21k\")"
+        ]
+    },
+    {
+        "id": "AQ2336",
+        "answer": []
+    },
+    {
+        "id": "AQ0942",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score"
+        ]
+    },
+    {
+        "id": "AQ2092",
+        "answer": [
+            "https://github.com/andreiilie1/dynamic_coattention_networks",
+            "https://github.com/wasimusu/MachineRC",
+            "https://github.com/Lou1sM/AdvancedML-Project-Dynamic-Coattention-Networks",
+            "https://github.com/Lou1sM/AML-Project",
+            "https://github.com/lmn-extracts/dcn_plus",
+            "https://github.com/BAJUKA/SQuAD-NLP"
+        ]
+    },
+    {
+        "id": "AQ1826",
+        "answer": [
+            "http://orkg.org/orkg/resource/R128075",
+            "TDMS-IE"
+        ]
+    },
+    {
+        "id": "AQ1302",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score",
+            "5.1"
+        ]
+    },
+    {
+        "id": "AQ0742",
+        "answer": [
+            "http://orkg.org/orkg/resource/R114483",
+            "F1"
+        ]
+    },
+    {
+        "id": "AQ0888",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score"
+        ]
+    },
+    {
+        "id": "AQ0217",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124046",
+            "Biinclusion (Euro500kReuters)",
+            "http://orkg.org/orkg/resource/R124047",
+            "Bi+"
+        ]
+    },
+    {
+        "id": "AQ1685",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124759",
+            "GCN Hybrid"
+        ]
+    },
+    {
+        "id": "AQ2033",
+        "answer": [
+            "https://github.com/ZhenYangIACAS/unsupervised-NMT"
+        ]
+    },
+    {
+        "id": "AQ1740",
+        "answer": [
+            "http://orkg.org/orkg/resource/R120964",
+            "R-Transformer"
+        ]
+    },
+    {
+        "id": "AQ0026",
+        "answer": [
+            "http://orkg.org/orkg/resource/R225027",
+            "CATTS-XSUM",
+            "http://orkg.org/orkg/resource/R225011",
+            "CATTS"
+        ]
+    },
+    {
+        "id": "AQ0699",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy"
+        ]
+    },
+    {
+        "id": "AQ1327",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy",
+            "48.92%"
+        ]
+    },
+    {
+        "id": "AQ1037",
+        "answer": []
+    },
+    {
+        "id": "AQ0142",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119567",
+            "XLNet (single model)"
+        ]
+    },
+    {
+        "id": "AQ0759",
+        "answer": [
+            "http://orkg.org/orkg/resource/R117528",
+            "F1-score"
+        ]
+    },
+    {
+        "id": "AQ1355",
+        "answer": [
+            "http://orkg.org/orkg/resource/R127017",
+            "Unpermuted Accuracy",
+            "99.1%",
+            "http://orkg.org/orkg/resource/R127016",
+            "Permuted Accuracy",
+            "97.2%"
+        ]
+    },
+    {
+        "id": "AQ1971",
+        "answer": [
+            "https://github.com/mvallet91/SmartPub-TSENER"
+        ]
+    },
+    {
+        "id": "AQ1092",
+        "answer": [
+            "http://orkg.org/orkg/resource/R114483",
+            "F1",
+            "59"
+        ]
+    },
+    {
+        "id": "AQ0712",
+        "answer": []
+    },
+    {
+        "id": "AQ0085",
+        "answer": [
+            "http://orkg.org/orkg/resource/R117323",
+            "SMT + NMT (tuning and joint refinement)",
+            "http://orkg.org/orkg/resource/R117324",
+            "SMT as posterior regularization",
+            "http://orkg.org/orkg/resource/R117327",
+            "GPT-3 175B (Few-Shot)",
+            "http://orkg.org/orkg/resource/R117120",
+            "Attentional encoder-decoder + BPE",
+            "http://orkg.org/orkg/resource/R117122",
+            "PBSMT + NMT",
+            "http://orkg.org/orkg/resource/R117164",
+            "SMT + iterative backtranslation (unsupervised)",
+            "http://orkg.org/orkg/resource/R117251",
+            "Linguistic Input Features",
+            "http://orkg.org/orkg/resource/R117252",
+            "Unsupervised NMT + weight-sharing",
+            "http://orkg.org/orkg/resource/R117253",
+            "Unsupervised S2S with attention"
+        ]
+    },
+    {
+        "id": "AQ1603",
+        "answer": [
+            "http://orkg.org/orkg/resource/R126158",
+            "EffNet-L2 (SAM)"
+        ]
+    },
+    {
+        "id": "AQ1160",
+        "answer": [
+            "87.47%",
+            "http://orkg.org/orkg/resource/R116363",
+            "Precision",
+            "89.46%",
+            "http://orkg.org/orkg/resource/R120300",
+            "count",
+            "34.28"
+        ]
+    },
+    {
+        "id": "AQ1631",
+        "answer": [
+            "http://orkg.org/orkg/resource/R123293",
+            "CURL"
+        ]
+    },
+    {
+        "id": "AQ0248",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124920",
+            "ES FF (1 hour) noop",
+            "http://orkg.org/orkg/resource/R123322",
+            "SAC",
+            "http://orkg.org/orkg/resource/R124931",
+            "Reactor 500M",
+            "http://orkg.org/orkg/resource/R124913",
+            "A3C FF hs",
+            "http://orkg.org/orkg/resource/R124914",
+            "A3C FF (1 day) hs",
+            "http://orkg.org/orkg/resource/R124916",
+            "POP3D",
+            "http://orkg.org/orkg/resource/R124919",
+            "Prior+Duel hs",
+            "http://orkg.org/orkg/resource/R124900",
+            "DDQN+Pop-Art noop",
+            "http://orkg.org/orkg/resource/R124901",
+            "Gorila",
+            "http://orkg.org/orkg/resource/R124902",
+            "Bootstrapped DQN",
+            "http://orkg.org/orkg/resource/R124912",
+            "A2C + SIL",
+            "http://orkg.org/orkg/resource/R124921",
+            "A3C LSTM hs",
+            "http://orkg.org/orkg/resource/R124895",
+            "Prior hs",
+            "http://orkg.org/orkg/resource/R124898",
+            "DDQN (tuned) hs",
+            "http://orkg.org/orkg/resource/R124908",
+            "DQN noop",
+            "http://orkg.org/orkg/resource/R124911",
+            "DQN hs",
+            "http://orkg.org/orkg/resource/R124892",
+            "Duel hs",
+            "http://orkg.org/orkg/resource/R124897",
+            "DDQN (tuned) noop",
+            "http://orkg.org/orkg/resource/R124922",
+            "Prior+Duel noop",
+            "http://orkg.org/orkg/resource/R124894",
+            "Prior noop",
+            "http://orkg.org/orkg/resource/R124890",
+            "C51 noop",
+            "http://orkg.org/orkg/resource/R124891",
+            "Duel noop",
+            "http://orkg.org/orkg/resource/R123293",
+            "CURL"
+        ]
+    },
+    {
+        "id": "AQ2342",
+        "answer": [
+            "https://github.com/bonniesjli/DQN_SR",
+            "https://github.com/mcmachado/count_based_exploration_sr"
+        ]
+    },
+    {
+        "id": "AQ1230",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score",
+            "769"
+        ]
+    },
+    {
+        "id": "AQ1402",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116579",
+            "ETL-Span"
+        ]
+    },
+    {
+        "id": "AQ2083",
+        "answer": []
+    },
+    {
+        "id": "AQ2050",
+        "answer": [
+            "https://github.com/deepmind/deepmind-research/tree/master/mmv"
+        ]
+    },
+    {
+        "id": "AQ1583",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119139",
+            "XLNet"
+        ]
+    },
+    {
+        "id": "AQ1428",
+        "answer": [
+            "http://orkg.org/orkg/resource/R117327",
+            "GPT-3 175B (Few-Shot)"
+        ]
+    },
+    {
+        "id": "AQ2246",
+        "answer": [
+            "https://github.com/ToolManChang/DRLseminar_code_challenge",
+            "https://github.com/cindycia/Atari-SAC-Discrete",
+            "https://github.com/ku2482/rltorch",
+            "https://github.com/ku2482/rljax",
+            "https://github.com/ac-93/soft-actor-critic",
+            "https://github.com/ku2482/sac-discrete.pytorch",
+            "https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch"
+        ]
+    },
+    {
+        "id": "AQ2077",
+        "answer": []
+    },
+    {
+        "id": "AQ2152",
+        "answer": []
+    },
+    {
+        "id": "AQ1702",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124900",
+            "DDQN+Pop-Art noop"
+        ]
+    },
+    {
+        "id": "AQ1415",
+        "answer": [
+            "http://orkg.org/orkg/resource/R127506",
+            "XLNet Large Cased"
+        ]
+    },
+    {
+        "id": "AQ1977",
+        "answer": [
+            "https://github.com/LinearPi/OCR_Chinese",
+            "https://github.com/OzHsu23/chineseocr",
+            "https://github.com/witcher425/CHINESEOCR",
+            "https://github.com/xiaofengShi/CHINESE-OCR"
+        ]
+    },
+    {
+        "id": "AQ0156",
+        "answer": [
+            "http://orkg.org/orkg/resource/R121030",
+            "PAR Transformer 24B"
+        ]
+    },
+    {
+        "id": "AQ0407",
+        "answer": [
+            "http://orkg.org/orkg/resource/R129411",
+            "SciBERT: A Pretrained Language Model for Scientific Text",
+            "http://orkg.org/orkg/resource/R129488",
+            "Span-based Joint Entity and Relation Extraction with Transformer Pre-training",
+            "http://orkg.org/orkg/resource/R129569",
+            "A General Framework for Information Extraction using Dynamic Span Graphs",
+            "http://orkg.org/orkg/resource/R129585",
+            "Entity, Relation, and Event Extraction with Contextualized Span Representations",
+            "http://orkg.org/orkg/resource/R129595",
+            "A Frustratingly Easy Approach for Entity and Relation Extraction"
+        ]
+    },
+    {
+        "id": "AQ1465",
+        "answer": [
+            "http://orkg.org/orkg/resource/R120581",
+            "QA-GNN"
+        ]
+    },
+    {
+        "id": "AQ0813",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119439",
+            "EM",
+            "http://orkg.org/orkg/resource/R114483",
+            "F1"
+        ]
+    },
+    {
+        "id": "AQ0769",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116443",
+            "BLEU",
+            "http://orkg.org/orkg/resource/R117121",
+            "BLEU score"
+        ]
+    },
+    {
+        "id": "AQ1860",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119130",
+            "RACE",
+            "http://orkg.org/orkg/resource/R120850",
+            "WNLI",
+            "http://orkg.org/orkg/resource/R122670",
+            "Yelp Fine-grained classification",
+            "http://orkg.org/orkg/resource/R114616",
+            "IMDb",
+            "http://orkg.org/orkg/resource/R122706",
+            "Yelp Binary classification",
+            "http://orkg.org/orkg/resource/R123632",
+            "ClueWeb09-B",
+            "http://orkg.org/orkg/resource/R125894",
+            "Amazon-2",
+            "http://orkg.org/orkg/resource/R125897",
+            "DBpedia",
+            "http://orkg.org/orkg/resource/R116787",
+            "AG News",
+            "http://orkg.org/orkg/resource/R125913",
+            "Yelp-2",
+            "http://orkg.org/orkg/resource/R125919",
+            "Yelp-5",
+            "http://orkg.org/orkg/resource/R116370",
+            "Amazon-5"
+        ]
+    },
+    {
+        "id": "AQ1388",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116615",
+            "Table-Sequence"
+        ]
+    },
+    {
+        "id": "AQ2455",
+        "answer": [
+            "https://github.com/Kabongosalomon/task-dataset-metric-nli-extraction"
+        ]
+    },
+    {
+        "id": "AQ0639",
+        "answer": [
+            "http://orkg.org/orkg/resource/R134434",
+            "Text classification with word embedding regularization and soft similarity measure",
+            "http://orkg.org/orkg/resource/R134448",
+            "Rep the Set: Neural Networks for Learning Set Representations",
+            "http://orkg.org/orkg/resource/R134476",
+            "Speeding up Word Mover's Distance and its variants via properties of distances between embeddings"
+        ]
+    },
+    {
+        "id": "AQ0053",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116605",
+            "WDec",
+            "http://orkg.org/orkg/resource/R116606",
+            "PNDec",
+            "http://orkg.org/orkg/resource/R116607",
+            "HRLRE"
+        ]
+    },
+    {
+        "id": "AQ2345",
+        "answer": [
+            "https://github.com/RLAgent/state-marginal-matching"
+        ]
+    },
+    {
+        "id": "AQ0638",
+        "answer": [
+            "http://orkg.org/orkg/resource/R131153",
+            "Message Passing Attention Networks for Document Understanding"
+        ]
+    },
+    {
+        "id": "AQ2304",
+        "answer": [
+            "https://github.com/ml-research/rational_sl",
+            "https://github.com/ml-research/rational_rl",
+            "https://github.com/ml-research/rational_activations"
+        ]
+    },
+    {
+        "id": "AQ1678",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124055",
+            "XLMft UDA"
+        ]
+    },
+    {
+        "id": "AQ1593",
+        "answer": [
+            "http://orkg.org/orkg/resource/R127904",
+            "ELMO"
+        ]
+    },
+    {
+        "id": "AQ1923",
+        "answer": []
+    },
+    {
+        "id": "AQ1472",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119646",
+            "S-Norm"
+        ]
+    },
+    {
+        "id": "HQ0091",
+        "answer": [
+            "Raman Spectroscopy is a non-destructive chemical analysis technique which provides detailed information about chemical structure, phase and polymorphy, crystallinity and molecular interactions.  Raman is a light scattering technique, whereby a molecule scatters incident light from a high intensity laser light source."
+        ]
+    },
+    {
+        "id": "AQ1244",
+        "answer": [
+            "http://orkg.org/orkg/resource/R123734",
+            "FLOPS",
+            "560M",
+            "http://orkg.org/orkg/resource/R123735",
+            "PARAMS",
+            "6.3M",
+            "http://orkg.org/orkg/resource/R115579",
+            "Accuracy (%)",
+            "79.1"
+        ]
+    },
+    {
+        "id": "AQ1241",
+        "answer": [
+            "http://orkg.org/orkg/resource/R123734",
+            "FLOPS",
+            "710M",
+            "http://orkg.org/orkg/resource/R123735",
+            "PARAMS",
+            "9.1M",
+            "http://orkg.org/orkg/resource/R115579",
+            "Accuracy (%)",
+            "94.8"
+        ]
+    },
+    {
+        "id": "AQ0344",
+        "answer": []
+    },
+    {
+        "id": "AQ0756",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119433",
+            "Error"
+        ]
+    },
+    {
+        "id": "AQ1571",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116679",
+            "PubMedBERT uncased"
+        ]
+    },
+    {
+        "id": "AQ0525",
+        "answer": [
+            "http://orkg.org/orkg/resource/R129411",
+            "SciBERT: A Pretrained Language Model for Scientific Text"
+        ]
+    },
+    {
+        "id": "AQ2290",
+        "answer": [
+            "https://github.com/WING-NUS/scisumm-corpus"
+        ]
+    },
+    {
+        "id": "AQ0447",
+        "answer": [
+            "http://orkg.org/orkg/resource/R135097",
+            "Sequential Random Network for Fine-grained Image Classification",
+            "http://orkg.org/orkg/resource/R135170",
+            "Domain Adaptive Transfer Learning on Visual Attention Aware Data Augmentation for Fine-grained Visual Categorization"
+        ]
+    },
+    {
+        "id": "AQ1976",
+        "answer": []
+    },
+    {
+        "id": "AQ2294",
+        "answer": [
+            "https://github.com/ku2482/sac-discrete.pytorch",
+            "https://github.com/eddynelson/dqn",
+            "https://github.com/BY571/DQN-Atari-Agents",
+            "https://github.com/chainer/chainerrl",
+            "https://github.com/facebookresearch/Horizon",
+            "https://github.com/facebookresearch/ReAgent",
+            "https://github.com/NervanaSystems/coach",
+            "https://github.com/marload/DeepRL-TensorFlow2",
+            "https://github.com/wtingda/DeepRLBreakout",
+            "https://github.com/tensorpack/tensorpack/tree/master/examples/DeepQNetwork",
+            "https://github.com/lab-ml/nn",
+            "https://github.com/JuliaPOMDP/DeepQLearning.jl",
+            "https://github.com/SayhoKim/tetrisRL",
+            "https://github.com/nathanin/pad",
+            "https://github.com/kmdanielduan/DQN_Family_PyTorch",
+            "https://github.com/kshitij-ingale/Reinforcement-Learning",
+            "https://github.com/philtabor/Deep-Q-Learning-Paper-To-Code",
+            "https://github.com/atavakol/action-branching-agents",
+            "https://github.com/utarumo/RL_implementation",
+            "https://github.com/cocolico14/N-step-Dueling-DDQN-PER-Pacman",
+            "https://github.com/OMS1996/Carla_The_RL_Self-Driving-Car",
+            "https://github.com/rybread1/deep-rl-trex",
+            "https://github.com/rybread1/DeepRlTrex",
+            "https://github.com/mohit8935/Deep-Q-Learning-Paper",
+            "https://github.com/hemilpanchiwala/Dueling_Network_Architectures",
+            "https://github.com/Adrelf/DRL-navigation",
+            "https://github.com/MEOWMEOW114/nd893-p1-navigation-banana",
+            "https://github.com/hemilpanchiwala/Dueling-Network-Architectures",
+            "https://github.com/botforge/simplementation",
+            "https://github.com/austinsilveria/Banana-Collection-DQN",
+            "https://github.com/1jsingh/rl_navigation",
+            "https://github.com/HussonnoisMaxence/RL_Algorithms",
+            "https://github.com/jezzarax/drlnd_p1_navigation",
+            "https://github.com/fengsterooni/dql",
+            "https://github.com/shashwatsaxena571/DRL-navigation",
+            "https://github.com/shehrum/RL_Navigation",
+            "https://github.com/mightypirate1/DRL-Tetris",
+            "https://github.com/nbopardi/smb",
+            "https://github.com/ZainRaza14/deepRL",
+            "https://github.com/FaboNo/DRLND",
+            "https://github.com/guillaumeboniface/bananaland",
+            "https://github.com/iDataist/Navigation-with-Deep-Q-Network",
+            "https://github.com/Brandon-Rozek/DeepRL",
+            "https://github.com/la3lma/Chez",
+            "https://github.com/la3lma/chezjulia",
+            "https://github.com/170928/-Review-Dueling-Deep-Q-Network",
+            "https://github.com/opplieam/Pong-Deep-RL",
+            "https://github.com/jsztompka/DuelDQN",
+            "https://github.com/R-Sweke/DeepQ-Decoding",
+            "https://github.com/gouxiangchen/dueling-DQN-pytorch",
+            "https://github.com/KDL-umass/saliency_maps",
+            "https://github.com/alessandrositta/Flatland_challenge",
+            "https://github.com/prajwalgatti/DRL-Continuous-Control",
+            "https://github.com/prajwalgatti/DRL-Navigation",
+            "https://github.com/zynk13/dueling-dqn-Reinforcement-learning",
+            "https://github.com/abryeemessi/Wednesday",
+            "https://github.com/JBGUIMBAUD/deep-reenforcement-learning",
+            "https://github.com/Sirorezka/DeepRL_modules",
+            "https://github.com/manvibharat/Stock-price-pridiction-using-Deep-reienforcement-learning"
+        ]
+    },
+    {
+        "id": "AQ1372",
+        "answer": []
+    },
+    {
+        "id": "AQ2194",
+        "answer": [
+            "https://github.com/AranKomat/adapinp",
+            "https://github.com/pytorch/fairseq"
+        ]
+    },
+    {
+        "id": "AQ0259",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124952",
+            "Go-Explore",
+            "http://orkg.org/orkg/resource/R124953",
+            "RND",
+            "http://orkg.org/orkg/resource/R124978",
+            "DQNMMCe"
+        ]
+    },
+    {
+        "id": "AQ0489",
+        "answer": [
+            "http://orkg.org/orkg/resource/R130368",
+            "Deep contextualized word representations",
+            "http://orkg.org/orkg/resource/R194309",
+            "Deep Contextualized Word Representations"
+        ]
+    },
+    {
+        "id": "AQ2046",
+        "answer": [
+            "https://github.com/deepmind/deepmind-research/tree/master/mmv"
+        ]
+    },
+    {
+        "id": "AQ1273",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score",
+            "9646.0"
+        ]
+    },
+    {
+        "id": "AQ0042",
+        "answer": [
+            "http://orkg.org/orkg/resource/R126124",
+            "VGG8B + LocalLearning + CO",
+            "http://orkg.org/orkg/resource/R126151",
+            "ANODE",
+            "http://orkg.org/orkg/resource/R126152",
+            "Zhao et al. (2015) (auto-encoder)",
+            "http://orkg.org/orkg/resource/R126153",
+            "ProjectionNet",
+            "http://orkg.org/orkg/resource/R126154",
+            "Weighted Tsetlin Machine",
+            "http://orkg.org/orkg/resource/R126155",
+            "Tsetlin Machine"
+        ]
+    },
+    {
+        "id": "AQ0409",
+        "answer": [
+            "http://orkg.org/orkg/resource/R129569",
+            "A General Framework for Information Extraction using Dynamic Span Graphs",
+            "http://orkg.org/orkg/resource/R129331",
+            "Generalizing Natural Language Analysis through Span-relation Representations"
+        ]
+    },
+    {
+        "id": "AQ0507",
+        "answer": [
+            "http://orkg.org/orkg/resource/R131118",
+            "A Structured Learning Approach to Temporal Relation Extraction"
+        ]
+    },
+    {
+        "id": "AQ0064",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116717",
+            "SciIE",
+            "http://orkg.org/orkg/resource/R116685",
+            "SciBERT (Base Vocab)",
+            "http://orkg.org/orkg/resource/R116620",
+            "SpERT",
+            "http://orkg.org/orkg/resource/R116700",
+            "SpERT (with overlap)",
+            "http://orkg.org/orkg/resource/R116703",
+            "DyGIE",
+            "http://orkg.org/orkg/resource/R116715",
+            "DyGIE++",
+            "http://orkg.org/orkg/resource/R116718",
+            "Ours: cross-sentence",
+            "http://orkg.org/orkg/resource/R116612",
+            "SciBERT (SciVocab)"
+        ]
+    },
+    {
+        "id": "AQ1545",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116338",
+            "SpanRel"
+        ]
+    },
+    {
+        "id": "AQ0083",
+        "answer": [
+            "http://orkg.org/orkg/resource/R117323",
+            "SMT + NMT (tuning and joint refinement)",
+            "http://orkg.org/orkg/resource/R117324",
+            "SMT as posterior regularization",
+            "http://orkg.org/orkg/resource/R117122",
+            "PBSMT + NMT",
+            "http://orkg.org/orkg/resource/R117123",
+            "Unsupervised PBSMT",
+            "http://orkg.org/orkg/resource/R117124",
+            "Unsupervised NMT + Transformer",
+            "http://orkg.org/orkg/resource/R117154",
+            "Rfa-Gate-arccos",
+            "http://orkg.org/orkg/resource/R117164",
+            "SMT + iterative backtranslation (unsupervised)",
+            "http://orkg.org/orkg/resource/R117221",
+            "CMLM+LAT+4 iterations",
+            "http://orkg.org/orkg/resource/R117225",
+            "CMLM+LAT+1 iterations",
+            "http://orkg.org/orkg/resource/R117228",
+            "NAT +FT + NPD",
+            "http://orkg.org/orkg/resource/R117229",
+            "Denoising autoencoders (non-autoregressive)",
+            "http://orkg.org/orkg/resource/R117264",
+            "Transformer Big + adversarial MLE"
+        ]
+    },
+    {
+        "id": "AQ1335",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy",
+            "69.4"
+        ]
+    },
+    {
+        "id": "AQ2309",
+        "answer": [
+            "https://github.com/liuyuezhang/pyrl",
+            "https://github.com/chainer/chainerrl",
+            "https://github.com/aabbeell/reinforcementLearning.a2c.gym",
+            "https://github.com/alexmlamb/blocks_rl_gru_setup",
+            "https://github.com/JulT1/RL_SS19",
+            "https://github.com/ofekluis/sonic_project_ss19",
+            "https://github.com/qihongl/demo-advantage-actor-critic",
+            "https://github.com/AI-RG/rl-experiments",
+            "https://github.com/natsumeS/analysis",
+            "https://github.com/PaulCharnay/Projet_AIF",
+            "https://github.com/Remtasya/DDPG-Actor-Critic-Reinforcement-Learning-Reacher-Environment",
+            "https://github.com/Jzar/Space-Invaders-DQN",
+            "https://github.com/Jventajas/Reinforcement-Learning",
+            "https://github.com/sharan-dce/A3C",
+            "https://github.com/tensorpack/tensorpack/tree/master/examples/A3C-Gym",
+            "https://github.com/hill-a/stable-baselines",
+            "https://github.com/NervanaSystems/coach",
+            "https://github.com/DLR-RM/stable-baselines3",
+            "https://github.com/openai/universe-starter-agent",
+            "https://github.com/ikostrikov/pytorch-a3c",
+            "https://github.com/Khrylx/PyTorch-RL",
+            "https://github.com/miyosuda/async_deep_reinforce",
+            "https://github.com/yukezhu/tensorflow-reinforce",
+            "https://github.com/muupan/async-rl",
+            "https://github.com/marload/DeepRL-TensorFlow2",
+            "https://github.com/marload/deep-rl-tf2",
+            "https://github.com/dickreuter/neuron_poker",
+            "https://github.com/Kaixhin/ACER",
+            "https://github.com/Kaixhin/NoisyNet-A3C",
+            "https://github.com/bentrevett/pytorch-rl",
+            "https://github.com/Nasdin/ReinforcementLearning-AtariGame",
+            "https://github.com/khanhptnk/bandit-nmt",
+            "https://github.com/lcswillems/torch-ac",
+            "https://github.com/arnomoonens/yarll",
+            "https://github.com/traai/async-deep-rl",
+            "https://github.com/deepsense-ai/Distributed-BA3C",
+            "https://github.com/ikostrikov/pytorch-rl",
+            "https://github.com/ShibiHe/Q-Optimality-Tightening",
+            "https://github.com/qihongl/dlstm-demo",
+            "https://github.com/roop-pal/Meta-Learning-for-StarCraft-II-Minigames",
+            "https://github.com/Sheepsody/Batched-Impala-PyTorch",
+            "https://github.com/grananqvist/reinforcement-learning-super-mario-A3C",
+            "https://github.com/vladfi1/universe-starter-agent",
+            "https://github.com/braemt/attentive-multi-task-deep-reinforcement-learning",
+            "https://github.com/4rChon/NL-FuN",
+            "https://github.com/mavischer/DRRL",
+            "https://github.com/avillemin/Minecraft-AI",
+            "https://github.com/dsinghnegi/atari_RL_agent",
+            "https://github.com/InSpaceAI/RL-Zoo",
+            "https://github.com/Zartris/TD3_continuous_control",
+            "https://github.com/cdesilv1/sc2_ai_cdes",
+            "https://github.com/wtingda/DeepRLBreakout",
+            "https://github.com/sainijagjit/A3C-Pytorch",
+            "https://github.com/amanda-lambda/hack-flappy-bird-drl",
+            "https://github.com/haroldmei/pysc2-study",
+            "https://github.com/amanda-lambda/drl-experiments",
+            "https://github.com/gungui98/deeprl-a3c-ai2thor",
+            "https://github.com/wxj77/TransferReinforcementLearning",
+            "https://github.com/amaudruz/RL_openaigym",
+            "https://github.com/hulanwin/A3C-DRL",
+            "https://github.com/joshiatul/game_playing"
+        ]
+    },
+    {
+        "id": "AQ0141",
+        "answer": [
+            "http://orkg.org/orkg/resource/R117327",
+            "GPT-3 175B (Few-Shot)",
+            "http://orkg.org/orkg/resource/R119567",
+            "XLNet (single model)"
+        ]
+    },
+    {
+        "id": "AQ1332",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy",
+            "90.93"
+        ]
+    },
+    {
+        "id": "AQ0460",
+        "answer": [
+            "http://orkg.org/orkg/resource/R129853",
+            "Language Models are Few-Shot Learners"
+        ]
+    },
+    {
+        "id": "AQ0717",
+        "answer": []
+    },
+    {
+        "id": "AQ0107",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119441",
+            "Sparse Attention",
+            "http://orkg.org/orkg/resource/R119438",
+            "Cluster-Former (#C=512)",
+            "http://orkg.org/orkg/resource/R119444",
+            "DrQA",
+            "http://orkg.org/orkg/resource/R119453",
+            "BERTwwm + SQuAD 2",
+            "http://orkg.org/orkg/resource/R119455",
+            "BERTjoint"
+        ]
+    },
+    {
+        "id": "AQ1105",
+        "answer": [
+            "http://orkg.org/orkg/resource/R117121",
+            "BLEU score",
+            "25.87",
+            "http://orkg.org/orkg/resource/R116443",
+            "BLEU",
+            "39.2"
+        ]
+    },
+    {
+        "id": "AQ1535",
+        "answer": [
+            "http://orkg.org/orkg/resource/R121028",
+            "Grave et al. (2016) - LSTM"
+        ]
+    },
+    {
+        "id": "AQ2214",
+        "answer": [
+            "https://github.com/lucidrains/x-transformers",
+            "https://github.com/facebookresearch/adaptive-span",
+            "https://github.com/lucidrains/memory-transformer-xl",
+            "https://github.com/lucidrains/routing-transformer",
+            "https://github.com/lucidrains/reformer-pytorch"
+        ]
+    },
+    {
+        "id": "HQ0022",
+        "answer": true
+    },
+    {
+        "id": "AQ0168",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119567",
+            "XLNet (single model)"
+        ]
+    },
+    {
+        "id": "AQ1710",
+        "answer": [
+            "http://orkg.org/orkg/resource/R123322",
+            "SAC"
+        ]
+    },
+    {
+        "id": "AQ0517",
+        "answer": [
+            "http://orkg.org/orkg/resource/R129977",
+            "Self-Supervised Learning by Cross-Modal Audio-Video Clustering"
+        ]
+    },
+    {
+        "id": "AQ0864",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119433",
+            "Error"
+        ]
+    },
+    {
+        "id": "AQ1704",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124916",
+            "POP3D"
+        ]
+    },
+    {
+        "id": "AQ1949",
+        "answer": [
+            "https://github.com/allenai/SciREX"
+        ]
+    },
+    {
+        "id": "AQ1541",
+        "answer": [
+            "http://orkg.org/orkg/resource/R120775",
+            "NCBI_BERT(base) (P+M)"
+        ]
+    },
+    {
+        "id": "AQ0570",
+        "answer": [
+            "http://orkg.org/orkg/resource/R129853",
+            "Language Models are Few-Shot Learners"
+        ]
+    },
+    {
+        "id": "AQ1964",
+        "answer": [
+            "https://github.com/howisonlab/softcite-dataset"
+        ]
+    },
+    {
+        "id": "AQ2059",
+        "answer": [
+            "https://github.com/BAJUKA/SQuAD-NLP",
+            "https://github.com/sachit-n/drqa_doc_reader",
+            "https://github.com/aaronbae/AnaQA",
+            "https://github.com/Raman-Raje/Machine-Reading-Comprehension-Neural-Question-Answer-",
+            "https://github.com/xiangyue9607/CliniRC",
+            "https://github.com/HKUST-KnowComp/MnemonicReader",
+            "https://github.com/hitvoice/DrQA",
+            "https://github.com/facebookresearch/DrQA",
+            "https://github.com/facebookresearch/ParlAI"
+        ]
+    },
+    {
+        "id": "AQ1559",
+        "answer": [
+            "http://orkg.org/orkg/resource/R122623",
+            "BCN+ELMo"
+        ]
+    },
+    {
+        "id": "AQ0692",
+        "answer": []
+    },
+    {
+        "id": "AQ0932",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score"
+        ]
+    },
+    {
+        "id": "AQ0434",
+        "answer": [
+            "http://orkg.org/orkg/resource/R134998",
+            "Training data-efficient image transformers & distillation through attention",
+            "http://orkg.org/orkg/resource/R135045",
+            "EfficientNetV2: Smaller Models and Faster Training",
+            "http://orkg.org/orkg/resource/R135097",
+            "Sequential Random Network for Fine-grained Image Classification",
+            "http://orkg.org/orkg/resource/R135170",
+            "Domain Adaptive Transfer Learning on Visual Attention Aware Data Augmentation for Fine-grained Visual Categorization",
+            "http://orkg.org/orkg/resource/R134633",
+            "Incorporating Convolution Designs into Visual Transformers",
+            "http://orkg.org/orkg/resource/R134713",
+            "Going deeper with Image Transformers",
+            "http://orkg.org/orkg/resource/R134775",
+            "LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference",
+            "http://orkg.org/orkg/resource/R134924",
+            "Sharpness-Aware Minimization for Efficiently Improving Generalization",
+            "http://orkg.org/orkg/resource/R131303",
+            "Neural Architecture Transfer"
+        ]
+    },
+    {
+        "id": "AQ0671",
+        "answer": [
+            "http://orkg.org/orkg/resource/R131694",
+            "Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond"
+        ]
+    },
+    {
+        "id": "AQ0777",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy",
+            "http://orkg.org/orkg/resource/R123735",
+            "PARAMS",
+            "http://orkg.org/orkg/resource/R115579",
+            "Accuracy (%)",
+            "http://orkg.org/orkg/resource/R123734",
+            "FLOPS"
+        ]
+    },
+    {
+        "id": "AQ0533",
+        "answer": [
+            "http://orkg.org/orkg/resource/R129632",
+            "Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets"
+        ]
+    },
+    {
+        "id": "HQ0099",
+        "answer": [
+            "Graphene-based cellular elastomer\n(G-elastomer)"
+        ]
+    },
+    {
+        "id": "AQ2454",
+        "answer": []
+    },
+    {
+        "id": "AQ0946",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score"
+        ]
+    },
+    {
+        "id": "AQ1776",
+        "answer": [
+            "http://orkg.org/orkg/resource/R126160",
+            "BiT-L (ResNet)"
+        ]
+    },
+    {
+        "id": "AQ0278",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124920",
+            "ES FF (1 hour) noop",
+            "http://orkg.org/orkg/resource/R123322",
+            "SAC",
+            "http://orkg.org/orkg/resource/R124931",
+            "Reactor 500M",
+            "http://orkg.org/orkg/resource/R124932",
+            "FQF",
+            "http://orkg.org/orkg/resource/R124913",
+            "A3C FF hs",
+            "http://orkg.org/orkg/resource/R124914",
+            "A3C FF (1 day) hs",
+            "http://orkg.org/orkg/resource/R124921",
+            "A3C LSTM hs",
+            "http://orkg.org/orkg/resource/R124916",
+            "POP3D",
+            "http://orkg.org/orkg/resource/R124919",
+            "Prior+Duel hs",
+            "http://orkg.org/orkg/resource/R124900",
+            "DDQN+Pop-Art noop",
+            "http://orkg.org/orkg/resource/R124901",
+            "Gorila",
+            "http://orkg.org/orkg/resource/R124902",
+            "Bootstrapped DQN",
+            "http://orkg.org/orkg/resource/R124905",
+            "Recurrent Rational DQN Average",
+            "http://orkg.org/orkg/resource/R124907",
+            "Rational DQN Average",
+            "http://orkg.org/orkg/resource/R124912",
+            "A2C + SIL",
+            "http://orkg.org/orkg/resource/R124895",
+            "Prior hs",
+            "http://orkg.org/orkg/resource/R124898",
+            "DDQN (tuned) hs",
+            "http://orkg.org/orkg/resource/R124908",
+            "DQN noop",
+            "http://orkg.org/orkg/resource/R124911",
+            "DQN hs",
+            "http://orkg.org/orkg/resource/R124891",
+            "Duel noop",
+            "http://orkg.org/orkg/resource/R124892",
+            "Duel hs",
+            "http://orkg.org/orkg/resource/R124894",
+            "Prior noop",
+            "http://orkg.org/orkg/resource/R124890",
+            "C51 noop",
+            "http://orkg.org/orkg/resource/R124897",
+            "DDQN (tuned) noop",
+            "http://orkg.org/orkg/resource/R123293",
+            "CURL",
+            "http://orkg.org/orkg/resource/R124922",
+            "Prior+Duel noop"
+        ]
+    },
+    {
+        "id": "AQ2361",
+        "answer": [
+            "https://github.com/sayakpaul/A-Barebones-Image-Retrieval-System",
+            "https://github.com/SoojungYang/supervised_pretraining_GN_WS",
+            "https://github.com/google-research/big_transfer"
+        ]
+    },
+    {
+        "id": "AQ1317",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score",
+            "90804.0"
+        ]
+    },
+    {
+        "id": "AQ2205",
+        "answer": [
+            "https://github.com/tensorflow/models",
+            "https://github.com/abcp4/DAPytorch",
+            "https://github.com/YaCpotato/deepaugmentFix",
+            "https://github.com/TreeLimes/QANAS",
+            "https://github.com/bschifferer/alphaxenas",
+            "https://github.com/GiuliaLanzillotta/INAS",
+            "https://github.com/YaCpotato/B4ResearchDeepaugment",
+            "https://github.com/cshannonn/blackscholes_nas",
+            "https://github.com/DataCanvasIO/Hypernets",
+            "https://github.com/barisozmen/deepaugment",
+            "https://github.com/carpedm20/ENAS-pytorch"
+        ]
+    },
+    {
+        "id": "AQ1980",
+        "answer": [
+            "https://github.com/sucheta19/Text-Classification-Using-CNN",
+            "https://github.com/zhong110020/Tensorflow-TCN",
+            "https://github.com/khappiya/rnn",
+            "https://github.com/Nic5472K/FriendsOOGroup_TCN",
+            "https://github.com/zll1996/TCN",
+            "https://github.com/anandharaju/Basic_TCN",
+            "https://github.com/zhong110020/TensorFlow_TCN",
+            "https://github.com/linxi159/TCN",
+            "https://github.com/patHutchings/TCN",
+            "https://github.com/zhong110020/keras-tcn",
+            "https://github.com/ZTianle/keras-tcn-solar",
+            "https://github.com/MChen9/TCN",
+            "https://github.com/ShotDownDiane/tcn-master",
+            "https://github.com/DevonFulcher/CryptoPricePredictor",
+            "https://github.com/abduallahmohamed/MCRM",
+            "https://github.com/jxz542189/TCN_classification",
+            "https://github.com/zhong110020/pytorch_TCN",
+            "https://github.com/XiaowanLi2018/TimeSeriesPrediction_BasedOnCNN",
+            "https://github.com/jakeret/tcn",
+            "https://github.com/ashishpatel26/tcn-keras-Examples",
+            "https://github.com/YuanTingHsieh/TF_TCN",
+            "https://github.com/Baichenjia/Tensorflow-TCN",
+            "https://github.com/csteinmetz1/ronn",
+            "https://github.com/Songweiping/TCN-TF",
+            "https://github.com/mhjabreel/CharCnn_Keras",
+            "https://github.com/IndicoDataSolutions/finetune",
+            "https://github.com/philipperemy/keras-tcn",
+            "https://github.com/locuslab/TCN"
+        ]
+    },
+    {
+        "id": "AQ1358",
+        "answer": [
+            "http://orkg.org/orkg/resource/R115445",
+            "F1 score",
+            "93.91"
+        ]
+    },
+    {
+        "id": "AQ1156",
+        "answer": [
+            "http://orkg.org/orkg/resource/R114483",
+            "F1",
+            "90.689",
+            "http://orkg.org/orkg/resource/R119439",
+            "EM",
+            "87.926"
+        ]
+    },
+    {
+        "id": "AQ1213",
+        "answer": [
+            "http://orkg.org/orkg/resource/R122892",
+            "F1 entity level",
+            "87.81"
+        ]
+    },
+    {
+        "id": "AQ0807",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy"
+        ]
+    },
+    {
+        "id": "HQ0037",
+        "answer": [
+            "Guangpu Yang"
+        ]
+    },
+    {
+        "id": "AQ0056",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116610",
+            "BiTT"
+        ]
+    },
+    {
+        "id": "HQ0031",
+        "answer": [
+            "http://orkg.org/orkg/resource/R109906",
+            "sodium"
+        ]
+    },
+    {
+        "id": "AQ1275",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score",
+            "910.6"
+        ]
+    },
+    {
+        "id": "AQ0262",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124932",
+            "FQF",
+            "http://orkg.org/orkg/resource/R124952",
+            "Go-Explore",
+            "http://orkg.org/orkg/resource/R124905",
+            "Recurrent Rational DQN Average",
+            "http://orkg.org/orkg/resource/R124907",
+            "Rational DQN Average"
+        ]
+    },
+    {
+        "id": "AQ1884",
+        "answer": [
+            "http://orkg.org/orkg/resource/R114519",
+            "Pubmed",
+            "http://orkg.org/orkg/resource/R124736",
+            "arXiv",
+            "http://orkg.org/orkg/resource/R124737",
+            "GigaWord",
+            "http://orkg.org/orkg/resource/R124775",
+            "AESLC",
+            "http://orkg.org/orkg/resource/R119716",
+            "CNN / Daily Mail",
+            "http://orkg.org/orkg/resource/R124725",
+            "X-Sum",
+            "http://orkg.org/orkg/resource/R124758",
+            "CL-SciSumm",
+            "http://orkg.org/orkg/resource/R206389",
+            "SciTLDR"
+        ]
+    },
+    {
+        "id": "AQ0958",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score"
+        ]
+    },
+    {
+        "id": "AQ1722",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124898",
+            "DDQN (tuned) hs"
+        ]
+    },
+    {
+        "id": "AQ0339",
+        "answer": [
+            "http://orkg.org/orkg/resource/R125945",
+            "ApproxRepSet"
+        ]
+    },
+    {
+        "id": "AQ1484",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119438",
+            "Cluster-Former (#C=512)"
+        ]
+    },
+    {
+        "id": "AQ0829",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy",
+            "http://orkg.org/orkg/resource/R114483",
+            "F1"
+        ]
+    },
+    {
+        "id": "AQ2387",
+        "answer": [
+            "https://github.com/sayakpaul/A-Barebones-Image-Retrieval-System",
+            "https://github.com/SoojungYang/supervised_pretraining_GN_WS",
+            "https://github.com/google-research/big_transfer"
+        ]
+    },
+    {
+        "id": "AQ1391",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116645",
+            "Ours: cross-sentence ALB"
+        ]
+    },
+    {
+        "id": "AQ1370",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116774",
+            "NLL",
+            "4.05"
+        ]
+    },
+    {
+        "id": "AQ0689",
+        "answer": []
+    },
+    {
+        "id": "AQ2091",
+        "answer": [
+            "https://github.com/bloomsburyai/question-generation"
+        ]
+    },
+    {
+        "id": "AQ0060",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116679",
+            "PubMedBERT uncased"
+        ]
+    },
+    {
+        "id": "AQ0995",
+        "answer": [
+            "http://orkg.org/orkg/resource/R114483",
+            "F1"
+        ]
+    },
+    {
+        "id": "AQ0893",
+        "answer": [
+            "http://orkg.org/orkg/resource/R123482",
+            "spl"
+        ]
+    },
+    {
+        "id": "AQ0559",
+        "answer": [
+            "http://orkg.org/orkg/resource/R134423",
+            "DocBERT: BERT for Document Classification"
+        ]
+    },
+    {
+        "id": "AQ2452",
+        "answer": [
+            "https://github.com/paperswithcode/axcell"
+        ]
+    },
+    {
+        "id": "AQ2164",
+        "answer": [
+            "https://github.com/castorini/hedwig",
+            "https://github.com/AtheMathmo/lookahead-lstm",
+            "https://github.com/philippwirth/awd-lstm-test",
+            "https://github.com/soyoung97/awd-lstm-gru",
+            "https://github.com/arvieFrydenlund/awd-lstm-lm",
+            "https://github.com/llppff/ptb-lstmorqrnn-pytorch",
+            "https://github.com/Asteur/RERITES-AvgWeightDescentLSTM-PoetryGeneration",
+            "https://github.com/ari-holtzman/genlm",
+            "https://github.com/philippwirth/treelangrnn",
+            "https://github.com/SachinIchake/KALM",
+            "https://github.com/jhave/RERITES-AvgWeightDescentLSTM-PoetryGeneration",
+            "https://github.com/uclanlp/NamedEntityLanguageModel",
+            "https://github.com/salesforce/awd-lstm-lm",
+            "https://github.com/dmlc/gluon-nlp",
+            "https://github.com/nkcr/overlap-ml",
+            "https://github.com/tdmeeste/SparseSeqModels",
+            "https://github.com/cstorm125/thai2fit",
+            "https://github.com/JessikaSmith/language_model",
+            "https://github.com/uchange/ulangel",
+            "https://github.com/varshinireddyt/ULMFiT",
+            "https://github.com/muellerzr/CodeFest_2019",
+            "https://github.com/vganesh46/awd-lstm-pytorch-implementation",
+            "https://github.com/liuruoruo/awd-lstm",
+            "https://github.com/jkkummerfeld/emnlp20lm",
+            "https://github.com/BenjiKCF/AWD-LSTM-sentiment-classifier",
+            "https://github.com/S-Abdelnabi/awt",
+            "https://github.com/rajs96/ULMFiT-Twitter-US-Airline-Sentiment",
+            "https://github.com/NightmareVoid/LSTM_for_EEG",
+            "https://github.com/chris-tng/semi-supervised-nlp",
+            "https://github.com/ahmetumutdurmus/awd-lstm",
+            "https://github.com/idiap/drill",
+            "https://github.com/Janus-Shiau/awd-lstm-tensorflow",
+            "https://github.com/Noahs-ARK/groc",
+            "https://github.com/alexandra-chron/ntua-slp-wassa-iest2018",
+            "https://github.com/alexandra-chron/wassa-2018",
+            "https://github.com/mamamot/Russian-ULMFit",
+            "https://github.com/noise-field/Russian-ULMFit",
+            "https://github.com/AtheMathmo/AggMo",
+            "https://github.com/Machine-Learning-Tokyo/Poetry-GAN",
+            "https://github.com/prajjwal1/language-modelling",
+            "https://github.com/Han-JD/GRU-D",
+            "https://github.com/iwangjian/ByteCup2018",
+            "https://github.com/castorini/Castor",
+            "https://github.com/google-research/google-research/tree/master/enas_lm"
+        ]
+    },
+    {
+        "id": "AQ0452",
+        "answer": [
+            "http://orkg.org/orkg/resource/R129608",
+            "Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing"
+        ]
+    },
+    {
+        "id": "AQ1839",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116789",
+            "CIFAR-10",
+            "http://orkg.org/orkg/resource/R116792",
+            "CIFAR-100",
+            "http://orkg.org/orkg/resource/R121347",
+            "ImageNet",
+            "http://orkg.org/orkg/resource/R126694",
+            "SVHN",
+            "http://orkg.org/orkg/resource/R117710",
+            "Fashion-MNIST",
+            "http://orkg.org/orkg/resource/R126717",
+            "Flowers-102",
+            "http://orkg.org/orkg/resource/R123801",
+            "Oxford-IIIT Pets",
+            "http://orkg.org/orkg/resource/R126249",
+            "ImageNet ReaL",
+            "http://orkg.org/orkg/resource/R126722",
+            "iNaturalist 2018",
+            "http://orkg.org/orkg/resource/R117830",
+            "Oxford 102 Flowers",
+            "http://orkg.org/orkg/resource/R117682",
+            "Stanford Cars",
+            "http://orkg.org/orkg/resource/R119383",
+            "CUB-200-2011",
+            "http://orkg.org/orkg/resource/R117572",
+            "Stanford Dogs",
+            "http://orkg.org/orkg/resource/R123732",
+            "FGVC Aircraft",
+            "http://orkg.org/orkg/resource/R123808",
+            "Food-101",
+            "http://orkg.org/orkg/resource/R126031",
+            "VTAB-1k",
+            "http://orkg.org/orkg/resource/R126667",
+            "ObjectNet (Bounding Box)",
+            "http://orkg.org/orkg/resource/R126744",
+            "ObjectNet",
+            "http://orkg.org/orkg/resource/R126080",
+            "iNaturalist 2019",
+            "http://orkg.org/orkg/resource/R126096",
+            "ImageNet V2",
+            "http://orkg.org/orkg/resource/R126098",
+            "Kuzushiji-MNIST",
+            "http://orkg.org/orkg/resource/R114182",
+            "MNIST",
+            "http://orkg.org/orkg/resource/R117736",
+            "STL-10",
+            "http://orkg.org/orkg/resource/R126855",
+            "STL-10, 1000 Labels",
+            "http://orkg.org/orkg/resource/R126832",
+            "Birdsnap"
+        ]
+    },
+    {
+        "id": "AQ1236",
+        "answer": [
+            "http://orkg.org/orkg/resource/R123482",
+            "spl",
+            "0.917"
+        ]
+    },
+    {
+        "id": "AQ1639",
+        "answer": [
+            "http://orkg.org/orkg/resource/R123293",
+            "CURL"
+        ]
+    },
+    {
+        "id": "AQ1119",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy",
+            "90%"
+        ]
+    },
+    {
+        "id": "AQ1505",
+        "answer": [
+            "http://orkg.org/orkg/resource/R120662",
+            "ELMo"
+        ]
+    },
+    {
+        "id": "AQ1531",
+        "answer": [
+            "http://orkg.org/orkg/resource/R114443",
+            "LSTM"
+        ]
+    },
+    {
+        "id": "AQ1103",
+        "answer": [
+            "http://orkg.org/orkg/resource/R117121",
+            "BLEU score",
+            "7.98"
+        ]
+    },
+    {
+        "id": "AQ1712",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124905",
+            "Recurrent Rational DQN Average"
+        ]
+    },
+    {
+        "id": "AQ2292",
+        "answer": [
+            "https://github.com/BY571/DQN-Atari-Agents",
+            "https://github.com/chainer/chainerrl",
+            "https://github.com/facebookresearch/Horizon",
+            "https://github.com/facebookresearch/ReAgent",
+            "https://github.com/Remtasya/DDPG-Actor-Critic-Reinforcement-Learning-Reacher-Environment",
+            "https://github.com/NervanaSystems/coach",
+            "https://github.com/guillaumeboniface/bananaland",
+            "https://github.com/kochlisGit/autonomous-vehicles-agent",
+            "https://github.com/Kchu/DeepRL_CK",
+            "https://github.com/Stable-Baselines-Team/stable-baselines3-contrib",
+            "https://github.com/marload/dist-rl-tf2",
+            "https://github.com/marload/DistRL-TensorFlow2",
+            "https://github.com/PierreAlexSW/distributional_rl",
+            "https://github.com/parilo/gym_bipedal_walker_v2_solution",
+            "https://github.com/pihey1995/DistributionalRL",
+            "https://github.com/shuli0808/DQN",
+            "https://github.com/eric-yim/fin_map"
+        ]
+    },
+    {
+        "id": "AQ2069",
+        "answer": [
+            "https://github.com/AlCorreia/FABIR"
+        ]
+    },
+    {
+        "id": "HQ0084",
+        "answer": [
+            "Child Abductions"
+        ]
+    },
+    {
+        "id": "AQ0799",
+        "answer": [
+            "http://orkg.org/orkg/resource/R118414",
+            "Overall"
+        ]
+    },
+    {
+        "id": "AQ1544",
+        "answer": [
+            "http://orkg.org/orkg/resource/R122119",
+            "He et al., 2017 + ELMo"
+        ]
+    },
+    {
+        "id": "AQ0612",
+        "answer": [
+            "http://orkg.org/orkg/resource/R134126",
+            "The Reactor: A fast and sample-efficient Actor-Critic agent for Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R131980",
+            "Dueling Network Architectures for Deep Reinforcement Learning"
+        ]
+    },
+    {
+        "id": "AQ2287",
+        "answer": []
+    },
+    {
+        "id": "AQ1931",
+        "answer": []
+    },
+    {
+        "id": "AQ0013",
+        "answer": [
+            "http://orkg.org/orkg/resource/R120581",
+            "QA-GNN"
+        ]
+    },
+    {
+        "id": "AQ0977",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119433",
+            "Error"
+        ]
+    },
+    {
+        "id": "AQ2337",
+        "answer": [
+            "https://github.com/RLAgent/state-marginal-matching"
+        ]
+    },
+    {
+        "id": "AQ1180",
+        "answer": [
+            "http://orkg.org/orkg/resource/R115739",
+            "Number of params",
+            "88M",
+            "http://orkg.org/orkg/resource/R116794",
+            "Bit per Character (BPC)",
+            "1.277"
+        ]
+    },
+    {
+        "id": "AQ1568",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116584",
+            "LUKE"
+        ]
+    },
+    {
+        "id": "AQ1804",
+        "answer": [
+            "http://orkg.org/orkg/resource/R126033",
+            "BiT-L (50 hypers/task)"
+        ]
+    },
+    {
+        "id": "AQ2462",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116569",
+            "Relation Extraction"
+        ]
+    },
+    {
+        "id": "AQ0041",
+        "answer": [
+            "http://orkg.org/orkg/resource/R114164",
+            "AttentionOCR_Inception-resnet-v2_Location",
+            "http://orkg.org/orkg/resource/R114166",
+            "SEE",
+            "http://orkg.org/orkg/resource/R114167",
+            "STREET"
+        ]
+    },
+    {
+        "id": "AQ1425",
+        "answer": [
+            "http://orkg.org/orkg/resource/R117221",
+            "CMLM+LAT+4 iterations"
+        ]
+    },
+    {
+        "id": "AQ2355",
+        "answer": [
+            "https://github.com/dmlc/gluon-nlp",
+            "https://github.com/LamLauChiu/Tensorflow_Learning",
+            "https://github.com/nlp-research/bilm-tf",
+            "https://github.com/yangzonglin1994/bilm-tf-extended",
+            "https://github.com/weixsong/bilm-tf",
+            "https://github.com/yangrui123/Hidden",
+            "https://github.com/young-zonglin/bilm-tf-extended",
+            "https://github.com/kunde122/bilm-tf",
+            "https://github.com/seunghwan1228/ELMO",
+            "https://github.com/kafura-kafiri/tf2-elmo",
+            "https://github.com/shaneding/bilm-tf-experimentation",
+            "https://github.com/ankurbanga/Language-Models",
+            "https://github.com/richinkabra/CoVe-BCN",
+            "https://github.com/kinimod23/NMT_Project",
+            "https://github.com/ajovanov95/probabilistic-spiking-neural-networks",
+            "https://github.com/cheng18/bilm-tf",
+            "https://github.com/sarveshsparab/DeepElmoEmbedNer",
+            "https://github.com/shelleyHLX/bilm_EMLo",
+            "https://github.com/mingdachen/bilm-tf",
+            "https://github.com/menajosep/AleatoricSent",
+            "https://github.com/TEAMLAB-Lecture/deep_nlp_101",
+            "https://github.com/yuanjing-zhu/elmo",
+            "https://github.com/bestend/tf2-bi-lstm-crf-nni",
+            "https://github.com/AshwinDeshpande96/Hierarchical-Softmax",
+            "https://github.com/SeonbeomKim/TensorFlow-ELMo",
+            "https://github.com/griff4692/LMC",
+            "https://github.com/RundongChou/elmo-chinese-oversimplified",
+            "https://github.com/zenanz/ChemPatentEmbeddings",
+            "https://github.com/horizonheart/ELMO",
+            "https://github.com/kaist-dmlab/BioNER",
+            "https://github.com/yuanxiaosc/ELMo",
+            "https://github.com/JHart96/keras_elmo_embedding_layer",
+            "https://github.com/YC-wind/embedding_study",
+            "https://github.com/helboukkouri/character-bert",
+            "https://github.com/iliaschalkidis/ELMo-keras",
+            "https://github.com/PrashantRanjan09/Elmo-Tutorial",
+            "https://github.com/PrashantRanjan09/WordEmbeddings-Elmo-Fasttext-Word2Vec",
+            "https://github.com/UKPLab/elmo-bilstm-cnn-crf",
+            "https://github.com/HIT-SCIR/ELMoForManyLangs",
+            "https://github.com/Hironsan/anago",
+            "https://github.com/allenai/bilm-tf",
+            "https://github.com/zalandoresearch/flair",
+            "https://github.com/flairNLP/flair"
+        ]
+    },
+    {
+        "id": "AQ1197",
+        "answer": [
+            "http://orkg.org/orkg/resource/R115359",
+            "Pearson Correlation",
+            "0.925"
+        ]
+    },
+    {
+        "id": "AQ2446",
+        "answer": [
+            "https://github.com/Janus-Shiau/SAM-tf2",
+            "https://github.com/Jannoshh/simple-sam",
+            "https://github.com/sayakpaul/Sharpness-Aware-Minimization-TensorFlow",
+            "https://github.com/moskomule/sam.pytorch",
+            "https://github.com/google-research/sam",
+            "https://github.com/davda54/sam"
+        ]
+    },
+    {
+        "id": "AQ1854",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116695",
+            "SciERC"
+        ]
+    },
+    {
+        "id": "AQ0798",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119493",
+            "F1a"
+        ]
+    },
+    {
+        "id": "AQ2117",
+        "answer": [
+            "https://github.com/asappresearch/sru",
+            "https://github.com/taolei87/sru"
+        ]
+    },
+    {
+        "id": "AQ1706",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124901",
+            "Gorila"
+        ]
+    },
+    {
+        "id": "AQ0424",
+        "answer": [
+            "http://orkg.org/orkg/resource/R129825",
+            "An Effective Approach to Unsupervised Machine Translation",
+            "http://orkg.org/orkg/resource/R129839",
+            "Unsupervised Neural Machine Translation with SMT as Posterior Regularization",
+            "http://orkg.org/orkg/resource/R129725",
+            "Unsupervised Statistical Machine Translation",
+            "http://orkg.org/orkg/resource/R129742",
+            "Incorporating a Local Translation Mechanism into Non-autoregressive Translation",
+            "http://orkg.org/orkg/resource/R129761",
+            "Non-Autoregressive Neural Machine Translation",
+            "http://orkg.org/orkg/resource/R129773",
+            "Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement"
+        ]
+    },
+    {
+        "id": "AQ0128",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119441",
+            "Sparse Attention",
+            "http://orkg.org/orkg/resource/R119438",
+            "Cluster-Former (#C=512)",
+            "http://orkg.org/orkg/resource/R119444",
+            "DrQA"
+        ]
+    },
+    {
+        "id": "AQ0852",
+        "answer": [
+            "http://orkg.org/orkg/resource/R114483",
+            "F1"
+        ]
+    },
+    {
+        "id": "AQ0955",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score"
+        ]
+    },
+    {
+        "id": "AQ1112",
+        "answer": [
+            "http://orkg.org/orkg/resource/R117121",
+            "BLEU score",
+            "29.52",
+            "http://orkg.org/orkg/resource/R116443",
+            "BLEU",
+            "22.5"
+        ]
+    },
+    {
+        "id": "AQ0678",
+        "answer": [
+            "http://orkg.org/orkg/resource/R135186",
+            "AxCell: Automatic Extraction of Results from Machine Learning Papers"
+        ]
+    },
+    {
+        "id": "AQ0835",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116794",
+            "Bit per Character (BPC)",
+            "http://orkg.org/orkg/resource/R115739",
+            "Number of params"
+        ]
+    },
+    {
+        "id": "AQ0850",
+        "answer": [
+            "http://orkg.org/orkg/resource/R121393",
+            "Temporal awareness"
+        ]
+    },
+    {
+        "id": "AQ2237",
+        "answer": [
+            "https://github.com/dmlc/gluon-nlp",
+            "https://github.com/LamLauChiu/Tensorflow_Learning",
+            "https://github.com/nlp-research/bilm-tf",
+            "https://github.com/yangzonglin1994/bilm-tf-extended",
+            "https://github.com/weixsong/bilm-tf",
+            "https://github.com/yangrui123/Hidden",
+            "https://github.com/young-zonglin/bilm-tf-extended",
+            "https://github.com/kunde122/bilm-tf",
+            "https://github.com/seunghwan1228/ELMO",
+            "https://github.com/kafura-kafiri/tf2-elmo",
+            "https://github.com/shaneding/bilm-tf-experimentation",
+            "https://github.com/ankurbanga/Language-Models",
+            "https://github.com/richinkabra/CoVe-BCN",
+            "https://github.com/kinimod23/NMT_Project",
+            "https://github.com/ajovanov95/probabilistic-spiking-neural-networks",
+            "https://github.com/cheng18/bilm-tf",
+            "https://github.com/sarveshsparab/DeepElmoEmbedNer",
+            "https://github.com/shelleyHLX/bilm_EMLo",
+            "https://github.com/mingdachen/bilm-tf",
+            "https://github.com/menajosep/AleatoricSent",
+            "https://github.com/TEAMLAB-Lecture/deep_nlp_101",
+            "https://github.com/yuanjing-zhu/elmo",
+            "https://github.com/bestend/tf2-bi-lstm-crf-nni",
+            "https://github.com/AshwinDeshpande96/Hierarchical-Softmax",
+            "https://github.com/SeonbeomKim/TensorFlow-ELMo",
+            "https://github.com/griff4692/LMC",
+            "https://github.com/RundongChou/elmo-chinese-oversimplified",
+            "https://github.com/zenanz/ChemPatentEmbeddings",
+            "https://github.com/horizonheart/ELMO",
+            "https://github.com/kaist-dmlab/BioNER",
+            "https://github.com/yuanxiaosc/ELMo",
+            "https://github.com/JHart96/keras_elmo_embedding_layer",
+            "https://github.com/YC-wind/embedding_study",
+            "https://github.com/helboukkouri/character-bert",
+            "https://github.com/iliaschalkidis/ELMo-keras",
+            "https://github.com/PrashantRanjan09/Elmo-Tutorial",
+            "https://github.com/PrashantRanjan09/WordEmbeddings-Elmo-Fasttext-Word2Vec",
+            "https://github.com/UKPLab/elmo-bilstm-cnn-crf",
+            "https://github.com/HIT-SCIR/ELMoForManyLangs",
+            "https://github.com/Hironsan/anago",
+            "https://github.com/allenai/bilm-tf",
+            "https://github.com/zalandoresearch/flair",
+            "https://github.com/flairNLP/flair"
+        ]
+    },
+    {
+        "id": "AQ1447",
+        "answer": [
+            "http://orkg.org/orkg/resource/R118783",
+            "AVID+CMA (Modified R2+1D-18 on Kinetics)"
+        ]
+    },
+    {
+        "id": "AQ0313",
+        "answer": [
+            "http://orkg.org/orkg/resource/R117688",
+            "Sparse Transformer 152M (strided)"
+        ]
+    },
+    {
+        "id": "AQ1422",
+        "answer": [
+            "http://orkg.org/orkg/resource/R117154",
+            "Rfa-Gate-arccos"
+        ]
+    },
+    {
+        "id": "AQ1569",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116679",
+            "PubMedBERT uncased"
+        ]
+    },
+    {
+        "id": "AQ0948",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score"
+        ]
+    },
+    {
+        "id": "AQ0618",
+        "answer": [
+            "http://orkg.org/orkg/resource/R133937",
+            "Evolution Strategies as a Scalable Alternative to Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R134062",
+            "Playing Atari with Six Neurons",
+            "http://orkg.org/orkg/resource/R134084",
+            "Soft Actor-Critic for Discrete Action Settings",
+            "http://orkg.org/orkg/resource/R134171",
+            "Fully Parameterized Quantile Function for Distributional Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R134238",
+            "Model-Free Episodic Control with State Aggregation",
+            "http://orkg.org/orkg/resource/R134302",
+            "#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R134360",
+            "Count-Based Exploration in Feature Space for Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R134401",
+            "Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models",
+            "http://orkg.org/orkg/resource/R133503",
+            "Asynchronous Methods for Deep Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R133821",
+            "Policy Optimization With Penalized Point Probability Distance: An Alternative To Proximal Policy Optimization",
+            "http://orkg.org/orkg/resource/R132604",
+            "Deep Reinforcement Learning with Double Q-learning",
+            "http://orkg.org/orkg/resource/R133007",
+            "Learning values across many orders of magnitude",
+            "http://orkg.org/orkg/resource/R133107",
+            "Massively Parallel Methods for Deep Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R133207",
+            "Deep Exploration via Bootstrapped DQN",
+            "http://orkg.org/orkg/resource/R133383",
+            "Value Prediction Network",
+            "http://orkg.org/orkg/resource/R133403",
+            "Self-Imitation Learning",
+            "http://orkg.org/orkg/resource/R132399",
+            "Prioritized Experience Replay",
+            "http://orkg.org/orkg/resource/R131980",
+            "Dueling Network Architectures for Deep Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R131877",
+            "A Distributional Perspective on Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R131170",
+            "CURL: Contrastive Unsupervised Representations for Reinforcement Learning"
+        ]
+    },
+    {
+        "id": "AQ2457",
+        "answer": []
+    },
+    {
+        "id": "AQ0331",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124053",
+            "Massively Multilingual Sentence Embeddings"
+        ]
+    },
+    {
+        "id": "AQ1310",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score",
+            "99.6"
+        ]
+    },
+    {
+        "id": "AQ1376",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116338",
+            "SpanRel"
+        ]
+    },
+    {
+        "id": "AQ1113",
+        "answer": [
+            "http://orkg.org/orkg/resource/R117121",
+            "BLEU score",
+            "35.18"
+        ]
+    },
+    {
+        "id": "AQ0961",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score",
+            "http://orkg.org/orkg/resource/R124949",
+            "Best Score"
+        ]
+    },
+    {
+        "id": "AQ1171",
+        "answer": [
+            "http://orkg.org/orkg/resource/R120731",
+            "Matched",
+            "90.8"
+        ]
+    },
+    {
+        "id": "AQ0318",
+        "answer": [
+            "http://orkg.org/orkg/resource/R126253",
+            "CvT-W24 (384 res, ImageNet-22k pretrain)",
+            "http://orkg.org/orkg/resource/R126162",
+            "DeiT-B",
+            "http://orkg.org/orkg/resource/R126257",
+            "DeiT-B-384",
+            "http://orkg.org/orkg/resource/R126262",
+            "DeiT-S",
+            "http://orkg.org/orkg/resource/R126263",
+            "DeiT-Ti",
+            "http://orkg.org/orkg/resource/R126036",
+            "BiT-L",
+            "http://orkg.org/orkg/resource/R126043",
+            "BiT-M",
+            "http://orkg.org/orkg/resource/R126034",
+            "ViT-H/14",
+            "http://orkg.org/orkg/resource/R126037",
+            "ViT-L/16",
+            "http://orkg.org/orkg/resource/R126084",
+            "CeiT-S",
+            "http://orkg.org/orkg/resource/R126097",
+            "CAIT-M36-448",
+            "http://orkg.org/orkg/resource/R126087",
+            "CeiT-T",
+            "http://orkg.org/orkg/resource/R126259",
+            "CeiT-S (384 finetune res)",
+            "http://orkg.org/orkg/resource/R126086",
+            "LeViT-384",
+            "http://orkg.org/orkg/resource/R126088",
+            "LeViT-256",
+            "http://orkg.org/orkg/resource/R126089",
+            "LeViT-192",
+            "http://orkg.org/orkg/resource/R126090",
+            "LeViT-128",
+            "http://orkg.org/orkg/resource/R126091",
+            "LeViT-128S"
+        ]
+    },
+    {
+        "id": "AQ1802",
+        "answer": [
+            "http://orkg.org/orkg/resource/R125980",
+            "BilBOWA"
+        ]
+    },
+    {
+        "id": "AQ1125",
+        "answer": [
+            "http://orkg.org/orkg/resource/R118364",
+            "Top-1 Accuracy",
+            "55.5"
+        ]
+    },
+    {
+        "id": "AQ0980",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy"
+        ]
+    },
+    {
+        "id": "AQ1985",
+        "answer": [
+            "https://github.com/huggingface/transformers",
+            "https://github.com/jiacheng-xu/text-sum-uncertainty",
+            "https://github.com/HHousen/TransformerSum",
+            "https://github.com/zhdbwe/Paper-DailyReading",
+            "https://github.com/fwbrandao/Abstractive_Summarisation",
+            "https://github.com/timrozday/spl-indications-bart",
+            "https://github.com/priyamtejaswin/multistep-retrieve-summarize",
+            "https://github.com/i2r-simmc/i2r-simmc-2020",
+            "https://github.com/awalther/scibart",
+            "https://github.com/huangxt39/BART_on_COVID_dialogue",
+            "https://github.com/mcao610/Factual-Error-Correction",
+            "https://github.com/tanyuqian/aspect-based-summarization",
+            "https://github.com/W4ngatang/qags",
+            "https://github.com/Yale-LILY/dart",
+            "https://github.com/facebookresearch/GENRE"
+        ]
+    },
+    {
+        "id": "AQ1136",
+        "answer": [
+            "http://orkg.org/orkg/resource/R114483",
+            "F1",
+            "57.2"
+        ]
+    },
+    {
+        "id": "AQ1013",
+        "answer": [
+            "http://orkg.org/orkg/resource/R127017",
+            "Unpermuted Accuracy"
+        ]
+    },
+    {
+        "id": "AQ1062",
+        "answer": []
+    },
+    {
+        "id": "AQ1844",
+        "answer": [
+            "http://orkg.org/orkg/resource/R206159",
+            "SciCite",
+            "http://orkg.org/orkg/resource/R206124",
+            "ACL-ARC"
+        ]
+    },
+    {
+        "id": "AQ1945",
+        "answer": [
+            "https://github.com/Ishani-Mondal/SciKG"
+        ]
+    },
+    {
+        "id": "AQ0652",
+        "answer": [
+            "http://orkg.org/orkg/resource/R129411",
+            "SciBERT: A Pretrained Language Model for Scientific Text"
+        ]
+    },
+    {
+        "id": "AQ1827",
+        "answer": [
+            "http://orkg.org/orkg/resource/R128075",
+            "TDMS-IE"
+        ]
+    },
+    {
+        "id": "AQ1748",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116147",
+            "RNN"
+        ]
+    },
+    {
+        "id": "AQ2068",
+        "answer": [
+            "https://github.com/andreiilie1/dynamic_coattention_networks",
+            "https://github.com/wasimusu/MachineRC",
+            "https://github.com/Lou1sM/AdvancedML-Project-Dynamic-Coattention-Networks",
+            "https://github.com/Lou1sM/AML-Project",
+            "https://github.com/lmn-extracts/dcn_plus",
+            "https://github.com/BAJUKA/SQuAD-NLP"
+        ]
+    },
+    {
+        "id": "AQ1813",
+        "answer": [
+            "http://orkg.org/orkg/resource/R126162",
+            "DeiT-B"
+        ]
+    },
+    {
+        "id": "AQ1300",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score",
+            "17.3"
+        ]
+    },
+    {
+        "id": "AQ1904",
+        "answer": [
+            "http://orkg.org/orkg/resource/R128070",
+            "PWC Leaderboards (restricted)",
+            "http://orkg.org/orkg/resource/R128074",
+            "NLP-TDMS (Exp, arXiv only)"
+        ]
+    },
+    {
+        "id": "AQ0547",
+        "answer": [
+            "http://orkg.org/orkg/resource/R131170",
+            "CURL: Contrastive Unsupervised Representations for Reinforcement Learning"
+        ]
+    },
+    {
+        "id": "AQ1870",
+        "answer": [
+            "http://orkg.org/orkg/resource/R122117",
+            "OntoNotes"
+        ]
+    },
+    {
+        "id": "AQ0498",
+        "answer": [
+            "http://orkg.org/orkg/resource/R131069",
+            "Improving Neural Language Models with a Continuous Cache",
+            "http://orkg.org/orkg/resource/R130786",
+            "Dynamic Evaluation of Neural Sequence Models",
+            "http://orkg.org/orkg/resource/R130803",
+            "Language Models with Transformers",
+            "http://orkg.org/orkg/resource/R130817",
+            "Direct Output Connection for a High-Rank Language Model",
+            "http://orkg.org/orkg/resource/R130839",
+            "Improved Language Modeling by Decoding the Past",
+            "http://orkg.org/orkg/resource/R130852",
+            "Breaking the Softmax Bottleneck: A High-Rank RNN Language Model",
+            "http://orkg.org/orkg/resource/R130871",
+            "Partially Shuffling the Training Data to Improve Language Models",
+            "http://orkg.org/orkg/resource/R130890",
+            "Regularizing and Optimizing LSTM Language Models",
+            "http://orkg.org/orkg/resource/R130920",
+            "Fraternal Dropout",
+            "http://orkg.org/orkg/resource/R130962",
+            "Tying Word Vectors and Word Classifiers: A Loss Framework for Language Modeling",
+            "http://orkg.org/orkg/resource/R131048",
+            "Alleviating Sequence Information Loss with Data Overlapping and Prime Batch Sizes",
+            "http://orkg.org/orkg/resource/R129805",
+            "Improving Neural Language Modeling via Adversarial Training"
+        ]
+    },
+    {
+        "id": "AQ1021",
+        "answer": [
+            "http://orkg.org/orkg/resource/R114479",
+            "Macro F1",
+            "http://orkg.org/orkg/resource/R121300",
+            "Macro Precision",
+            "http://orkg.org/orkg/resource/R121301",
+            "Macro Recall",
+            "http://orkg.org/orkg/resource/R114480",
+            "Micro F1",
+            "http://orkg.org/orkg/resource/R128072",
+            "Micro Precision",
+            "http://orkg.org/orkg/resource/R128073",
+            "Micro Recall"
+        ]
+    },
+    {
+        "id": "AQ2293",
+        "answer": [
+            "https://github.com/ku2482/sac-discrete.pytorch",
+            "https://github.com/eddynelson/dqn",
+            "https://github.com/BY571/DQN-Atari-Agents",
+            "https://github.com/chainer/chainerrl",
+            "https://github.com/facebookresearch/Horizon",
+            "https://github.com/facebookresearch/ReAgent",
+            "https://github.com/NervanaSystems/coach",
+            "https://github.com/marload/DeepRL-TensorFlow2",
+            "https://github.com/wtingda/DeepRLBreakout",
+            "https://github.com/tensorpack/tensorpack/tree/master/examples/DeepQNetwork",
+            "https://github.com/lab-ml/nn",
+            "https://github.com/JuliaPOMDP/DeepQLearning.jl",
+            "https://github.com/SayhoKim/tetrisRL",
+            "https://github.com/nathanin/pad",
+            "https://github.com/kmdanielduan/DQN_Family_PyTorch",
+            "https://github.com/kshitij-ingale/Reinforcement-Learning",
+            "https://github.com/philtabor/Deep-Q-Learning-Paper-To-Code",
+            "https://github.com/atavakol/action-branching-agents",
+            "https://github.com/utarumo/RL_implementation",
+            "https://github.com/cocolico14/N-step-Dueling-DDQN-PER-Pacman",
+            "https://github.com/OMS1996/Carla_The_RL_Self-Driving-Car",
+            "https://github.com/rybread1/deep-rl-trex",
+            "https://github.com/rybread1/DeepRlTrex",
+            "https://github.com/mohit8935/Deep-Q-Learning-Paper",
+            "https://github.com/hemilpanchiwala/Dueling_Network_Architectures",
+            "https://github.com/Adrelf/DRL-navigation",
+            "https://github.com/MEOWMEOW114/nd893-p1-navigation-banana",
+            "https://github.com/hemilpanchiwala/Dueling-Network-Architectures",
+            "https://github.com/botforge/simplementation",
+            "https://github.com/austinsilveria/Banana-Collection-DQN",
+            "https://github.com/1jsingh/rl_navigation",
+            "https://github.com/HussonnoisMaxence/RL_Algorithms",
+            "https://github.com/jezzarax/drlnd_p1_navigation",
+            "https://github.com/fengsterooni/dql",
+            "https://github.com/shashwatsaxena571/DRL-navigation",
+            "https://github.com/shehrum/RL_Navigation",
+            "https://github.com/mightypirate1/DRL-Tetris",
+            "https://github.com/nbopardi/smb",
+            "https://github.com/ZainRaza14/deepRL",
+            "https://github.com/FaboNo/DRLND",
+            "https://github.com/guillaumeboniface/bananaland",
+            "https://github.com/iDataist/Navigation-with-Deep-Q-Network",
+            "https://github.com/Brandon-Rozek/DeepRL",
+            "https://github.com/la3lma/Chez",
+            "https://github.com/la3lma/chezjulia",
+            "https://github.com/170928/-Review-Dueling-Deep-Q-Network",
+            "https://github.com/opplieam/Pong-Deep-RL",
+            "https://github.com/jsztompka/DuelDQN",
+            "https://github.com/R-Sweke/DeepQ-Decoding",
+            "https://github.com/gouxiangchen/dueling-DQN-pytorch",
+            "https://github.com/KDL-umass/saliency_maps",
+            "https://github.com/alessandrositta/Flatland_challenge",
+            "https://github.com/prajwalgatti/DRL-Continuous-Control",
+            "https://github.com/prajwalgatti/DRL-Navigation",
+            "https://github.com/zynk13/dueling-dqn-Reinforcement-learning",
+            "https://github.com/abryeemessi/Wednesday",
+            "https://github.com/JBGUIMBAUD/deep-reenforcement-learning",
+            "https://github.com/Sirorezka/DeepRL_modules",
+            "https://github.com/manvibharat/Stock-price-pridiction-using-Deep-reienforcement-learning"
+        ]
+    },
+    {
+        "id": "AQ1903",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119383",
+            "CUB-200-2011",
+            "http://orkg.org/orkg/resource/R123801",
+            "Oxford-IIIT Pets"
+        ]
+    },
+    {
+        "id": "AQ0721",
+        "answer": []
+    },
+    {
+        "id": "AQ0897",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy",
+            "http://orkg.org/orkg/resource/R116078",
+            "Top-1 Error Rate",
+            "http://orkg.org/orkg/resource/R123735",
+            "PARAMS",
+            "http://orkg.org/orkg/resource/R115579",
+            "Accuracy (%)",
+            "http://orkg.org/orkg/resource/R123734",
+            "FLOPS"
+        ]
+    },
+    {
+        "id": "AQ1742",
+        "answer": [
+            "http://orkg.org/orkg/resource/R120945",
+            "Trellis Network"
+        ]
+    },
+    {
+        "id": "AQ0437",
+        "answer": [
+            "http://orkg.org/orkg/resource/R134869",
+            "Training Neural Networks with Local Error Signals",
+            "http://orkg.org/orkg/resource/R134898",
+            "Stacked What-Where Auto-encoders",
+            "http://orkg.org/orkg/resource/R131303",
+            "Neural Architecture Transfer"
+        ]
+    },
+    {
+        "id": "AQ0023",
+        "answer": [
+            "http://orkg.org/orkg/resource/R125989",
+            "SciBERT",
+            "http://orkg.org/orkg/resource/R226835",
+            "BiLSTM-Attn w/ ELMo + section title and citation worthiness scaffolds"
+        ]
+    },
+    {
+        "id": "AQ0605",
+        "answer": [
+            "http://orkg.org/orkg/resource/R134171",
+            "Fully Parameterized Quantile Function for Distributional Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R134264",
+            "First return, then explore",
+            "http://orkg.org/orkg/resource/R133307",
+            "Recurrent Rational Networks"
+        ]
+    },
+    {
+        "id": "AQ1000",
+        "answer": [
+            "http://orkg.org/orkg/resource/R118364",
+            "Top-1 Accuracy",
+            "http://orkg.org/orkg/resource/R120928",
+            "Params"
+        ]
+    },
+    {
+        "id": "AQ1637",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119888",
+            "MAC"
+        ]
+    },
+    {
+        "id": "AQ2025",
+        "answer": []
+    },
+    {
+        "id": "AQ1573",
+        "answer": [
+            "http://orkg.org/orkg/resource/R120775",
+            "NCBI_BERT(base) (P+M)"
+        ]
+    },
+    {
+        "id": "AQ0797",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy"
+        ]
+    },
+    {
+        "id": "AQ1698",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124890",
+            "C51 noop"
+        ]
+    },
+    {
+        "id": "AQ1866",
+        "answer": [
+            "http://orkg.org/orkg/resource/R120776",
+            "SNLI",
+            "http://orkg.org/orkg/resource/R120747",
+            "ANLI test",
+            "http://orkg.org/orkg/resource/R120774",
+            "MedNLI",
+            "http://orkg.org/orkg/resource/R121068",
+            "MedSTS",
+            "http://orkg.org/orkg/resource/R121069",
+            "BIOSSES",
+            "http://orkg.org/orkg/resource/R123000",
+            "ShARe/CLEF eHealth corpus"
+        ]
+    },
+    {
+        "id": "AQ0299",
+        "answer": [
+            "http://orkg.org/orkg/resource/R125946",
+            "REL-RWMD k-NN",
+            "http://orkg.org/orkg/resource/R125945",
+            "ApproxRepSet"
+        ]
+    },
+    {
+        "id": "AQ2397",
+        "answer": [
+            "https://github.com/lucidrains/vit-pytorch",
+            "https://github.com/tianhai123/vit-pytorch",
+            "https://github.com/UdbhavPrasad072300/Transformer-Implementations",
+            "https://github.com/TACJu/TransFG",
+            "https://github.com/facebookresearch/deit"
+        ]
+    },
+    {
+        "id": "AQ0190",
+        "answer": [
+            "http://orkg.org/orkg/resource/R120775",
+            "NCBI_BERT(base) (P+M)"
+        ]
+    },
+    {
+        "id": "AQ0101",
+        "answer": [
+            "http://orkg.org/orkg/resource/R118777",
+            "MMV TSM-50x2",
+            "http://orkg.org/orkg/resource/R118769",
+            "XDC",
+            "http://orkg.org/orkg/resource/R118780",
+            "AVID+CMA (Modified R2+1D-18 on Audioset)",
+            "http://orkg.org/orkg/resource/R118782",
+            "AVID (Modified R2+1D-18 on Audioset)",
+            "http://orkg.org/orkg/resource/R118783",
+            "AVID+CMA (Modified R2+1D-18 on Kinetics)",
+            "http://orkg.org/orkg/resource/R118784",
+            "AVID (Modified R2+1D-18 on Kinetics)"
+        ]
+    },
+    {
+        "id": "AQ0604",
+        "answer": [
+            "http://orkg.org/orkg/resource/R133937",
+            "Evolution Strategies as a Scalable Alternative to Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R134264",
+            "First return, then explore",
+            "http://orkg.org/orkg/resource/R134288",
+            "Exploration by Random Network Distillation",
+            "http://orkg.org/orkg/resource/R134302",
+            "#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R134312",
+            "Count-Based Exploration with Neural Density Models",
+            "http://orkg.org/orkg/resource/R134333",
+            "Large-Scale Study of Curiosity-Driven Learning",
+            "http://orkg.org/orkg/resource/R134345",
+            "Unifying Count-Based Exploration and Intrinsic Motivation",
+            "http://orkg.org/orkg/resource/R134360",
+            "Count-Based Exploration in Feature Space for Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R134383",
+            "Count-Based Exploration with the Successor Representation",
+            "http://orkg.org/orkg/resource/R134401",
+            "Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models",
+            "http://orkg.org/orkg/resource/R133503",
+            "Asynchronous Methods for Deep Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R133821",
+            "Policy Optimization With Penalized Point Probability Distance: An Alternative To Proximal Policy Optimization",
+            "http://orkg.org/orkg/resource/R132604",
+            "Deep Reinforcement Learning with Double Q-learning",
+            "http://orkg.org/orkg/resource/R133007",
+            "Learning values across many orders of magnitude",
+            "http://orkg.org/orkg/resource/R133107",
+            "Massively Parallel Methods for Deep Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R133207",
+            "Deep Exploration via Bootstrapped DQN",
+            "http://orkg.org/orkg/resource/R133403",
+            "Self-Imitation Learning",
+            "http://orkg.org/orkg/resource/R132399",
+            "Prioritized Experience Replay",
+            "http://orkg.org/orkg/resource/R131980",
+            "Dueling Network Architectures for Deep Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R131877",
+            "A Distributional Perspective on Reinforcement Learning"
+        ]
+    },
+    {
+        "id": "AQ0816",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116363",
+            "Precision",
+            "http://orkg.org/orkg/resource/R116364",
+            "Recall"
+        ]
+    },
+    {
+        "id": "AQ2380",
+        "answer": [
+            "https://github.com/adrianphoulady/weighted-tsetlin-machine-cpp",
+            "https://github.com/cair/pyTsetlinMachine",
+            "https://github.com/anon767/TsetlinMachine",
+            "https://github.com/jcriddle4/tsetlin_rust_mnist",
+            "https://github.com/zdx3578/pyTsetlinMachine",
+            "https://github.com/cair/regression-tsetlin-machine",
+            "https://github.com/cair/TsetlinMachineC",
+            "https://github.com/cair/fast-tsetlin-machine-in-cuda-with-imdb-demo",
+            "https://github.com/cair/pyTsetlinMachineMT",
+            "https://github.com/cair/pyTsetlinMachineParallel",
+            "https://github.com/cair/PyTsetlinMachineCUDA",
+            "https://github.com/cair/TextUnderstandingTsetlinMachine",
+            "https://github.com/cair/fast-tsetlin-machine-with-mnist-demo",
+            "https://github.com/cair/TsetlinMachine"
+        ]
+    },
+    {
+        "id": "AQ1272",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score",
+            "9.5"
+        ]
+    },
+    {
+        "id": "AQ0963",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score"
+        ]
+    },
+    {
+        "id": "AQ2321",
+        "answer": [
+            "https://github.com/ku2482/rljax",
+            "https://github.com/BY571/FQF-and-Extensions",
+            "https://github.com/microsoft/FQF",
+            "https://github.com/ku2482/fqf-iqn-qrdqn.pytorch"
+        ]
+    },
+    {
+        "id": "AQ1373",
+        "answer": [
+            "http://orkg.org/orkg/resource/R114167",
+            "STREET"
+        ]
+    },
+    {
+        "id": "AQ1163",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy",
+            "51.5"
+        ]
+    },
+    {
+        "id": "AQ0348",
+        "answer": []
+    },
+    {
+        "id": "AQ0696",
+        "answer": []
+    },
+    {
+        "id": "AQ1939",
+        "answer": []
+    },
+    {
+        "id": "AQ2094",
+        "answer": []
+    },
+    {
+        "id": "AQ2315",
+        "answer": [
+            "https://github.com/liuyuezhang/pyrl",
+            "https://github.com/chainer/chainerrl",
+            "https://github.com/aabbeell/reinforcementLearning.a2c.gym",
+            "https://github.com/alexmlamb/blocks_rl_gru_setup",
+            "https://github.com/JulT1/RL_SS19",
+            "https://github.com/ofekluis/sonic_project_ss19",
+            "https://github.com/qihongl/demo-advantage-actor-critic",
+            "https://github.com/AI-RG/rl-experiments",
+            "https://github.com/natsumeS/analysis",
+            "https://github.com/PaulCharnay/Projet_AIF",
+            "https://github.com/Remtasya/DDPG-Actor-Critic-Reinforcement-Learning-Reacher-Environment",
+            "https://github.com/Jzar/Space-Invaders-DQN",
+            "https://github.com/Jventajas/Reinforcement-Learning",
+            "https://github.com/sharan-dce/A3C",
+            "https://github.com/tensorpack/tensorpack/tree/master/examples/A3C-Gym",
+            "https://github.com/hill-a/stable-baselines",
+            "https://github.com/NervanaSystems/coach",
+            "https://github.com/DLR-RM/stable-baselines3",
+            "https://github.com/openai/universe-starter-agent",
+            "https://github.com/ikostrikov/pytorch-a3c",
+            "https://github.com/Khrylx/PyTorch-RL",
+            "https://github.com/miyosuda/async_deep_reinforce",
+            "https://github.com/yukezhu/tensorflow-reinforce",
+            "https://github.com/muupan/async-rl",
+            "https://github.com/marload/DeepRL-TensorFlow2",
+            "https://github.com/marload/deep-rl-tf2",
+            "https://github.com/dickreuter/neuron_poker",
+            "https://github.com/Kaixhin/ACER",
+            "https://github.com/Kaixhin/NoisyNet-A3C",
+            "https://github.com/bentrevett/pytorch-rl",
+            "https://github.com/Nasdin/ReinforcementLearning-AtariGame",
+            "https://github.com/khanhptnk/bandit-nmt",
+            "https://github.com/lcswillems/torch-ac",
+            "https://github.com/arnomoonens/yarll",
+            "https://github.com/traai/async-deep-rl",
+            "https://github.com/deepsense-ai/Distributed-BA3C",
+            "https://github.com/ikostrikov/pytorch-rl",
+            "https://github.com/ShibiHe/Q-Optimality-Tightening",
+            "https://github.com/qihongl/dlstm-demo",
+            "https://github.com/roop-pal/Meta-Learning-for-StarCraft-II-Minigames",
+            "https://github.com/Sheepsody/Batched-Impala-PyTorch",
+            "https://github.com/grananqvist/reinforcement-learning-super-mario-A3C",
+            "https://github.com/vladfi1/universe-starter-agent",
+            "https://github.com/braemt/attentive-multi-task-deep-reinforcement-learning",
+            "https://github.com/4rChon/NL-FuN",
+            "https://github.com/mavischer/DRRL",
+            "https://github.com/avillemin/Minecraft-AI",
+            "https://github.com/dsinghnegi/atari_RL_agent",
+            "https://github.com/InSpaceAI/RL-Zoo",
+            "https://github.com/Zartris/TD3_continuous_control",
+            "https://github.com/cdesilv1/sc2_ai_cdes",
+            "https://github.com/wtingda/DeepRLBreakout",
+            "https://github.com/sainijagjit/A3C-Pytorch",
+            "https://github.com/amanda-lambda/hack-flappy-bird-drl",
+            "https://github.com/haroldmei/pysc2-study",
+            "https://github.com/amanda-lambda/drl-experiments",
+            "https://github.com/gungui98/deeprl-a3c-ai2thor",
+            "https://github.com/wxj77/TransferReinforcementLearning",
+            "https://github.com/amaudruz/RL_openaigym",
+            "https://github.com/hulanwin/A3C-DRL",
+            "https://github.com/joshiatul/game_playing"
+        ]
+    },
+    {
+        "id": "AQ1812",
+        "answer": [
+            "http://orkg.org/orkg/resource/R126151",
+            "ANODE"
+        ]
+    },
+    {
+        "id": "AQ2216",
+        "answer": [
+            "https://github.com/kaiu85/hm-rnn",
+            "https://github.com/bolducp/hierarchical-rnn"
+        ]
+    },
+    {
+        "id": "AQ1905",
+        "answer": []
+    },
+    {
+        "id": "AQ1320",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119433",
+            "Error",
+            "2.11"
+        ]
+    },
+    {
+        "id": "AQ2207",
+        "answer": [
+            "https://github.com/sucheta19/Text-Classification-Using-CNN",
+            "https://github.com/zhong110020/Tensorflow-TCN",
+            "https://github.com/khappiya/rnn",
+            "https://github.com/Nic5472K/FriendsOOGroup_TCN",
+            "https://github.com/zll1996/TCN",
+            "https://github.com/anandharaju/Basic_TCN",
+            "https://github.com/zhong110020/TensorFlow_TCN",
+            "https://github.com/linxi159/TCN",
+            "https://github.com/patHutchings/TCN",
+            "https://github.com/zhong110020/keras-tcn",
+            "https://github.com/ZTianle/keras-tcn-solar",
+            "https://github.com/MChen9/TCN",
+            "https://github.com/ShotDownDiane/tcn-master",
+            "https://github.com/DevonFulcher/CryptoPricePredictor",
+            "https://github.com/abduallahmohamed/MCRM",
+            "https://github.com/jxz542189/TCN_classification",
+            "https://github.com/zhong110020/pytorch_TCN",
+            "https://github.com/XiaowanLi2018/TimeSeriesPrediction_BasedOnCNN",
+            "https://github.com/jakeret/tcn",
+            "https://github.com/ashishpatel26/tcn-keras-Examples",
+            "https://github.com/YuanTingHsieh/TF_TCN",
+            "https://github.com/Baichenjia/Tensorflow-TCN",
+            "https://github.com/csteinmetz1/ronn",
+            "https://github.com/Songweiping/TCN-TF",
+            "https://github.com/mhjabreel/CharCnn_Keras",
+            "https://github.com/IndicoDataSolutions/finetune",
+            "https://github.com/philipperemy/keras-tcn",
+            "https://github.com/locuslab/TCN"
+        ]
+    },
+    {
+        "id": "AQ2437",
+        "answer": [
+            "https://github.com/sayakpaul/A-Barebones-Image-Retrieval-System",
+            "https://github.com/SoojungYang/supervised_pretraining_GN_WS",
+            "https://github.com/google-research/big_transfer"
+        ]
+    },
+    {
+        "id": "AQ1176",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy",
+            "92.5%"
+        ]
+    },
+    {
+        "id": "AQ1245",
+        "answer": [
+            "http://orkg.org/orkg/resource/R114483",
+            "F1",
+            "72.9"
+        ]
+    },
+    {
+        "id": "AQ0002",
+        "answer": [
+            "http://orkg.org/orkg/resource/R221862",
+            "Baseline tf-idf NPs",
+            "http://orkg.org/orkg/resource/R221894",
+            "Pattern Matching and Learning"
+        ]
+    },
+    {
+        "id": "AQ1664",
+        "answer": [
+            "http://orkg.org/orkg/resource/R123733",
+            "NAT-M4"
+        ]
+    },
+    {
+        "id": "AQ1233",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score",
+            "902"
+        ]
+    },
+    {
+        "id": "AQ0713",
+        "answer": []
+    },
+    {
+        "id": "AQ2311",
+        "answer": [
+            "https://github.com/cxxgtxy/POP3D"
+        ]
+    },
+    {
+        "id": "AQ1723",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124891",
+            "Duel noop"
+        ]
+    },
+    {
+        "id": "AQ0786",
+        "answer": [
+            "http://orkg.org/orkg/resource/R118614",
+            "3-fold Accuracy"
+        ]
+    },
+    {
+        "id": "AQ0522",
+        "answer": [
+            "http://orkg.org/orkg/resource/R131153",
+            "Message Passing Attention Networks for Document Understanding"
+        ]
+    },
+    {
+        "id": "AQ1212",
+        "answer": [
+            "http://orkg.org/orkg/resource/R114483",
+            "F1",
+            "93.5",
+            "http://orkg.org/orkg/resource/R122892",
+            "F1 entity level",
+            "94.06"
+        ]
+    },
+    {
+        "id": "AQ1649",
+        "answer": [
+            "http://orkg.org/orkg/resource/R123478",
+            "RGBD+DD-PPO"
+        ]
+    },
+    {
+        "id": "AQ1337",
+        "answer": [
+            "http://orkg.org/orkg/resource/R114483",
+            "F1",
+            "65.71"
+        ]
+    },
+    {
+        "id": "AQ1673",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124055",
+            "XLMft UDA"
+        ]
+    },
+    {
+        "id": "AQ1267",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score",
+            "3"
+        ]
+    },
+    {
+        "id": "AQ2078",
+        "answer": [
+            "https://github.com/dmlc/gluon-nlp",
+            "https://github.com/LamLauChiu/Tensorflow_Learning",
+            "https://github.com/nlp-research/bilm-tf",
+            "https://github.com/yangzonglin1994/bilm-tf-extended",
+            "https://github.com/weixsong/bilm-tf",
+            "https://github.com/yangrui123/Hidden",
+            "https://github.com/young-zonglin/bilm-tf-extended",
+            "https://github.com/kunde122/bilm-tf",
+            "https://github.com/seunghwan1228/ELMO",
+            "https://github.com/kafura-kafiri/tf2-elmo",
+            "https://github.com/shaneding/bilm-tf-experimentation",
+            "https://github.com/ankurbanga/Language-Models",
+            "https://github.com/richinkabra/CoVe-BCN",
+            "https://github.com/kinimod23/NMT_Project",
+            "https://github.com/ajovanov95/probabilistic-spiking-neural-networks",
+            "https://github.com/cheng18/bilm-tf",
+            "https://github.com/sarveshsparab/DeepElmoEmbedNer",
+            "https://github.com/shelleyHLX/bilm_EMLo",
+            "https://github.com/mingdachen/bilm-tf",
+            "https://github.com/menajosep/AleatoricSent",
+            "https://github.com/TEAMLAB-Lecture/deep_nlp_101",
+            "https://github.com/yuanjing-zhu/elmo",
+            "https://github.com/bestend/tf2-bi-lstm-crf-nni",
+            "https://github.com/AshwinDeshpande96/Hierarchical-Softmax",
+            "https://github.com/SeonbeomKim/TensorFlow-ELMo",
+            "https://github.com/griff4692/LMC",
+            "https://github.com/RundongChou/elmo-chinese-oversimplified",
+            "https://github.com/zenanz/ChemPatentEmbeddings",
+            "https://github.com/horizonheart/ELMO",
+            "https://github.com/kaist-dmlab/BioNER",
+            "https://github.com/yuanxiaosc/ELMo",
+            "https://github.com/JHart96/keras_elmo_embedding_layer",
+            "https://github.com/YC-wind/embedding_study",
+            "https://github.com/helboukkouri/character-bert",
+            "https://github.com/iliaschalkidis/ELMo-keras",
+            "https://github.com/PrashantRanjan09/Elmo-Tutorial",
+            "https://github.com/PrashantRanjan09/WordEmbeddings-Elmo-Fasttext-Word2Vec",
+            "https://github.com/UKPLab/elmo-bilstm-cnn-crf",
+            "https://github.com/HIT-SCIR/ELMoForManyLangs",
+            "https://github.com/Hironsan/anago",
+            "https://github.com/allenai/bilm-tf",
+            "https://github.com/zalandoresearch/flair",
+            "https://github.com/flairNLP/flair"
+        ]
+    },
+    {
+        "id": "AQ1231",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score",
+            "518"
+        ]
+    },
+    {
+        "id": "AQ0511",
+        "answer": [
+            "http://orkg.org/orkg/resource/R130126",
+            "XLNet: Generalized Autoregressive Pretraining for Language Understanding"
+        ]
+    },
+    {
+        "id": "AQ1286",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score",
+            "994.0"
+        ]
+    },
+    {
+        "id": "AQ1353",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy",
+            "90.07%"
+        ]
+    },
+    {
+        "id": "AQ0287",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124920",
+            "ES FF (1 hour) noop",
+            "http://orkg.org/orkg/resource/R124931",
+            "Reactor 500M",
+            "http://orkg.org/orkg/resource/R124932",
+            "FQF",
+            "http://orkg.org/orkg/resource/R124912",
+            "A2C + SIL",
+            "http://orkg.org/orkg/resource/R124913",
+            "A3C FF hs",
+            "http://orkg.org/orkg/resource/R124914",
+            "A3C FF (1 day) hs",
+            "http://orkg.org/orkg/resource/R124921",
+            "A3C LSTM hs",
+            "http://orkg.org/orkg/resource/R124916",
+            "POP3D",
+            "http://orkg.org/orkg/resource/R124919",
+            "Prior+Duel hs",
+            "http://orkg.org/orkg/resource/R124900",
+            "DDQN+Pop-Art noop",
+            "http://orkg.org/orkg/resource/R124901",
+            "Gorila",
+            "http://orkg.org/orkg/resource/R124902",
+            "Bootstrapped DQN",
+            "http://orkg.org/orkg/resource/R124894",
+            "Prior noop",
+            "http://orkg.org/orkg/resource/R124895",
+            "Prior hs",
+            "http://orkg.org/orkg/resource/R124898",
+            "DDQN (tuned) hs",
+            "http://orkg.org/orkg/resource/R124908",
+            "DQN noop",
+            "http://orkg.org/orkg/resource/R124911",
+            "DQN hs",
+            "http://orkg.org/orkg/resource/R124891",
+            "Duel noop",
+            "http://orkg.org/orkg/resource/R124892",
+            "Duel hs",
+            "http://orkg.org/orkg/resource/R124897",
+            "DDQN (tuned) noop",
+            "http://orkg.org/orkg/resource/R124922",
+            "Prior+Duel noop",
+            "http://orkg.org/orkg/resource/R124890",
+            "C51 noop",
+            "http://orkg.org/orkg/resource/R123293",
+            "CURL"
+        ]
+    },
+    {
+        "id": "AQ1767",
+        "answer": [
+            "http://orkg.org/orkg/resource/R126364",
+            "BiLSTM-TDN(ResNet-101)"
+        ]
+    },
+    {
+        "id": "AQ1492",
+        "answer": [
+            "http://orkg.org/orkg/resource/R120299",
+            "Hierarchical Transformer Encoder +  conditional copy"
+        ]
+    },
+    {
+        "id": "AQ0808",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119439",
+            "EM",
+            "http://orkg.org/orkg/resource/R114483",
+            "F1"
+        ]
+    },
+    {
+        "id": "AQ2130",
+        "answer": [
+            "https://github.com/astakara48/python_project"
+        ]
+    },
+    {
+        "id": "AQ0007",
+        "answer": [
+            "http://orkg.org/orkg/resource/R224967",
+            "CL-Titles-Parser"
+        ]
+    },
+    {
+        "id": "AQ1787",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124997",
+            "RUDDER"
+        ]
+    },
+    {
+        "id": "AQ0182",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116612",
+            "SciBERT (SciVocab)",
+            "http://orkg.org/orkg/resource/R116685",
+            "SciBERT (Base Vocab)"
+        ]
+    },
+    {
+        "id": "AQ1044",
+        "answer": []
+    },
+    {
+        "id": "AQ0779",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy",
+            "http://orkg.org/orkg/resource/R116138",
+            "Percentage error"
+        ]
+    },
+    {
+        "id": "AQ1578",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124731",
+            "PtGen"
+        ]
+    },
+    {
+        "id": "AQ0474",
+        "answer": [
+            "http://orkg.org/orkg/resource/R130466",
+            "Data-to-Text Generation with Content Selection and Planning",
+            "http://orkg.org/orkg/resource/R130479",
+            "Challenges in Data-to-Document Generation",
+            "http://orkg.org/orkg/resource/R130451",
+            "A Hierarchical Model for Data-to-Text Generation"
+        ]
+    },
+    {
+        "id": "AQ2095",
+        "answer": [
+            "https://github.com/kimiyoung/fg-gating"
+        ]
+    },
+    {
+        "id": "AQ1788",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124901",
+            "Gorila"
+        ]
+    },
+    {
+        "id": "AQ2295",
+        "answer": [
+            "https://github.com/ku2482/sac-discrete.pytorch",
+            "https://github.com/eddynelson/dqn",
+            "https://github.com/chainer/chainerrl",
+            "https://github.com/Remtasya/DDPG-Actor-Critic-Reinforcement-Learning-Reacher-Environment",
+            "https://github.com/hill-a/stable-baselines",
+            "https://github.com/NervanaSystems/coach",
+            "https://github.com/Yuheon/Reinforcement-Learning-Study",
+            "https://github.com/lab-ml/nn",
+            "https://github.com/JuliaPOMDP/DeepQLearning.jl",
+            "https://github.com/SayhoKim/tetrisRL",
+            "https://github.com/kmdanielduan/DQN_Family_PyTorch",
+            "https://github.com/KatyNTsachi/Hierarchical-RL",
+            "https://github.com/atavakol/action-branching-agents",
+            "https://github.com/utarumo/RL_implementation",
+            "https://github.com/cocolico14/N-step-Dueling-DDQN-PER-Pacman",
+            "https://github.com/yzheng51/rl-dino-run",
+            "https://github.com/OMS1996/Carla_The_RL_Self-Driving-Car",
+            "https://github.com/rybread1/deep-rl-trex",
+            "https://github.com/rybread1/DeepRlTrex",
+            "https://github.com/Adrelf/DRL-navigation",
+            "https://github.com/MEOWMEOW114/nd893-p1-navigation-banana",
+            "https://github.com/austinsilveria/Banana-Collection-DQN",
+            "https://github.com/1jsingh/rl_navigation",
+            "https://github.com/HussonnoisMaxence/RL_Algorithms",
+            "https://github.com/shashwatsaxena571/DRL-navigation",
+            "https://github.com/nbopardi/smb",
+            "https://github.com/guillaumeboniface/bananaland",
+            "https://github.com/Damcy/prioritized-experience-replay",
+            "https://github.com/ku2482/soft-actor-critic.pytorch",
+            "https://github.com/dtak/hip-mdp-public",
+            "https://github.com/kayuksel/pytorch-ars",
+            "https://github.com/Suryavf/SelfDrivingCar",
+            "https://github.com/MathPhysSim/PER-NAF",
+            "https://github.com/Guillaume-Cr/lunar_lander_per",
+            "https://github.com/Arrabonae/openai_DDDQN",
+            "https://github.com/KAIST-AILab/deeprl_practice_colab",
+            "https://github.com/iDataist/Tennis-With-Multi-Agent-Reinforcement",
+            "https://github.com/iDataist/Continuous-Control-with-Deep-Deterministic-Policy-Gradient",
+            "https://github.com/iDataist/Navigation-with-Deep-Q-Network",
+            "https://github.com/CharlotteMorrison/Baxter-VREP",
+            "https://github.com/CSCI4850/S20-team3-project",
+            "https://github.com/CharlotteMorrison/Baxter-Research",
+            "https://github.com/7starsea/Prioritized-Experience-Replay",
+            "https://github.com/ameet-1997/Prioritized_Experience_Replay",
+            "https://github.com/VictorZuanazzi/Project_RL",
+            "https://github.com/V0LsTeR/dopamine_prioritized_buffer",
+            "https://github.com/ACampero/dopamine",
+            "https://github.com/tphanson/xupr-drl",
+            "https://github.com/anhtu293/NeurIPS-2019-Challenge",
+            "https://github.com/Brandon-Rozek/DeepRL",
+            "https://github.com/V0LsTeR/DQN_heap",
+            "https://github.com/backgom2357/Recommender_system_via_deep_RL",
+            "https://github.com/CharlotteMorrison/Baxter-VREP-Version-2",
+            "https://github.com/MrDaubinet/collaboration-and-competition",
+            "https://github.com/yusme/DDPG",
+            "https://github.com/snhwang/p3_collab-compet",
+            "https://github.com/VasaKiDD/TD3-deep-rl-research",
+            "https://github.com/snhwang/p2-continuous-control-SNH",
+            "https://github.com/GoingMyWay/dopamine_reward_decomposition",
+            "https://github.com/snhwang/p1_navigation_SNH",
+            "https://github.com/google/dopamine",
+            "https://github.com/SimonRamstedt/ddpg"
+        ]
+    },
+    {
+        "id": "AQ1416",
+        "answer": [
+            "http://orkg.org/orkg/resource/R117124",
+            "Unsupervised NMT + Transformer"
+        ]
+    },
+    {
+        "id": "AQ1780",
+        "answer": [
+            "http://orkg.org/orkg/resource/R126364",
+            "BiLSTM-TDN(ResNet-101)"
+        ]
+    },
+    {
+        "id": "AQ0445",
+        "answer": [
+            "http://orkg.org/orkg/resource/R134423",
+            "DocBERT: BERT for Document Classification",
+            "http://orkg.org/orkg/resource/R134434",
+            "Text classification with word embedding regularization and soft similarity measure",
+            "http://orkg.org/orkg/resource/R134448",
+            "Rep the Set: Neural Networks for Learning Set Representations",
+            "http://orkg.org/orkg/resource/R134476",
+            "Speeding up Word Mover's Distance and its variants via properties of distances between embeddings",
+            "http://orkg.org/orkg/resource/R131153",
+            "Message Passing Attention Networks for Document Understanding"
+        ]
+    },
+    {
+        "id": "AQ0157",
+        "answer": [
+            "http://orkg.org/orkg/resource/R121040",
+            "Bipartite Flow",
+            "http://orkg.org/orkg/resource/R120936",
+            "Past Decode Reg. + AWD-LSTM-MoS + dyn. eval.",
+            "http://orkg.org/orkg/resource/R120945",
+            "Trellis Network",
+            "http://orkg.org/orkg/resource/R121036",
+            "NASCell",
+            "http://orkg.org/orkg/resource/R121039",
+            "Temporal Convolutional Network",
+            "http://orkg.org/orkg/resource/R120964",
+            "R-Transformer",
+            "http://orkg.org/orkg/resource/R120876",
+            "Feedback Transformer",
+            "http://orkg.org/orkg/resource/R120921",
+            "3-layer AWD-LSTM",
+            "http://orkg.org/orkg/resource/R121033",
+            "6-layer QRNN",
+            "http://orkg.org/orkg/resource/R120924",
+            "FS-LSTM-4",
+            "http://orkg.org/orkg/resource/R121035",
+            "FS-LSTM-2",
+            "http://orkg.org/orkg/resource/R121037",
+            "2-layer Norm HyperLSTM"
+        ]
+    },
+    {
+        "id": "AQ2376",
+        "answer": [
+            "https://github.com/kfallah/NODE-Denoiser",
+            "https://github.com/mandubian/pytorch-neural-ode",
+            "https://github.com/locuslab/monotone_op_net",
+            "https://github.com/mitmath/18S096SciML",
+            "https://github.com/EmilienDupont/augmented-neural-odes"
+        ]
+    },
+    {
+        "id": "AQ2426",
+        "answer": [
+            "https://github.com/TArdelean/DynamicConvolution",
+            "https://github.com/prstrive/CondConv-tensorflow",
+            "https://github.com/kaijieshi7/Dynamic-convolution-Pytorch"
+        ]
+    },
+    {
+        "id": "AQ1070",
+        "answer": [
+            "http://orkg.org/orkg/resource/R114165",
+            "Sequence error",
+            "27.54"
+        ]
+    },
+    {
+        "id": "AQ2238",
+        "answer": [
+            "https://github.com/Tixierae/gow_tools",
+            "https://github.com/giannisnik/mpad"
+        ]
+    },
+    {
+        "id": "AQ0114",
+        "answer": [
+            "http://orkg.org/orkg/resource/R117327",
+            "GPT-3 175B (Few-Shot)"
+        ]
+    },
+    {
+        "id": "AQ1357",
+        "answer": [
+            "http://orkg.org/orkg/resource/R115445",
+            "F1 score",
+            "96.19"
+        ]
+    },
+    {
+        "id": "AQ1638",
+        "answer": [
+            "http://orkg.org/orkg/resource/R123293",
+            "CURL"
+        ]
+    },
+    {
+        "id": "AQ2087",
+        "answer": [
+            "https://github.com/bloomsburyai/question-generation"
+        ]
+    },
+    {
+        "id": "AQ1439",
+        "answer": [
+            "http://orkg.org/orkg/resource/R117688",
+            "Sparse Transformer 152M (strided)"
+        ]
+    },
+    {
+        "id": "AQ1144",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy",
+            "76.1"
+        ]
+    },
+    {
+        "id": "HQ0046",
+        "answer": true
+    },
+    {
+        "id": "AQ1142",
+        "answer": [
+            "http://orkg.org/orkg/resource/R118414",
+            "Overall",
+            "85"
+        ]
+    },
+    {
+        "id": "AQ1345",
+        "answer": [
+            "http://orkg.org/orkg/resource/R115534",
+            "Top 1 Accuracy",
+            "76.7"
+        ]
+    },
+    {
+        "id": "AQ1633",
+        "answer": [
+            "http://orkg.org/orkg/resource/R123293",
+            "CURL"
+        ]
+    },
+    {
+        "id": "AQ0792",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119439",
+            "EM"
+        ]
+    },
+    {
+        "id": "AQ0097",
+        "answer": [
+            "http://orkg.org/orkg/resource/R118533",
+            "Video",
+            "http://orkg.org/orkg/resource/R122331",
+            "Audio",
+            "http://orkg.org/orkg/resource/R129308",
+            "MMDL"
+        ]
+    },
+    {
+        "id": "AQ0914",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124627",
+            "Entropy Difference"
+        ]
+    },
+    {
+        "id": "AQ0933",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score"
+        ]
+    },
+    {
+        "id": "AQ1251",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy",
+            "96.8"
+        ]
+    },
+    {
+        "id": "AQ1433",
+        "answer": [
+            "http://orkg.org/orkg/resource/R117253",
+            "Unsupervised S2S with attention"
+        ]
+    },
+    {
+        "id": "AQ1886",
+        "answer": [
+            "http://orkg.org/orkg/resource/R125988",
+            "SciCite",
+            "http://orkg.org/orkg/resource/R125991",
+            "ACL-ARC",
+            "http://orkg.org/orkg/resource/R206124",
+            "ACL-ARC"
+        ]
+    },
+    {
+        "id": "AQ0818",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116443",
+            "BLEU",
+            "http://orkg.org/orkg/resource/R120302",
+            "DLD"
+        ]
+    },
+    {
+        "id": "AQ0912",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy"
+        ]
+    },
+    {
+        "id": "AQ1928",
+        "answer": []
+    },
+    {
+        "id": "AQ0159",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124559",
+            "BioSentVec (PubMed)",
+            "http://orkg.org/orkg/resource/R124560",
+            "BioSentVec (PubMed + MIMIC-III)",
+            "http://orkg.org/orkg/resource/R124561",
+            "BioSentVec (MIMIC-III)",
+            "http://orkg.org/orkg/resource/R124562",
+            "Universal Sentence Encoder",
+            "http://orkg.org/orkg/resource/R120775",
+            "NCBI_BERT(base) (P+M)"
+        ]
+    },
+    {
+        "id": "AQ1567",
+        "answer": [
+            "http://orkg.org/orkg/resource/R122917",
+            "BiLSTM-CRF+ELMo"
+        ]
+    },
+    {
+        "id": "AQ0443",
+        "answer": [
+            "http://orkg.org/orkg/resource/R129958",
+            "Self-Supervised MultiModal Versatile Networks",
+            "http://orkg.org/orkg/resource/R129977",
+            "Self-Supervised Learning by Cross-Modal Audio-Video Clustering",
+            "http://orkg.org/orkg/resource/R130082",
+            "Audio-Visual Instance Discrimination with Cross-Modal Agreement",
+            "http://orkg.org/orkg/resource/R130118",
+            "Cooperative Learning of Audio and Video Models from Self-Supervised Synchronization"
+        ]
+    },
+    {
+        "id": "AQ0653",
+        "answer": [
+            "http://orkg.org/orkg/resource/R129411",
+            "SciBERT: A Pretrained Language Model for Scientific Text"
+        ]
+    },
+    {
+        "id": "AQ2436",
+        "answer": []
+    },
+    {
+        "id": "AQ1017",
+        "answer": [
+            "http://orkg.org/orkg/resource/R115445",
+            "F1 score"
+        ]
+    },
+    {
+        "id": "AQ1687",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124688",
+            "PEGASUS"
+        ]
+    },
+    {
+        "id": "AQ1361",
+        "answer": [
+            "http://orkg.org/orkg/resource/R114881",
+            "Mean Accuracy",
+            "14.3"
+        ]
+    },
+    {
+        "id": "AQ0735",
+        "answer": [
+            "http://orkg.org/orkg/resource/R115445",
+            "F1 score",
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy"
+        ]
+    },
+    {
+        "id": "AQ0102",
+        "answer": [
+            "http://orkg.org/orkg/resource/R125942",
+            "KD-LSTMreg",
+            "http://orkg.org/orkg/resource/R125944",
+            "Orthogonalized Soft VSM",
+            "http://orkg.org/orkg/resource/R125945",
+            "ApproxRepSet",
+            "http://orkg.org/orkg/resource/R125946",
+            "REL-RWMD k-NN",
+            "http://orkg.org/orkg/resource/R122632",
+            "MPAD-path"
+        ]
+    },
+    {
+        "id": "AQ1689",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124922",
+            "Prior+Duel noop"
+        ]
+    },
+    {
+        "id": "AQ0726",
+        "answer": []
+    },
+    {
+        "id": "AQ0666",
+        "answer": [
+            "http://orkg.org/orkg/resource/R134508",
+            "Big Transfer (BiT): General Visual Representation Learning"
+        ]
+    },
+    {
+        "id": "AQ0970",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score",
+            "http://orkg.org/orkg/resource/R124949",
+            "Best Score"
+        ]
+    },
+    {
+        "id": "AQ0634",
+        "answer": [
+            "http://orkg.org/orkg/resource/R130126",
+            "XLNet: Generalized Autoregressive Pretraining for Language Understanding"
+        ]
+    },
+    {
+        "id": "AQ2318",
+        "answer": [
+            "https://github.com/lili-chen/SEER"
+        ]
+    },
+    {
+        "id": "AQ1449",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119139",
+            "XLNet"
+        ]
+    },
+    {
+        "id": "AQ0422",
+        "answer": [
+            "http://orkg.org/orkg/resource/R129853",
+            "Language Models are Few-Shot Learners",
+            "http://orkg.org/orkg/resource/R129654",
+            "Edinburgh Neural Machine Translation Systems for WMT 16",
+            "http://orkg.org/orkg/resource/R129673",
+            "Phrase-Based & Neural Unsupervised Machine Translation",
+            "http://orkg.org/orkg/resource/R129742",
+            "Incorporating a Local Translation Mechanism into Non-autoregressive Translation",
+            "http://orkg.org/orkg/resource/R129761",
+            "Non-Autoregressive Neural Machine Translation",
+            "http://orkg.org/orkg/resource/R129773",
+            "Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement"
+        ]
+    },
+    {
+        "id": "AQ1023",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy"
+        ]
+    },
+    {
+        "id": "AQ0861",
+        "answer": [
+            "http://orkg.org/orkg/resource/R118364",
+            "Top-1 Accuracy",
+            "http://orkg.org/orkg/resource/R122339",
+            "PRE-TRAINING DATASET"
+        ]
+    },
+    {
+        "id": "AQ1466",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119567",
+            "XLNet (single model)"
+        ]
+    },
+    {
+        "id": "AQ0164",
+        "answer": [
+            "http://orkg.org/orkg/resource/R121392",
+            "Ning et al."
+        ]
+    },
+    {
+        "id": "AQ1494",
+        "answer": [
+            "http://orkg.org/orkg/resource/R120289",
+            "Encoder-decoder + conditional copy"
+        ]
+    },
+    {
+        "id": "AQ1263",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score",
+            "931.6"
+        ]
+    },
+    {
+        "id": "AQ0172",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116685",
+            "SciBERT (Base Vocab)",
+            "http://orkg.org/orkg/resource/R116612",
+            "SciBERT (SciVocab)"
+        ]
+    },
+    {
+        "id": "AQ0523",
+        "answer": [
+            "http://orkg.org/orkg/resource/R130126",
+            "XLNet: Generalized Autoregressive Pretraining for Language Understanding"
+        ]
+    },
+    {
+        "id": "AQ1761",
+        "answer": [
+            "http://orkg.org/orkg/resource/R125945",
+            "ApproxRepSet"
+        ]
+    },
+    {
+        "id": "AQ0607",
+        "answer": [
+            "http://orkg.org/orkg/resource/R133937",
+            "Evolution Strategies as a Scalable Alternative to Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R134029",
+            "Smaller World Models for Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R134126",
+            "The Reactor: A fast and sample-efficient Actor-Critic agent for Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R133503",
+            "Asynchronous Methods for Deep Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R133821",
+            "Policy Optimization With Penalized Point Probability Distance: An Alternative To Proximal Policy Optimization",
+            "http://orkg.org/orkg/resource/R132604",
+            "Deep Reinforcement Learning with Double Q-learning",
+            "http://orkg.org/orkg/resource/R133007",
+            "Learning values across many orders of magnitude",
+            "http://orkg.org/orkg/resource/R133107",
+            "Massively Parallel Methods for Deep Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R133207",
+            "Deep Exploration via Bootstrapped DQN",
+            "http://orkg.org/orkg/resource/R133403",
+            "Self-Imitation Learning",
+            "http://orkg.org/orkg/resource/R132399",
+            "Prioritized Experience Replay",
+            "http://orkg.org/orkg/resource/R131980",
+            "Dueling Network Architectures for Deep Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R131877",
+            "A Distributional Perspective on Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R131170",
+            "CURL: Contrastive Unsupervised Representations for Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R134043",
+            "Improving Computational Efficiency in Visual Reinforcement Learning via Stored Embeddings"
+        ]
+    },
+    {
+        "id": "AQ1513",
+        "answer": [
+            "http://orkg.org/orkg/resource/R120755",
+            "XLNet (Large)"
+        ]
+    },
+    {
+        "id": "AQ0148",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119567",
+            "XLNet (single model)"
+        ]
+    },
+    {
+        "id": "AQ0611",
+        "answer": [
+            "http://orkg.org/orkg/resource/R133937",
+            "Evolution Strategies as a Scalable Alternative to Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R134084",
+            "Soft Actor-Critic for Discrete Action Settings",
+            "http://orkg.org/orkg/resource/R134126",
+            "The Reactor: A fast and sample-efficient Actor-Critic agent for Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R134171",
+            "Fully Parameterized Quantile Function for Distributional Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R133503",
+            "Asynchronous Methods for Deep Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R133821",
+            "Policy Optimization With Penalized Point Probability Distance: An Alternative To Proximal Policy Optimization",
+            "http://orkg.org/orkg/resource/R132604",
+            "Deep Reinforcement Learning with Double Q-learning",
+            "http://orkg.org/orkg/resource/R133007",
+            "Learning values across many orders of magnitude",
+            "http://orkg.org/orkg/resource/R133107",
+            "Massively Parallel Methods for Deep Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R133307",
+            "Recurrent Rational Networks",
+            "http://orkg.org/orkg/resource/R133207",
+            "Deep Exploration via Bootstrapped DQN",
+            "http://orkg.org/orkg/resource/R133403",
+            "Self-Imitation Learning",
+            "http://orkg.org/orkg/resource/R132399",
+            "Prioritized Experience Replay",
+            "http://orkg.org/orkg/resource/R131980",
+            "Dueling Network Architectures for Deep Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R131877",
+            "A Distributional Perspective on Reinforcement Learning",
+            "http://orkg.org/orkg/resource/R131170",
+            "CURL: Contrastive Unsupervised Representations for Reinforcement Learning"
+        ]
+    },
+    {
+        "id": "AQ2328",
+        "answer": []
+    },
+    {
+        "id": "AQ2411",
+        "answer": [
+            "https://github.com/lucidrains/vit-pytorch",
+            "https://github.com/facebookresearch/deit"
+        ]
+    },
+    {
+        "id": "AQ0040",
+        "answer": []
+    },
+    {
+        "id": "AQ1752",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124901",
+            "Gorila"
+        ]
+    },
+    {
+        "id": "AQ1810",
+        "answer": [
+            "http://orkg.org/orkg/resource/R126036",
+            "BiT-L"
+        ]
+    },
+    {
+        "id": "AQ2418",
+        "answer": [
+            "https://github.com/Janus-Shiau/SAM-tf2",
+            "https://github.com/Jannoshh/simple-sam",
+            "https://github.com/sayakpaul/Sharpness-Aware-Minimization-TensorFlow",
+            "https://github.com/moskomule/sam.pytorch",
+            "https://github.com/google-research/sam",
+            "https://github.com/davda54/sam"
+        ]
+    },
+    {
+        "id": "AQ1073",
+        "answer": [
+            "http://orkg.org/orkg/resource/R120314",
+            "ROUGE-1",
+            "45.09"
+        ]
+    },
+    {
+        "id": "AQ0536",
+        "answer": [
+            "http://orkg.org/orkg/resource/R131170",
+            "CURL: Contrastive Unsupervised Representations for Reinforcement Learning"
+        ]
+    },
+    {
+        "id": "AQ1367",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy",
+            "80.3"
+        ]
+    },
+    {
+        "id": "AQ0015",
+        "answer": [
+            "http://orkg.org/orkg/resource/R226473",
+            "linear-chain CRFs"
+        ]
+    },
+    {
+        "id": "AQ0181",
+        "answer": [
+            "http://orkg.org/orkg/resource/R122632",
+            "MPAD-path",
+            "http://orkg.org/orkg/resource/R122153",
+            "PAR BERT Base",
+            "http://orkg.org/orkg/resource/R119567",
+            "XLNet (single model)",
+            "http://orkg.org/orkg/resource/R122154",
+            "XLNet-Large (ensemble)"
+        ]
+    },
+    {
+        "id": "AQ1134",
+        "answer": [
+            "http://orkg.org/orkg/resource/R115579",
+            "Accuracy (%)",
+            "43.9"
+        ]
+    },
+    {
+        "id": "AQ2348",
+        "answer": [
+            "https://github.com/helenabalabin/covid-19-document-classification",
+            "https://github.com/dki-lab/covid19-classification",
+            "https://github.com/castorini/hedwig"
+        ]
+    },
+    {
+        "id": "AQ0379",
+        "answer": []
+    },
+    {
+        "id": "AQ0209",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119139",
+            "XLNet"
+        ]
+    },
+    {
+        "id": "AQ1029",
+        "answer": []
+    },
+    {
+        "id": "AQ2413",
+        "answer": [
+            "https://github.com/rishikksh20/convolution-vision-transformers",
+            "https://github.com/lucidrains/vit-pytorch"
+        ]
+    },
+    {
+        "id": "AQ2071",
+        "answer": [
+            "https://github.com/kimiyoung/fg-gating"
+        ]
+    },
+    {
+        "id": "AQ1082",
+        "answer": [
+            "http://orkg.org/orkg/resource/R114483",
+            "F1",
+            "71.6"
+        ]
+    },
+    {
+        "id": "AQ0834",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy"
+        ]
+    },
+    {
+        "id": "AQ1405",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116612",
+            "SciBERT (SciVocab)"
+        ]
+    },
+    {
+        "id": "AQ0863",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy"
+        ]
+    },
+    {
+        "id": "AQ1155",
+        "answer": [
+            "http://orkg.org/orkg/resource/R114483",
+            "F1",
+            "76.5"
+        ]
+    },
+    {
+        "id": "AQ1116",
+        "answer": [
+            "http://orkg.org/orkg/resource/R117121",
+            "BLEU score",
+            "31.4"
+        ]
+    },
+    {
+        "id": "AQ0439",
+        "answer": [
+            "http://orkg.org/orkg/resource/R129958",
+            "Self-Supervised MultiModal Versatile Networks"
+        ]
+    },
+    {
+        "id": "AQ0473",
+        "answer": [
+            "http://orkg.org/orkg/resource/R130466",
+            "Data-to-Text Generation with Content Selection and Planning",
+            "http://orkg.org/orkg/resource/R130479",
+            "Challenges in Data-to-Document Generation",
+            "http://orkg.org/orkg/resource/R130451",
+            "A Hierarchical Model for Data-to-Text Generation"
+        ]
+    },
+    {
+        "id": "HQ0058",
+        "answer": [
+            "0.77",
+            "0.58",
+            "0.66",
+            "0.72",
+            "0.90",
+            "0.80",
+            "0.28",
+            "0.62",
+            "0.39",
+            "0.67",
+            "0.58",
+            "0.62",
+            "0.67",
+            "0.64",
+            "0.65",
+            "0.71",
+            "0.79",
+            "0.75",
+            "0.20",
+            "1.00",
+            "0.33",
+            "0.89",
+            "0.81",
+            "0.85"
+        ]
+    },
+    {
+        "id": "AQ0551",
+        "answer": [
+            "http://orkg.org/orkg/resource/R131297",
+            "Multi-task Deep Reinforcement Learning with PopArt"
+        ]
+    },
+    {
+        "id": "AQ0425",
+        "answer": [
+            "http://orkg.org/orkg/resource/R129825",
+            "An Effective Approach to Unsupervised Machine Translation",
+            "http://orkg.org/orkg/resource/R129839",
+            "Unsupervised Neural Machine Translation with SMT as Posterior Regularization",
+            "http://orkg.org/orkg/resource/R129853",
+            "Language Models are Few-Shot Learners",
+            "http://orkg.org/orkg/resource/R129654",
+            "Edinburgh Neural Machine Translation Systems for WMT 16",
+            "http://orkg.org/orkg/resource/R129673",
+            "Phrase-Based & Neural Unsupervised Machine Translation",
+            "http://orkg.org/orkg/resource/R129725",
+            "Unsupervised Statistical Machine Translation",
+            "http://orkg.org/orkg/resource/R129787",
+            "Linguistic Input Features Improve Neural Machine Translation",
+            "http://orkg.org/orkg/resource/R129793",
+            "Unsupervised Neural Machine Translation with Weight Sharing",
+            "http://orkg.org/orkg/resource/R129799",
+            "Unsupervised Machine Translation Using Monolingual Corpora Only"
+        ]
+    },
+    {
+        "id": "AQ1227",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score",
+            "841"
+        ]
+    },
+    {
+        "id": "AQ0033",
+        "answer": [
+            "http://orkg.org/orkg/resource/R226473",
+            "linear-chain CRFs"
+        ]
+    },
+    {
+        "id": "AQ2167",
+        "answer": [
+            "https://github.com/sucheta19/Text-Classification-Using-CNN",
+            "https://github.com/zhong110020/Tensorflow-TCN",
+            "https://github.com/khappiya/rnn",
+            "https://github.com/Nic5472K/FriendsOOGroup_TCN",
+            "https://github.com/zll1996/TCN",
+            "https://github.com/anandharaju/Basic_TCN",
+            "https://github.com/zhong110020/TensorFlow_TCN",
+            "https://github.com/linxi159/TCN",
+            "https://github.com/patHutchings/TCN",
+            "https://github.com/zhong110020/keras-tcn",
+            "https://github.com/ZTianle/keras-tcn-solar",
+            "https://github.com/MChen9/TCN",
+            "https://github.com/ShotDownDiane/tcn-master",
+            "https://github.com/DevonFulcher/CryptoPricePredictor",
+            "https://github.com/abduallahmohamed/MCRM",
+            "https://github.com/jxz542189/TCN_classification",
+            "https://github.com/zhong110020/pytorch_TCN",
+            "https://github.com/XiaowanLi2018/TimeSeriesPrediction_BasedOnCNN",
+            "https://github.com/jakeret/tcn",
+            "https://github.com/ashishpatel26/tcn-keras-Examples",
+            "https://github.com/YuanTingHsieh/TF_TCN",
+            "https://github.com/Baichenjia/Tensorflow-TCN",
+            "https://github.com/csteinmetz1/ronn",
+            "https://github.com/Songweiping/TCN-TF",
+            "https://github.com/mhjabreel/CharCnn_Keras",
+            "https://github.com/IndicoDataSolutions/finetune",
+            "https://github.com/philipperemy/keras-tcn",
+            "https://github.com/locuslab/TCN"
+        ]
+    },
+    {
+        "id": "AQ1240",
+        "answer": [
+            "http://orkg.org/orkg/resource/R123734",
+            "FLOPS",
+            "744M",
+            "http://orkg.org/orkg/resource/R116078",
+            "Top-1 Error Rate",
+            "6.2%",
+            "http://orkg.org/orkg/resource/R123735",
+            "PARAMS",
+            "86.4M",
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy",
+            "99.91",
+            "http://orkg.org/orkg/resource/R115579",
+            "Accuracy (%)",
+            "94.3"
+        ]
+    },
+    {
+        "id": "AQ2226",
+        "answer": [
+            "https://github.com/huggingface/transformers",
+            "https://github.com/listenviolet/XLNet",
+            "https://github.com/samwisegamjeee/pytorch-transformers",
+            "https://github.com/huggingface/xlnet",
+            "https://github.com/facebookresearch/anli",
+            "https://github.com/zaradana/Fast_BERT",
+            "https://github.com/pauldevos/python-notes",
+            "https://github.com/tomgoter/nlp_finalproject",
+            "https://github.com/2miatran/Natural-Language-Processing",
+            "https://github.com/fanchenyou/transformer-study",
+            "https://github.com/cuhksz-nlp/SAPar",
+            "https://github.com/studio-ousia/luke",
+            "https://github.com/graykode/xlnet-Pytorch",
+            "https://github.com/utterworks/fast-bert",
+            "https://github.com/kaushaltrivedi/fast-bert",
+            "https://github.com/zihangdai/xlnet"
+        ]
+    },
+    {
+        "id": "AQ2385",
+        "answer": [
+            "https://github.com/jahongir7174/EffcientNetV2",
+            "https://github.com/google/automl/tree/master/efficientnetv2",
+            "https://github.com/lukemelas/EfficientNet-PyTorch",
+            "https://github.com/rwightman/pytorch-image-models"
+        ]
+    },
+    {
+        "id": "AQ0647",
+        "answer": [
+            "http://orkg.org/orkg/resource/R134494",
+            "HDLTex: Hierarchical Deep Learning for Text Classification"
+        ]
+    },
+    {
+        "id": "AQ1168",
+        "answer": [
+            "http://orkg.org/orkg/resource/R120652",
+            "SemEval 2013",
+            "66.2",
+            "http://orkg.org/orkg/resource/R120651",
+            "SemEval 2007",
+            "62.2",
+            "http://orkg.org/orkg/resource/R120653",
+            "SemEval 2015",
+            "71.3",
+            "http://orkg.org/orkg/resource/R120654",
+            "Senseval 2",
+            "71.6",
+            "http://orkg.org/orkg/resource/R120655",
+            "Senseval 3",
+            "69.6"
+        ]
+    },
+    {
+        "id": "AQ1514",
+        "answer": [
+            "http://orkg.org/orkg/resource/R120755",
+            "XLNet (Large)"
+        ]
+    },
+    {
+        "id": "AQ1001",
+        "answer": [
+            "http://orkg.org/orkg/resource/R118364",
+            "Top-1 Accuracy"
+        ]
+    },
+    {
+        "id": "AQ0282",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124920",
+            "ES FF (1 hour) noop",
+            "http://orkg.org/orkg/resource/R124927",
+            "IDVQ + DRSC + XNES",
+            "http://orkg.org/orkg/resource/R123322",
+            "SAC",
+            "http://orkg.org/orkg/resource/R124932",
+            "FQF",
+            "http://orkg.org/orkg/resource/R124950",
+            "Rainbow",
+            "http://orkg.org/orkg/resource/R124948",
+            "MFEC",
+            "http://orkg.org/orkg/resource/R124913",
+            "A3C FF hs",
+            "http://orkg.org/orkg/resource/R124914",
+            "A3C FF (1 day) hs",
+            "http://orkg.org/orkg/resource/R124921",
+            "A3C LSTM hs",
+            "http://orkg.org/orkg/resource/R124915",
+            "DDRL A3C",
+            "http://orkg.org/orkg/resource/R124916",
+            "POP3D",
+            "http://orkg.org/orkg/resource/R124918",
+            "DQN Best",
+            "http://orkg.org/orkg/resource/R124919",
+            "Prior+Duel hs",
+            "http://orkg.org/orkg/resource/R124900",
+            "DDQN+Pop-Art noop",
+            "http://orkg.org/orkg/resource/R124901",
+            "Gorila",
+            "http://orkg.org/orkg/resource/R124902",
+            "Bootstrapped DQN",
+            "http://orkg.org/orkg/resource/R124905",
+            "Recurrent Rational DQN Average",
+            "http://orkg.org/orkg/resource/R124907",
+            "Rational DQN Average",
+            "http://orkg.org/orkg/resource/R124906",
+            "DARQN soft",
+            "http://orkg.org/orkg/resource/R124912",
+            "A2C + SIL",
+            "http://orkg.org/orkg/resource/R124894",
+            "Prior noop",
+            "http://orkg.org/orkg/resource/R124895",
+            "Prior hs",
+            "http://orkg.org/orkg/resource/R124898",
+            "DDQN (tuned) hs",
+            "http://orkg.org/orkg/resource/R124908",
+            "DQN noop",
+            "http://orkg.org/orkg/resource/R124911",
+            "DQN hs",
+            "http://orkg.org/orkg/resource/R124891",
+            "Duel noop",
+            "http://orkg.org/orkg/resource/R124892",
+            "Duel hs",
+            "http://orkg.org/orkg/resource/R124897",
+            "DDQN (tuned) noop",
+            "http://orkg.org/orkg/resource/R124890",
+            "C51 noop",
+            "http://orkg.org/orkg/resource/R119888",
+            "MAC",
+            "http://orkg.org/orkg/resource/R124922",
+            "Prior+Duel noop"
+        ]
+    },
+    {
+        "id": "AQ1430",
+        "answer": [
+            "http://orkg.org/orkg/resource/R117264",
+            "Transformer Big + adversarial MLE"
+        ]
+    },
+    {
+        "id": "AQ0543",
+        "answer": [
+            "http://orkg.org/orkg/resource/R131248",
+            "Mean Actor Critic"
+        ]
+    },
+    {
+        "id": "AQ2308",
+        "answer": [
+            "https://github.com/liuyuezhang/pyrl",
+            "https://github.com/chainer/chainerrl",
+            "https://github.com/aabbeell/reinforcementLearning.a2c.gym",
+            "https://github.com/alexmlamb/blocks_rl_gru_setup",
+            "https://github.com/JulT1/RL_SS19",
+            "https://github.com/ofekluis/sonic_project_ss19",
+            "https://github.com/qihongl/demo-advantage-actor-critic",
+            "https://github.com/AI-RG/rl-experiments",
+            "https://github.com/natsumeS/analysis",
+            "https://github.com/PaulCharnay/Projet_AIF",
+            "https://github.com/Remtasya/DDPG-Actor-Critic-Reinforcement-Learning-Reacher-Environment",
+            "https://github.com/Jzar/Space-Invaders-DQN",
+            "https://github.com/Jventajas/Reinforcement-Learning",
+            "https://github.com/sharan-dce/A3C",
+            "https://github.com/tensorpack/tensorpack/tree/master/examples/A3C-Gym",
+            "https://github.com/hill-a/stable-baselines",
+            "https://github.com/NervanaSystems/coach",
+            "https://github.com/DLR-RM/stable-baselines3",
+            "https://github.com/openai/universe-starter-agent",
+            "https://github.com/ikostrikov/pytorch-a3c",
+            "https://github.com/Khrylx/PyTorch-RL",
+            "https://github.com/miyosuda/async_deep_reinforce",
+            "https://github.com/yukezhu/tensorflow-reinforce",
+            "https://github.com/muupan/async-rl",
+            "https://github.com/marload/DeepRL-TensorFlow2",
+            "https://github.com/marload/deep-rl-tf2",
+            "https://github.com/dickreuter/neuron_poker",
+            "https://github.com/Kaixhin/ACER",
+            "https://github.com/Kaixhin/NoisyNet-A3C",
+            "https://github.com/bentrevett/pytorch-rl",
+            "https://github.com/Nasdin/ReinforcementLearning-AtariGame",
+            "https://github.com/khanhptnk/bandit-nmt",
+            "https://github.com/lcswillems/torch-ac",
+            "https://github.com/arnomoonens/yarll",
+            "https://github.com/traai/async-deep-rl",
+            "https://github.com/deepsense-ai/Distributed-BA3C",
+            "https://github.com/ikostrikov/pytorch-rl",
+            "https://github.com/ShibiHe/Q-Optimality-Tightening",
+            "https://github.com/qihongl/dlstm-demo",
+            "https://github.com/roop-pal/Meta-Learning-for-StarCraft-II-Minigames",
+            "https://github.com/Sheepsody/Batched-Impala-PyTorch",
+            "https://github.com/grananqvist/reinforcement-learning-super-mario-A3C",
+            "https://github.com/vladfi1/universe-starter-agent",
+            "https://github.com/braemt/attentive-multi-task-deep-reinforcement-learning",
+            "https://github.com/4rChon/NL-FuN",
+            "https://github.com/mavischer/DRRL",
+            "https://github.com/avillemin/Minecraft-AI",
+            "https://github.com/dsinghnegi/atari_RL_agent",
+            "https://github.com/InSpaceAI/RL-Zoo",
+            "https://github.com/Zartris/TD3_continuous_control",
+            "https://github.com/cdesilv1/sc2_ai_cdes",
+            "https://github.com/wtingda/DeepRLBreakout",
+            "https://github.com/sainijagjit/A3C-Pytorch",
+            "https://github.com/amanda-lambda/hack-flappy-bird-drl",
+            "https://github.com/haroldmei/pysc2-study",
+            "https://github.com/amanda-lambda/drl-experiments",
+            "https://github.com/gungui98/deeprl-a3c-ai2thor",
+            "https://github.com/wxj77/TransferReinforcementLearning",
+            "https://github.com/amaudruz/RL_openaigym",
+            "https://github.com/hulanwin/A3C-DRL",
+            "https://github.com/joshiatul/game_playing"
+        ]
+    },
+    {
+        "id": "AQ2073",
+        "answer": [
+            "https://github.com/dmlc/gluon-nlp",
+            "https://github.com/LamLauChiu/Tensorflow_Learning",
+            "https://github.com/nlp-research/bilm-tf",
+            "https://github.com/yangzonglin1994/bilm-tf-extended",
+            "https://github.com/weixsong/bilm-tf",
+            "https://github.com/yangrui123/Hidden",
+            "https://github.com/young-zonglin/bilm-tf-extended",
+            "https://github.com/kunde122/bilm-tf",
+            "https://github.com/seunghwan1228/ELMO",
+            "https://github.com/kafura-kafiri/tf2-elmo",
+            "https://github.com/shaneding/bilm-tf-experimentation",
+            "https://github.com/ankurbanga/Language-Models",
+            "https://github.com/richinkabra/CoVe-BCN",
+            "https://github.com/kinimod23/NMT_Project",
+            "https://github.com/ajovanov95/probabilistic-spiking-neural-networks",
+            "https://github.com/cheng18/bilm-tf",
+            "https://github.com/sarveshsparab/DeepElmoEmbedNer",
+            "https://github.com/shelleyHLX/bilm_EMLo",
+            "https://github.com/mingdachen/bilm-tf",
+            "https://github.com/menajosep/AleatoricSent",
+            "https://github.com/TEAMLAB-Lecture/deep_nlp_101",
+            "https://github.com/yuanjing-zhu/elmo",
+            "https://github.com/bestend/tf2-bi-lstm-crf-nni",
+            "https://github.com/AshwinDeshpande96/Hierarchical-Softmax",
+            "https://github.com/SeonbeomKim/TensorFlow-ELMo",
+            "https://github.com/griff4692/LMC",
+            "https://github.com/RundongChou/elmo-chinese-oversimplified",
+            "https://github.com/zenanz/ChemPatentEmbeddings",
+            "https://github.com/horizonheart/ELMO",
+            "https://github.com/kaist-dmlab/BioNER",
+            "https://github.com/yuanxiaosc/ELMo",
+            "https://github.com/JHart96/keras_elmo_embedding_layer",
+            "https://github.com/YC-wind/embedding_study",
+            "https://github.com/helboukkouri/character-bert",
+            "https://github.com/iliaschalkidis/ELMo-keras",
+            "https://github.com/PrashantRanjan09/Elmo-Tutorial",
+            "https://github.com/PrashantRanjan09/WordEmbeddings-Elmo-Fasttext-Word2Vec",
+            "https://github.com/UKPLab/elmo-bilstm-cnn-crf",
+            "https://github.com/HIT-SCIR/ELMoForManyLangs",
+            "https://github.com/Hironsan/anago",
+            "https://github.com/allenai/bilm-tf",
+            "https://github.com/zalandoresearch/flair",
+            "https://github.com/flairNLP/flair"
+        ]
+    },
+    {
+        "id": "AQ0874",
+        "answer": [
+            "http://orkg.org/orkg/resource/R122892",
+            "F1 entity level"
+        ]
+    },
+    {
+        "id": "AQ2203",
+        "answer": [
+            "https://github.com/AtheMathmo/lookahead-lstm",
+            "https://github.com/philippwirth/awd-lstm-test",
+            "https://github.com/soyoung97/awd-lstm-gru",
+            "https://github.com/arvieFrydenlund/awd-lstm-lm",
+            "https://github.com/llppff/ptb-lstmorqrnn-pytorch",
+            "https://github.com/ari-holtzman/genlm",
+            "https://github.com/philippwirth/treelangrnn",
+            "https://github.com/SachinIchake/KALM",
+            "https://github.com/salesforce/awd-lstm-lm",
+            "https://github.com/Han-JD/GRU-D"
+        ]
+    },
+    {
+        "id": "AQ0301",
+        "answer": [
+            "http://orkg.org/orkg/resource/R125975",
+            "HDLTex"
+        ]
+    },
+    {
+        "id": "AQ0410",
+        "answer": [
+            "http://orkg.org/orkg/resource/R129390",
+            "Effective Modeling of Encoder-Decoder Architecture for Joint Entity and Relation Extraction",
+            "http://orkg.org/orkg/resource/R129399",
+            "A Hierarchical Framework for Relation Extraction with Reinforcement Learning"
+        ]
+    },
+    {
+        "id": "AQ1878",
+        "answer": [
+            "http://orkg.org/orkg/resource/R123467",
+            "Habitat 2020 Point Nav test-std",
+            "http://orkg.org/orkg/resource/R123476",
+            "Habitat 2020 Object Nav test-std"
+        ]
+    },
+    {
+        "id": "AQ0039",
+        "answer": []
+    },
+    {
+        "id": "AQ0298",
+        "answer": [
+            "http://orkg.org/orkg/resource/R125945",
+            "ApproxRepSet"
+        ]
+    },
+    {
+        "id": "AQ2274",
+        "answer": [
+            "https://github.com/huggingface/transformers",
+            "https://github.com/ibrahim-elsawy/test",
+            "https://github.com/vdavid033/Pegasus-Google-",
+            "https://github.com/rsin46/pegasus-demo",
+            "https://github.com/amiyamandal-dev/pegasus",
+            "https://github.com/ManuMahadevaswamy/PEGASUS",
+            "https://github.com/jiacheng-xu/text-sum-uncertainty",
+            "https://github.com/google-research/pegasus"
+        ]
+    },
+    {
+        "id": "AQ1873",
+        "answer": [
+            "http://orkg.org/orkg/resource/R122332",
+            "AudioSet",
+            "http://orkg.org/orkg/resource/R121347",
+            "ImageNet",
+            "http://orkg.org/orkg/resource/R127290",
+            "ModelNet40",
+            "http://orkg.org/orkg/resource/R122340",
+            "ESC-50",
+            "http://orkg.org/orkg/resource/R118532",
+            "Multimodal PISA"
+        ]
+    },
+    {
+        "id": "AQ1229",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score",
+            "178.3"
+        ]
+    },
+    {
+        "id": "AQ0537",
+        "answer": [
+            "http://orkg.org/orkg/resource/R131170",
+            "CURL: Contrastive Unsupervised Representations for Reinforcement Learning"
+        ]
+    },
+    {
+        "id": "AQ1622",
+        "answer": [
+            "http://orkg.org/orkg/resource/R126160",
+            "BiT-L (ResNet)"
+        ]
+    },
+    {
+        "id": "AQ1088",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116628",
+            "RE Micro F1",
+            "67.6",
+            "http://orkg.org/orkg/resource/R116637",
+            "Sentence Encoder",
+            "biLSTM",
+            "http://orkg.org/orkg/resource/R116646",
+            "Relation F1",
+            "67.8",
+            "http://orkg.org/orkg/resource/R116617",
+            "NER Micro F1",
+            "89.5",
+            "http://orkg.org/orkg/resource/R116619",
+            "RE+ Micro F1",
+            "64.3"
+        ]
+    },
+    {
+        "id": "AQ0978",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119433",
+            "Error"
+        ]
+    },
+    {
+        "id": "AQ1287",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score",
+            "957"
+        ]
+    },
+    {
+        "id": "AQ0837",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116794",
+            "Bit per Character (BPC)",
+            "http://orkg.org/orkg/resource/R115739",
+            "Number of params"
+        ]
+    },
+    {
+        "id": "AQ1069",
+        "answer": []
+    },
+    {
+        "id": "AQ1296",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score",
+            "9300.0"
+        ]
+    },
+    {
+        "id": "AQ2142",
+        "answer": [
+            "https://github.com/huggingface/transformers",
+            "https://github.com/benkrause/dynamiceval-transformer",
+            "https://github.com/Machine-Learning-Tokyo/Poetry-GAN",
+            "https://github.com/Jmkernes/PAR-Transformer-XL",
+            "https://github.com/listenviolet/XLNet",
+            "https://github.com/samwisegamjeee/pytorch-transformers",
+            "https://github.com/cmunnis/BERT_vs_Transformer-XL",
+            "https://github.com/zhdbwe/Paper-DailyReading",
+            "https://github.com/cedrickchee/pytorch-pretrained-BERT",
+            "https://github.com/threelittlemonkeys/transformer-pytorch",
+            "https://github.com/huggingface/xlnet",
+            "https://github.com/inzva/fake-academic-paper-generation",
+            "https://github.com/sooftware/Attention-Implementation",
+            "https://github.com/sooftware/nlp-attentions",
+            "https://github.com/sh951011/Attention-Implementation",
+            "https://github.com/TimDettmers/transformer-xl",
+            "https://github.com/okkteam/Transformer-Transducer",
+            "https://github.com/facebookresearch/code-prediction-transformer",
+            "https://github.com/wxt1997/Transformer-Transducer",
+            "https://github.com/sooftware/conformer",
+            "https://github.com/lab-ml/nn/tree/master/labml_nn/transformers/xl",
+            "https://github.com/kimiyoung/transformer-xl"
+        ]
+    },
+    {
+        "id": "AQ1718",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124908",
+            "DQN noop"
+        ]
+    },
+    {
+        "id": "AQ0336",
+        "answer": [
+            "http://orkg.org/orkg/resource/R128071",
+            "AxCell",
+            "http://orkg.org/orkg/resource/R128075",
+            "TDMS-IE"
+        ]
+    },
+    {
+        "id": "AQ0163",
+        "answer": [
+            "http://orkg.org/orkg/resource/R121352",
+            "GR-ConvNet"
+        ]
+    },
+    {
+        "id": "AQ1009",
+        "answer": [
+            "http://orkg.org/orkg/resource/R115539",
+            "Top 5 Accuracy",
+            "http://orkg.org/orkg/resource/R118364",
+            "Top-1 Accuracy"
+        ]
+    },
+    {
+        "id": "AQ0492",
+        "answer": [
+            "http://orkg.org/orkg/resource/R130498",
+            "Dynamic Evaluation of Transformer Language Models",
+            "http://orkg.org/orkg/resource/R130521",
+            "When Attention Meets Fast Recurrence: Training Language Models with Reduced Compute",
+            "http://orkg.org/orkg/resource/R130545",
+            "Addressing Some Limitations of Transformers with Feedback Memory",
+            "http://orkg.org/orkg/resource/R130563",
+            "Improving Transformer Models by Reordering their Sublayers",
+            "http://orkg.org/orkg/resource/R130572",
+            "Compressive Transformers for Long-Range Sequence Modelling",
+            "http://orkg.org/orkg/resource/R130584",
+            "Adaptive Attention Span in Transformers",
+            "http://orkg.org/orkg/resource/R130601",
+            "Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context",
+            "http://orkg.org/orkg/resource/R130652",
+            "Longformer: The Long-Document Transformer",
+            "http://orkg.org/orkg/resource/R130669",
+            "Augmenting Self-attention with Persistent Memory",
+            "http://orkg.org/orkg/resource/R130689",
+            "Character-Level Language Modeling with Deeper Self-Attention",
+            "http://orkg.org/orkg/resource/R130712",
+            "An Analysis of Neural Language Modeling at Multiple Scales",
+            "http://orkg.org/orkg/resource/R130733",
+            "Multiplicative LSTM for sequence modelling",
+            "http://orkg.org/orkg/resource/R130749",
+            "Fast-Slow Recurrent Neural Networks",
+            "http://orkg.org/orkg/resource/R130768",
+            "Hierarchical Multiscale Recurrent Neural Networks",
+            "http://orkg.org/orkg/resource/R130777",
+            "HyperNetworks",
+            "http://orkg.org/orkg/resource/R129926",
+            "Generating Long Sequences with Sparse Transformers",
+            "http://orkg.org/orkg/resource/R130209",
+            "Cluster-Former: Clustering-based Sparse Transformer for Long-Range Dependency Encoding"
+        ]
+    },
+    {
+        "id": "AQ1654",
+        "answer": [
+            "http://orkg.org/orkg/resource/R126666",
+            "ImageNet + iNat on WS-DAN"
+        ]
+    },
+    {
+        "id": "AQ0964",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score"
+        ]
+    },
+    {
+        "id": "AQ0279",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124920",
+            "ES FF (1 hour) noop",
+            "http://orkg.org/orkg/resource/R123322",
+            "SAC",
+            "http://orkg.org/orkg/resource/R124913",
+            "A3C FF hs",
+            "http://orkg.org/orkg/resource/R124914",
+            "A3C FF (1 day) hs",
+            "http://orkg.org/orkg/resource/R124921",
+            "A3C LSTM hs",
+            "http://orkg.org/orkg/resource/R124916",
+            "POP3D",
+            "http://orkg.org/orkg/resource/R124926",
+            "Rainbow+SEER",
+            "http://orkg.org/orkg/resource/R124919",
+            "Prior+Duel hs",
+            "http://orkg.org/orkg/resource/R124900",
+            "DDQN+Pop-Art noop",
+            "http://orkg.org/orkg/resource/R124901",
+            "Gorila",
+            "http://orkg.org/orkg/resource/R124902",
+            "Bootstrapped DQN",
+            "http://orkg.org/orkg/resource/R124912",
+            "A2C + SIL",
+            "http://orkg.org/orkg/resource/R124894",
+            "Prior noop",
+            "http://orkg.org/orkg/resource/R124895",
+            "Prior hs",
+            "http://orkg.org/orkg/resource/R124898",
+            "DDQN (tuned) hs",
+            "http://orkg.org/orkg/resource/R124908",
+            "DQN noop",
+            "http://orkg.org/orkg/resource/R124911",
+            "DQN hs",
+            "http://orkg.org/orkg/resource/R124891",
+            "Duel noop",
+            "http://orkg.org/orkg/resource/R124892",
+            "Duel hs",
+            "http://orkg.org/orkg/resource/R124890",
+            "C51 noop",
+            "http://orkg.org/orkg/resource/R124897",
+            "DDQN (tuned) noop",
+            "http://orkg.org/orkg/resource/R123293",
+            "CURL",
+            "http://orkg.org/orkg/resource/R124922",
+            "Prior+Duel noop"
+        ]
+    },
+    {
+        "id": "AQ0281",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124920",
+            "ES FF (1 hour) noop",
+            "http://orkg.org/orkg/resource/R124931",
+            "Reactor 500M",
+            "http://orkg.org/orkg/resource/R124913",
+            "A3C FF hs",
+            "http://orkg.org/orkg/resource/R124914",
+            "A3C FF (1 day) hs",
+            "http://orkg.org/orkg/resource/R124921",
+            "A3C LSTM hs",
+            "http://orkg.org/orkg/resource/R124915",
+            "DDRL A3C",
+            "http://orkg.org/orkg/resource/R124916",
+            "POP3D",
+            "http://orkg.org/orkg/resource/R124919",
+            "Prior+Duel hs",
+            "http://orkg.org/orkg/resource/R124900",
+            "DDQN+Pop-Art noop",
+            "http://orkg.org/orkg/resource/R124901",
+            "Gorila",
+            "http://orkg.org/orkg/resource/R124902",
+            "Bootstrapped DQN",
+            "http://orkg.org/orkg/resource/R124912",
+            "A2C + SIL",
+            "http://orkg.org/orkg/resource/R124894",
+            "Prior noop",
+            "http://orkg.org/orkg/resource/R124895",
+            "Prior hs",
+            "http://orkg.org/orkg/resource/R124898",
+            "DDQN (tuned) hs",
+            "http://orkg.org/orkg/resource/R124908",
+            "DQN noop",
+            "http://orkg.org/orkg/resource/R124911",
+            "DQN hs",
+            "http://orkg.org/orkg/resource/R124891",
+            "Duel noop",
+            "http://orkg.org/orkg/resource/R124892",
+            "Duel hs",
+            "http://orkg.org/orkg/resource/R124890",
+            "C51 noop",
+            "http://orkg.org/orkg/resource/R124897",
+            "DDQN (tuned) noop",
+            "http://orkg.org/orkg/resource/R123293",
+            "CURL",
+            "http://orkg.org/orkg/resource/R124922",
+            "Prior+Duel noop"
+        ]
+    },
+    {
+        "id": "AQ0762",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116443",
+            "BLEU",
+            "http://orkg.org/orkg/resource/R117121",
+            "BLEU score"
+        ]
+    },
+    {
+        "id": "AQ0329",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124053",
+            "Massively Multilingual Sentence Embeddings"
+        ]
+    },
+    {
+        "id": "AQ2081",
+        "answer": [
+            "https://github.com/dmlc/gluon-nlp",
+            "https://github.com/LamLauChiu/Tensorflow_Learning",
+            "https://github.com/nlp-research/bilm-tf",
+            "https://github.com/yangzonglin1994/bilm-tf-extended",
+            "https://github.com/weixsong/bilm-tf",
+            "https://github.com/yangrui123/Hidden",
+            "https://github.com/young-zonglin/bilm-tf-extended",
+            "https://github.com/kunde122/bilm-tf",
+            "https://github.com/seunghwan1228/ELMO",
+            "https://github.com/kafura-kafiri/tf2-elmo",
+            "https://github.com/shaneding/bilm-tf-experimentation",
+            "https://github.com/ankurbanga/Language-Models",
+            "https://github.com/richinkabra/CoVe-BCN",
+            "https://github.com/kinimod23/NMT_Project",
+            "https://github.com/ajovanov95/probabilistic-spiking-neural-networks",
+            "https://github.com/cheng18/bilm-tf",
+            "https://github.com/sarveshsparab/DeepElmoEmbedNer",
+            "https://github.com/shelleyHLX/bilm_EMLo",
+            "https://github.com/mingdachen/bilm-tf",
+            "https://github.com/menajosep/AleatoricSent",
+            "https://github.com/TEAMLAB-Lecture/deep_nlp_101",
+            "https://github.com/yuanjing-zhu/elmo",
+            "https://github.com/bestend/tf2-bi-lstm-crf-nni",
+            "https://github.com/AshwinDeshpande96/Hierarchical-Softmax",
+            "https://github.com/SeonbeomKim/TensorFlow-ELMo",
+            "https://github.com/griff4692/LMC",
+            "https://github.com/RundongChou/elmo-chinese-oversimplified",
+            "https://github.com/zenanz/ChemPatentEmbeddings",
+            "https://github.com/horizonheart/ELMO",
+            "https://github.com/kaist-dmlab/BioNER",
+            "https://github.com/yuanxiaosc/ELMo",
+            "https://github.com/JHart96/keras_elmo_embedding_layer",
+            "https://github.com/YC-wind/embedding_study",
+            "https://github.com/helboukkouri/character-bert",
+            "https://github.com/iliaschalkidis/ELMo-keras",
+            "https://github.com/PrashantRanjan09/Elmo-Tutorial",
+            "https://github.com/PrashantRanjan09/WordEmbeddings-Elmo-Fasttext-Word2Vec",
+            "https://github.com/UKPLab/elmo-bilstm-cnn-crf",
+            "https://github.com/HIT-SCIR/ELMoForManyLangs",
+            "https://github.com/Hironsan/anago",
+            "https://github.com/allenai/bilm-tf",
+            "https://github.com/zalandoresearch/flair",
+            "https://github.com/flairNLP/flair"
+        ]
+    },
+    {
+        "id": "AQ0233",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124688",
+            "PEGASUS"
+        ]
+    },
+    {
+        "id": "AQ0645",
+        "answer": [
+            "http://orkg.org/orkg/resource/R129608",
+            "Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing",
+            "http://orkg.org/orkg/resource/R129632",
+            "Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets"
+        ]
+    },
+    {
+        "id": "AQ2176",
+        "answer": [
+            "https://github.com/Jmkernes/PAR-Transformer-XL",
+            "https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling"
+        ]
+    },
+    {
+        "id": "AQ2060",
+        "answer": []
+    },
+    {
+        "id": "AQ1953",
+        "answer": [
+            "https://github.com/jd-coderepos/cl-titles-parser"
+        ]
+    },
+    {
+        "id": "AQ0206",
+        "answer": [
+            "http://orkg.org/orkg/resource/R123477",
+            "SemExp",
+            "http://orkg.org/orkg/resource/R123478",
+            "RGBD+DD-PPO"
+        ]
+    },
+    {
+        "id": "AQ0235",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124913",
+            "A3C FF hs",
+            "http://orkg.org/orkg/resource/R124914",
+            "A3C FF (1 day) hs",
+            "http://orkg.org/orkg/resource/R124921",
+            "A3C LSTM hs",
+            "http://orkg.org/orkg/resource/R124916",
+            "POP3D",
+            "http://orkg.org/orkg/resource/R124927",
+            "IDVQ + DRSC + XNES",
+            "http://orkg.org/orkg/resource/R124920",
+            "ES FF (1 hour) noop",
+            "http://orkg.org/orkg/resource/R124919",
+            "Prior+Duel hs",
+            "http://orkg.org/orkg/resource/R124900",
+            "DDQN+Pop-Art noop",
+            "http://orkg.org/orkg/resource/R124901",
+            "Gorila",
+            "http://orkg.org/orkg/resource/R124902",
+            "Bootstrapped DQN",
+            "http://orkg.org/orkg/resource/R124912",
+            "A2C + SIL",
+            "http://orkg.org/orkg/resource/R124895",
+            "Prior hs",
+            "http://orkg.org/orkg/resource/R124898",
+            "DDQN (tuned) hs",
+            "http://orkg.org/orkg/resource/R124908",
+            "DQN noop",
+            "http://orkg.org/orkg/resource/R124911",
+            "DQN hs",
+            "http://orkg.org/orkg/resource/R124892",
+            "Duel hs",
+            "http://orkg.org/orkg/resource/R124897",
+            "DDQN (tuned) noop",
+            "http://orkg.org/orkg/resource/R124922",
+            "Prior+Duel noop",
+            "http://orkg.org/orkg/resource/R124894",
+            "Prior noop",
+            "http://orkg.org/orkg/resource/R124890",
+            "C51 noop",
+            "http://orkg.org/orkg/resource/R124891",
+            "Duel noop"
+        ]
+    },
+    {
+        "id": "AQ1285",
+        "answer": [
+            "http://orkg.org/orkg/resource/R119875",
+            "Score",
+            "4.4"
+        ]
+    },
+    {
+        "id": "AQ0250",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124920",
+            "ES FF (1 hour) noop",
+            "http://orkg.org/orkg/resource/R124932",
+            "FQF",
+            "http://orkg.org/orkg/resource/R124948",
+            "MFEC",
+            "http://orkg.org/orkg/resource/R124913",
+            "A3C FF hs",
+            "http://orkg.org/orkg/resource/R124914",
+            "A3C FF (1 day) hs",
+            "http://orkg.org/orkg/resource/R124916",
+            "POP3D",
+            "http://orkg.org/orkg/resource/R124919",
+            "Prior+Duel hs",
+            "http://orkg.org/orkg/resource/R124900",
+            "DDQN+Pop-Art noop",
+            "http://orkg.org/orkg/resource/R124901",
+            "Gorila",
+            "http://orkg.org/orkg/resource/R124902",
+            "Bootstrapped DQN",
+            "http://orkg.org/orkg/resource/R124912",
+            "A2C + SIL",
+            "http://orkg.org/orkg/resource/R124921",
+            "A3C LSTM hs",
+            "http://orkg.org/orkg/resource/R124895",
+            "Prior hs",
+            "http://orkg.org/orkg/resource/R124898",
+            "DDQN (tuned) hs",
+            "http://orkg.org/orkg/resource/R124908",
+            "DQN noop",
+            "http://orkg.org/orkg/resource/R124911",
+            "DQN hs",
+            "http://orkg.org/orkg/resource/R124892",
+            "Duel hs",
+            "http://orkg.org/orkg/resource/R124897",
+            "DDQN (tuned) noop",
+            "http://orkg.org/orkg/resource/R124922",
+            "Prior+Duel noop",
+            "http://orkg.org/orkg/resource/R124894",
+            "Prior noop",
+            "http://orkg.org/orkg/resource/R124890",
+            "C51 noop",
+            "http://orkg.org/orkg/resource/R124891",
+            "Duel noop"
+        ]
+    },
+    {
+        "id": "AQ2221",
+        "answer": [
+            "https://github.com/571502680/robot-grasp-detection"
+        ]
+    },
+    {
+        "id": "AQ0240",
+        "answer": [
+            "http://orkg.org/orkg/resource/R123322",
+            "SAC",
+            "http://orkg.org/orkg/resource/R124932",
+            "FQF",
+            "http://orkg.org/orkg/resource/R124950",
+            "Rainbow",
+            "http://orkg.org/orkg/resource/R124948",
+            "MFEC",
+            "http://orkg.org/orkg/resource/R124913",
+            "A3C FF hs",
+            "http://orkg.org/orkg/resource/R124914",
+            "A3C FF (1 day) hs",
+            "http://orkg.org/orkg/resource/R124921",
+            "A3C LSTM hs",
+            "http://orkg.org/orkg/resource/R124916",
+            "POP3D",
+            "http://orkg.org/orkg/resource/R124919",
+            "Prior+Duel hs",
+            "http://orkg.org/orkg/resource/R124900",
+            "DDQN+Pop-Art noop",
+            "http://orkg.org/orkg/resource/R124901",
+            "Gorila",
+            "http://orkg.org/orkg/resource/R124902",
+            "Bootstrapped DQN",
+            "http://orkg.org/orkg/resource/R115591",
+            "VPN",
+            "http://orkg.org/orkg/resource/R124912",
+            "A2C + SIL",
+            "http://orkg.org/orkg/resource/R124895",
+            "Prior hs",
+            "http://orkg.org/orkg/resource/R124898",
+            "DDQN (tuned) hs",
+            "http://orkg.org/orkg/resource/R124908",
+            "DQN noop",
+            "http://orkg.org/orkg/resource/R124911",
+            "DQN hs",
+            "http://orkg.org/orkg/resource/R124892",
+            "Duel hs",
+            "http://orkg.org/orkg/resource/R124897",
+            "DDQN (tuned) noop",
+            "http://orkg.org/orkg/resource/R124922",
+            "Prior+Duel noop",
+            "http://orkg.org/orkg/resource/R124894",
+            "Prior noop",
+            "http://orkg.org/orkg/resource/R124890",
+            "C51 noop",
+            "http://orkg.org/orkg/resource/R124891",
+            "Duel noop",
+            "http://orkg.org/orkg/resource/R123293",
+            "CURL"
+        ]
+    },
+    {
+        "id": "AQ0892",
+        "answer": [
+            "http://orkg.org/orkg/resource/R123469",
+            "DISTANCE_TO_GOAL",
+            "http://orkg.org/orkg/resource/R123470",
+            "SOFT_SPL",
+            "http://orkg.org/orkg/resource/R123471",
+            "SPL",
+            "http://orkg.org/orkg/resource/R123472",
+            "SUCCESS"
+        ]
+    },
+    {
+        "id": "AQ1216",
+        "answer": [
+            "http://orkg.org/orkg/resource/R114483",
+            "F1",
+            "86.6",
+            "http://orkg.org/orkg/resource/R122892",
+            "F1 entity level",
+            "86.63"
+        ]
+    },
+    {
+        "id": "AQ0778",
+        "answer": [
+            "http://orkg.org/orkg/resource/R117687",
+            "Bits per dim"
+        ]
+    },
+    {
+        "id": "AQ0635",
+        "answer": [
+            "http://orkg.org/orkg/resource/R130126",
+            "XLNet: Generalized Autoregressive Pretraining for Language Understanding"
+        ]
+    },
+    {
+        "id": "AQ1994",
+        "answer": [
+            "https://github.com/AndrewSukhobok95/DL_GraphEntity_project",
+            "https://github.com/truthless11/HRL-RE"
+        ]
+    },
+    {
+        "id": "AQ2277",
+        "answer": [
+            "https://github.com/EdinburghNLP/XSum",
+            "https://github.com/shashiongithub/XSum"
+        ]
+    },
+    {
+        "id": "AQ1733",
+        "answer": [
+            "http://orkg.org/orkg/resource/R124895",
+            "Prior hs"
+        ]
+    },
+    {
+        "id": "AQ1169",
+        "answer": [
+            "http://orkg.org/orkg/resource/R111697",
+            "Accuracy",
+            "49.4"
+        ]
+    },
+    {
+        "id": "AQ1864",
+        "answer": [
+            "http://orkg.org/orkg/resource/R120580",
+            "OpenBookQA",
+            "http://orkg.org/orkg/resource/R119541",
+            "CommonsenseQA"
+        ]
+    },
+    {
+        "id": "AQ1087",
+        "answer": [
+            "http://orkg.org/orkg/resource/R116628",
+            "RE Micro F1",
+            "63.3",
+            "http://orkg.org/orkg/resource/R114483",
+            "F1",
+            "90.3",
+            "http://orkg.org/orkg/resource/R116617",
+            "NER Micro F1",
+            "88.6",
+            "http://orkg.org/orkg/resource/R116619",
+            "RE+ Micro F1",
+            "59.6"
+        ]
+    }
+]
