@@ -46,7 +46,9 @@ def evaluate_dblp(gold_answers, system_answers):
                 false_n += 1
     precision = true_p/(true_p+false_p+0.000001)
     recall = true_p/(true_p+false_n+0.000001)
-    f1 = (2*precision*recall)/(precision+recall)
+    f1 = 0.0
+    if precision+recall != 0:
+        f1 = (2*precision*recall)/(precision+recall)
 
     return precision,recall,f1
 
