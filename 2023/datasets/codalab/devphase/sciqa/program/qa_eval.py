@@ -3,6 +3,7 @@ import json
 import math
 from collections import Counter
 import sys
+import os
 
 def load_gold_stardard(gold_path):
     gold_answers = dict()
@@ -53,26 +54,20 @@ def evaluate_dblp(gold_answers, system_answers):
     return precision,recall,f1
 
 
-def arg_parser():
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--gt', type=str,
-                        help='ground truth JSON file')
-    parser.add_argument('--so', type=str,
-                        help='system output JSON file')
-    args = parser.parse_args()
-    return args
-
-
-def main(args):
-    system_path = args.so
-    gt_path = args.gt
+def main():
+    input_dir = sys.argv[1]
+    output_dir = sys.argv[2]
+    gt_path = os.path.join(os.path.join(input_dir,'ref'),'answer.txt')
+    system_path = os.path.join(os.path.join(input_dir,'res'),'answer.txt')
     print(f"Config:\n\tGround truth: {gt_path}\n\tSystem path: {system_path}")
     gold_answers = load_gold_stardard(gt_path)
     system_answers = load_system_answers(system_path)
     precision, recall, f1 = evaluate_dblp(gold_answers, system_answers)
-
     print(f"\nResults:\n\tPrecision: {round(precision, 5)}\n\tRecall: {round(recall, 5)}\n\tF1: {round(f1, 5)}")
+    f = open(os.path.join(output_dir,'scores.txt'),'w')
+    f.write("F1: %f"%(f1))
+    f.close()
 
 
 if __name__ == "__main__":
-    main(arg_parser())
+    main()

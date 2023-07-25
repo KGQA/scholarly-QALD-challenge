@@ -452,20 +452,8 @@ LC-QuAD
                 </td>
                 <td class="right aligned">2023</td>
               </tr>
-
               <tr>
-                <td class="collapsing" colspan="2"> Task 1: SciQA (KG = ORGK)</td>
-              </tr>
-
-              <tr>
-                <td class="collapsing">
-                   ORKG <br/> Dataset
-                </td>
-                <td class="left aligned">Base: 100 handcrafted QA pairs<br/>Synthetisized: 2,000</td>
-              </tr>
-
-              <tr>
-                <td class="collapsing" colspan="2"> Task 2: DBLP-QUAD (KG = DBLP)</td>
+                <td class="collapsing" colspan="2"> Task 1: DBLP-QUAD (KG = DBLP)</td>
               </tr>
 
               <tr>
@@ -475,7 +463,19 @@ LC-QuAD
                 <td class="left aligned">Base: 10,000 Question - SPARQL pairs</td>
               </tr>
  
-            </tbody>
+
+              <tr>
+                <td class="collapsing" colspan="2"> Task 2: SciQA (KG = ORGK)</td>
+              </tr>
+
+              <tr>
+                <td class="collapsing">
+                   ORKG <br/> Dataset
+                </td>
+                <td class="left aligned">Base: 100 handcrafted QA pairs<br/>Synthetisized: 2,000</td>
+              </tr>
+
+                          </tbody>
 
           </table>
 
@@ -532,9 +532,9 @@ LC-QuAD
             <p>
             Thus, in its first iteration at ISWC 2023, we have two independent tasks:
             </p>
-            <p><em><b>Task 1: SciQA — Question Answering of Scholarly Knowledge:</b></em>  This new task introduced this year will use a scholarly data source <a href="https://orkg.org">ORKG</a> as a target repository for answering comparative questions. </p>
-            <p><em><b>Task 2: DBLP-QUAD — Knowledge Graph Question Answering over DBLP:</b></em> For this task, participants will use the DBLP-QUAD dataset, which consists of 10,000 question-SPARQL pairs, and is answerable over the DBLP Knowledge Graph.</p>
+	    <p><em><b>Task 1: DBLP-QUAD — Knowledge Graph Question Answering over DBLP:</b></em> For this task, participants will use the DBLP-QUAD dataset, which consists of 10,000 question-SPARQL pairs, and is answerable over the DBLP Knowledge Graph. The task is hosted on <a href="https://codalab.lisn.upsaclay.fr/competitions/14264">https://codalab.lisn.upsaclay.fr/competitions/14264</a>.</p>
             
+	    <p><em><b>Task 2: SciQA — Question Answering of Scholarly Knowledge:</b></em>  This new task introduced this year will use a scholarly data source <a href="http://orkg.org">ORKG</a> as a target repository for answering comparative questions. The task is hosted on <a href="https://codalab.lisn.upsaclay.fr/competitions/14759">https://codalab.lisn.upsaclay.fr/competitions/14759</a>.  </p>
             <!-- PROCEEDINGS ANNOUNCEMENT GOES HERE -->
           </div>
         </div>
@@ -926,42 +926,8 @@ LC-QuAD
 
           <!--          <h2 class="ui header"><span id="funny">༼ つ ◕_◕ ༽つ</span></h2>-->
           <h2 class="ui header">Dataset</h2>
-          <h3>Task 1: SciQA — Question Answering of Scholarly Knowledge</h3>
-          <div id="dataset-desc">
-            <p>This new task introduced this year will use a scholarly data source <a href="https://orkg.org">ORKG</a> as a target repository for answering comparative questions. KGQA benchmarks and systems were so far mainly geared towards encyclopedic knowledge graphs such as DBpedia and Wikidata. </p>
-            <p>In this task, we will leverage a novel QA benchmark for scholarly knowledge – SciQA (<a href="https://zenodo.org/record/7744048">https://zenodo.org/record/7744048</a>), see also <a href="https://huggingface.co/datasets/orkg/SciQA">https://huggingface.co/datasets/orkg/SciQA</a>. The benchmark leverages the Open Research Knowledge Graph (ORKG) which includes over 100,000 resources describing complex research contributions. 
 
-
-	    The dataset contains 1,795 train, 257 validation and 513 test questions respectively. 
-
-        <pre style="background-color: seashell"><code>
-{
-    "id": "AQ2193",
-    "query_type": "Factoid",
-    "question": {
-        "string": "Can you provide links to code used in papers that benchmark the 
-	           Transformer-XL Base model?"
-    },
-    "paraphrased_question": [],
-    "query": {
-        "sparql": "SELECT DISTINCT ?code WHERE { ?model a orkgc:Model;
-	                                                rdfs:label ?model_lbl.  
-					 FILTER (str(?model_lbl) = "Transformer-XL Base")  
-					 ?benchmark      orkgp:HAS_DATASET        ?dataset.  
-					 ?cont           orkgp:HAS_BENCHMARK      ?benchmark.  
-					 ?cont           orkgp:HAS_MODEL          ?model;                  
-					 orkgp:HAS_SOURCE_CODE    ?code.
-		  }"
-    },
-    "template_id": "T07",
-    "auto_generated": true,
-    "query_shape": "Tree",
-    "query_class": "WHICH-WHAT",
-    "number_of_patterns": 4
- }
-        </code></pre>
-</div>
-            <h3>Task 2: DBLP-QUAD — Knowledge Graph Question Answering over DBLP</h3>
+        <h3>Task 1: DBLP-QUAD — Knowledge Graph Question Answering over DBLP</h3>
             <div>
 		    <p>For this task, participants will use the DBLP-QUAD dataset (<a href="https://doi.org/10.5281/zenodo.7643971">https://doi.org/10.5281/zenodo.7643971</a>), see also <a href="https://huggingface.co/datasets/awalesushil/DBLP-QuAD">https://huggingface.co/datasets/awalesushil/DBLP-QuAD</a>, which consists of 10,000 question-SPARQL pairs, and is answerable over the DBLP Knowledge Graph (<a href="https://blog.dblp.org/2022/03/02/dblp-in-rdf/">https://blog.dblp.org/2022/03/02/dblp-in-rdf/</a>) and (<a href="https://zenodo.org/record/7638511">https://zenodo.org/record/7638511</a>). A live SPARQL endpoint for the DBLP KG is available at <a href=https://dblp-kg.ltdemos.informatik.uni-hamburg.de/sparql> https://dblp-kg.ltdemos.informatik.uni-hamburg.de/sparql </a>.
             </p> 
@@ -996,9 +962,47 @@ LC-QuAD
           </div>
         
 
-           <h3>Evaluation</h3>
+
+
+
+          <h3>Task 2: SciQA — Question Answering of Scholarly Knowledge</h3>
+          <div id="dataset-desc">
+            <p>This new task introduced this year will use a scholarly data source <a href="https://orkg.org">ORKG</a> as a target repository for answering comparative questions. KGQA benchmarks and systems were so far mainly geared towards encyclopedic knowledge graphs such as DBpedia and Wikidata. </p>
+            <p>In this task, we will leverage a novel QA benchmark for scholarly knowledge – SciQA (<a href="https://zenodo.org/record/7744048">https://zenodo.org/record/7744048</a>), see also <a href="https://huggingface.co/datasets/orkg/SciQA">https://huggingface.co/datasets/orkg/SciQA</a>. The benchmark leverages the Open Research Knowledge Graph (ORKG) which includes over 100,000 resources describing complex research contributions. 
+
+
+	    The dataset contains 1,795 train, 257 validation and 513 test questions respectively. 
+
+        <pre style="background-color: seashell"><code>
+{
+    "id": "AQ2193",
+    "query_type": "Factoid",
+    "question": {
+        "string": "Can you provide links to code used in papers that benchmark the 
+	           Transformer-XL Base model?"
+    },
+    "paraphrased_question": [],
+    "query": {
+        "sparql": "SELECT DISTINCT ?code WHERE { ?model a orkgc:Model;
+	                                                rdfs:label ?model_lbl.  
+					 FILTER (str(?model_lbl) = "Transformer-XL Base")  
+					 ?benchmark      orkgp:HAS_DATASET        ?dataset.  
+					 ?cont           orkgp:HAS_BENCHMARK      ?benchmark.  
+					 ?cont           orkgp:HAS_MODEL          ?model;                  
+					 orkgp:HAS_SOURCE_CODE    ?code.
+		  }"
+    },
+    "template_id": "T07",
+    "auto_generated": true,
+    "query_shape": "Tree",
+    "query_class": "WHICH-WHAT",
+    "number_of_patterns": 4
+ }
+        </code></pre>
+</div>
+               <h3>Evaluation</h3>
           <div>
-           For both tasks, we aim to evaluate the participants' approaches using CodaLab. That is, participants upload their models to CodaLab and an automated evaluation on an unseen test split takes place, on the platform. Participants are also required to upload a paper of up to 8 pages limit (excluding references) in the CEUR-WS format on EasyChair by the date mentioned below.
+		  For both tasks, we aim to evaluate the participants' approaches using CodaLab. That is, participants upload their solutions to CodaLab and an automated evaluation takes place, on the platform. For Task 1: DBLP, please visit <a href="https://codalab.lisn.upsaclay.fr/competitions/14264">https://codalab.lisn.upsaclay.fr/competitions/14264</a>. For Task 2: SciQA, please visit <a href="https://codalab.lisn.upsaclay.fr/competitions/14759">https://codalab.lisn.upsaclay.fr/competitions/14759</a>.  Participants are also required to upload a paper of up to 8 pages limit (excluding references) in the CEUR-WS format on EasyChair by the date mentioned below.
 	   Further details regarding evaluation, like procedure to upload system results on CodaLab, and the evaluation scripts, will be made available shortly. 
           </div>
         </div>
@@ -1025,15 +1029,23 @@ LC-QuAD
             </tr>
             <tr>
               <td class="left aligned">
+                2023-10-06
+              </td>
+              <td class="left aligned">
+                Submission of Systems Results
+              </td>
+            </tr>
+	    <tr>
+              <td class="left aligned">
                 2023-10-13
               </td>
               <td class="left aligned">
-                Submission of Systems via Codalab and papers via EasyChair
+                Submission of Papers
               </td>
             </tr>
             <tr>
               <td class="left aligned">
-                2023-10-20
+                2023-10-27
               </td>
               <td class="left aligned">
                 Notification of Acceptance
