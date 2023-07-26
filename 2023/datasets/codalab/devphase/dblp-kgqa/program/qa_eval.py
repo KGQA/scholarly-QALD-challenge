@@ -117,7 +117,7 @@ def main():
     precision_el, recall_el, f1_el = evaluate_dblp_el(gold_answers_el, system_answers_el)
     print(f"\nEL Results:\n\tPrecision: {round(precision_el, 5)}\n\tRecall: {round(recall_el, 5)}\n\tF1: {round(f1_el, 5)}")
 
-    f = open(os.path.join(output_dir,'scores123.txt'),'w')
+    f = open(os.path.join(output_dir,'scores.txt'),'w')
     f.write("F1-QA: %f\n"%(f1_qa))
     f.write("F1-EL: %f\n"%(f1_el))
     f.close()
