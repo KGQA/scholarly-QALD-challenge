@@ -99,14 +99,20 @@ def evaluate_dblp_qa(gold_answers, system_answers):
 
     return precision,recall,f1
 
+def arg_parser():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--gt', type=str,
+                        help='ground truth JSON file')
+    parser.add_argument('--so', type=str,
+                        help='system output JSON file')
+    args = parser.parse_args()
+    return args
 
-def main():
-    input_dir = sys.argv[1]
-    output_dir = sys.argv[2]
-    gt_path = os.path.join(os.path.join(input_dir,'ref'),'answer.txt')
-    system_path = os.path.join(os.path.join(input_dir,'res'),'answer.txt')
+
+def main(args):
+    system_path = args.so
+    gt_path = args.gt
     print(f"Config:\n\tGround truth: {gt_path}\n\tSystem path: {system_path}")
-
     gold_answers_qa = load_gold_stardard_qa(gt_path)
     system_answers_qa = load_system_answers_qa(system_path)
     precision_qa, recall_qa, f1_qa = evaluate_dblp_qa(gold_answers_qa, system_answers_qa)
@@ -117,11 +123,5 @@ def main():
     precision_el, recall_el, f1_el = evaluate_dblp_el(gold_answers_el, system_answers_el)
     print(f"\nEL Results:\n\tPrecision: {round(precision_el, 5)}\n\tRecall: {round(recall_el, 5)}\n\tF1: {round(f1_el, 5)}")
 
-    f = open(os.path.join(output_dir,'scores.txt'),'w')
-    f.write("F1-QA: %f\n"%(f1_qa))
-    f.write("F1-EL: %f\n"%(f1_el))
-    f.close()
-
-
 if __name__ == "__main__":
-    main()
+    main(arg_parser())
