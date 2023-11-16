@@ -1007,6 +1007,133 @@ LC-QuAD
           </div>
         </div>
         <!-- Leaderboard -->
+        <div class="ui basic padded segment" id="leaderboard">
+
+          <h2 class="ui header">Leaderboard</h2>
+          Here are the standings of the final submissions: <br><br><br>
+          <b>DBLP-QuAD Entity Linking</b><br><br>
+          <div id="tab-DBLP-QuAD-EL" class="mytabs">
+            <table class="ui celled unstackable table">
+              <thead>
+              <tr>
+                <th class="single line">Team</th>
+                <th class="center aligned single line">F1</th>
+              </tr>
+              </thead>
+              <tbody>
+              <tr>
+                <td class="left aligned">
+                  nsteinmetz
+                </td>
+                <td class="left aligned">
+                  0.8353
+                </td>
+              </tr>
+              <tr>
+                <td class="left aligned">
+                  ruijie.wang
+                </td>
+                <td class="left aligned">
+                  0.7961
+                </td>
+              </tr>
+              <tr>
+                <td class="left aligned">
+                  hannabiakl-dsti
+                </td>
+                <td class="left aligned">
+                  0.7100
+                </td>
+              </tr>
+              <tr>
+                <td class="left aligned">
+                  Shreyaar12
+                </td>
+                <td class="left aligned">
+                  0.6235
+                </td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+          <br><br><br>
+          <b>DBLP-QuAD KGQA</b><br><br>
+          <div id="tab-DBLP-QuAD-KGQA" class="mytabs">
+            <table class="ui celled unstackable table">
+              <thead>
+              <tr>
+                <th class="single line">Team</th>
+                <th class="center aligned single line">F1</th>
+              </tr>
+              </thead>
+              <tbody>
+              <tr>
+                <td class="left aligned">
+                  ruijie.wang
+                </td>
+                <td class="left aligned">
+                  0.8488
+                </td>
+              </tr>
+              <tr>
+                <td class="left aligned">
+                  longquanj
+                </td>
+                <td class="left aligned">
+                  0.6619
+                </td>
+              </tr>
+              <tr>
+                <td class="left aligned">
+                  Shreyaar12
+                </td>
+                <td class="left aligned">
+                  0.2175
+                </td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+          <br><br><br>
+          <b>SciQA KGQA</b><br><br>
+          <div id="tab-SciQA-KGQA" class="mytabs">
+            <table class="ui celled unstackable table">
+              <thead>
+              <tr>
+                <th class="single line">Team</th>
+                <th class="center aligned single line">F1</th>
+              </tr>
+              </thead>
+              <tbody>
+              <tr>
+                <td class="left aligned">
+                  longquanj
+                </td>
+                <td class="left aligned">
+                  0.9919
+                </td>
+              </tr>
+              <tr>
+                <td class="left aligned">
+                  tilahun
+                </td>
+                <td class="left aligned">
+                  0.9904
+                </td>
+              </tr>
+              <tr>
+                <td class="left aligned">
+                  zeio
+                </td>
+                <td class="left aligned">
+                  0.9358
+                </td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <!-- Dates-->
         <div class="ui basic padded segment" id="dates">
 
           <h2 class="ui header">Important Dates</h2>
@@ -1037,7 +1164,8 @@ LC-QuAD
             </tr>
 	    <tr>
               <td class="left aligned">
-                2023-10-13
+		      <s>2023-10-13</s><br>
+		      2023-10-20
               </td>
               <td class="left aligned">
                 Submission of Papers
@@ -1053,7 +1181,8 @@ LC-QuAD
             </tr>
             <tr>
               <td class="left aligned">
-                2023-11-03
+               <s> 2023-11-03 </s><br>
+		2023-11-10
               </td>
               <td class="left aligned">
                 Camera-ready submission.
@@ -1262,7 +1391,11 @@ LC-QuAD
 
     </script>
 
-
+    <script language="javascript" type="text/javascript">
+      $(document).ready(function () {
+         $("#mytabs").tabs({ fx: {opacity: 'toggle'} });
+      });
+    </script>
   </body>
 
 
