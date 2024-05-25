@@ -421,6 +421,7 @@ LC-QuAD
         </div>
       </div>
 
+
       <div class="four wide column" id="sidebar">
 
         <!-- <div class="ui center aligned basic segment" id="download">
@@ -442,47 +443,6 @@ LC-QuAD
               <img src="static/imgs/CEUR-WS-logo.png" >
             </a>
         </div>
-        <!-- <div class="ui basic segment" id="stats">
-
-          <h3 class="ui header" id="tabletitle2">Data Characteristics</h3>
-          <table class="ui celled unstackable table">
-
-            <tbody>
-
-              <tr>
-                <td class="collapsing">
-                  Version
-                </td>
-                <td class="right aligned">2023</td>
-              </tr>
-              <tr>
-                <td class="collapsing" colspan="2"> Task 1: DBLP-QUAD (KG = DBLP)</td>
-              </tr>
-
-              <tr>
-                <td class="collapsing">
-                  DBLP <br/> Dataset
-                </td>
-                <td class="left aligned">Base: 10,000 Question - SPARQL pairs</td>
-              </tr>
- 
-
-              <tr>
-                <td class="collapsing" colspan="2"> Task 2: SciQA (KG = ORGK)</td>
-              </tr>
-
-              <tr>
-                <td class="collapsing">
-                   ORKG <br/> Dataset
-                </td>
-                <td class="left aligned">Base: 100 handcrafted QA pairs<br/>Synthetisized: 2,000</td>
-              </tr>
-
-                          </tbody>
-
-          </table>
-
-        </div> -->
 
         <div class="ui divider"></div>
 
@@ -506,20 +466,22 @@ LC-QuAD
        
         <!-- Abstract -->
         <div class="ui padded basic segment" id="abstract">
-
-
-        <h1>UPDATE</h1>
-          <div>
-		  The challenge is now live at <a href="https://codalab.lisn.upsaclay.fr/competitions/19140">https://codalab.lisn.upsaclay.fr/competitions/19140</a>.
-          Due to the initial delay in releasing the dataset, we have adjusted the remaining deadlines accordingly.</div>
+          <h2 class="ui header">UPDATE</h2>
+          <div id="description">
+              The challenge is now live at <a href="https://codalab.lisn.upsaclay.fr/competitions/19140">https://codalab.lisn.upsaclay.fr/competitions/19140</a>.
+          Due to the initial delay in releasing the dataset, we have adjusted the remaining deadlines accordingly.
+	    
+          </div>
         </div>
+
+        <div class="ui padded basic segment" id="abstract">
           <h2 class="ui header">Task Description</h2>
           <div id="description">
               <p>
-              In the <a href="https://kgqa.github.io/scholarly-QALD-challenge/2023/">previous version</a> of the Scholarly QALD Challenge at ISWC 2023, 7 teams took part in the tasks of entity linking and question answering over the DBLP and ORKG Knowledge Graphs (KG). We releasd two datasets, each catering to one KG, where participants were required to fetch the answer for a given question from the corresponding KG. 
+              In the <a href="https://kgqa.github.io/scholarly-QALD-challenge/2023/">previous version</a> of the Scholarly QALD Challenge at ISWC 2023, 7 teams took part in the tasks of entity linking and question answering over the DBLP and ORKG Knowledge Graphs (KG). We releasd two datasets, each catering to one KG, where participants were required to fetch the answer for a given question from the corresponding KG.
               </p>
-              
-              <p>This year, we introduce a more challening task of Hybrid-QA, which will require participants to query multiple sources of knowledge to fetch the right answer for a given question. The domain of the challenge remains scholarly data, however unlike last year, participants will have to find the answers from multiple textual sources (e.g., Wikipedia) and Knowledge Graphs (e.g., DBLP).
+
+              <p>This year, we introduce a more challenging task of Hybrid-QA, which will require participants to query multiple sources of knowledge to fetch the right answer for a given question. The domain of the challenge remains scholarly data, however unlike last year, participants will have to find the answers from multiple textual sources (e.g., Wikipedia) and Knowledge Graphs (e.g., DBLP).
               </p>
               <p>
               By taking part in the challenges sub-tasks, participants can explore and will
@@ -532,8 +494,8 @@ LC-QuAD
             <p>            In our second iteration at ISWC 2024, we have the following task:
             </p>
 	    <p><em><b>Task: Hybrid-QA — Hybrid Question Answering over multiple Knowledge Graphs and Text Sources:</b></em> For a given question, participants have to consider multiple scholarly sources for finding the correct answer, e.g., DBLP KG, Wikipedia text, OpenaAlex KG etc. </p>
-            
-	    
+
+
           </div>
         </div>
 
