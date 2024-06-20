@@ -22,7 +22,7 @@ In addition to the 100 hand-crafted questions, we will provide a set of more tha
 
 ### Task 2: DBLP-QUAD --- Knowledge Graph Question Answering over DBLP
 
-For this task, participants will use the DBLP-QUAD dataset (https://doi.org/10.5281/zenodo.7554379), see also https://huggingface.co/datasets/awalesushil/DBLP-QuAD, which consists of 10,000 question-SPARQL pairs, and is answerable over the DBLP Knowledge Graph (https://blog.dblp.org/2022/03/02/dblp-in-rdf/) and (https://zenodo.org/record/7638511). DBLP is a well-known repository for computer science bibliography and has recently released an RDF dump. This allows users to query it as a knowledge graph.
+For this task, participants will use the DBLP-QUAD dataset (https://doi.org/10.5281/zenodo.7643971), see also https://huggingface.co/datasets/awalesushil/DBLP-QuAD, which consists of 10,000 question-SPARQL pairs, and is answerable over the DBLP Knowledge Graph (https://blog.dblp.org/2022/03/02/dblp-in-rdf/) and (https://zenodo.org/record/7638511). DBLP is a well-known repository for computer science bibliography and has recently released an RDF dump. This allows users to query it as a knowledge graph.
 The first subtask is to fetch the right answer from the DBLP KG given the question. The second subtask is entity linking (EL) on the same dataset. Participants are free to decide if they want to take part in either one, or both of the subtasks.
 The DBLP-QuAD dataset was created using the OVERNIGHT approach, where logical forms are first generated from a KG. Then canonical questions are generated from these logical forms. 
 

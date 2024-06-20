@@ -438,6 +438,9 @@ LC-QuAD
             <a href="https://www.nfdi4datascience.de/" class="ui centered medium image">
               <img src="static/imgs/nfdi4ds.png" >
             </a>
+            <a href="https://ceur-ws.org/" class="ui centered medium image">
+              <img src="static/imgs/CEUR-WS-logo.png" >
+            </a>
         </div>
         <div class="ui basic segment" id="stats">
 
@@ -452,20 +455,8 @@ LC-QuAD
                 </td>
                 <td class="right aligned">2023</td>
               </tr>
-
               <tr>
-                <td class="collapsing" colspan="2"> Task 1: SciQA (KG = ORGK)</td>
-              </tr>
-
-              <tr>
-                <td class="collapsing">
-                   ORKG <br/> Dataset
-                </td>
-                <td class="left aligned">Base: 100 handcrafted QA pairs<br/>Synthetisized: 2,000</td>
-              </tr>
-
-              <tr>
-                <td class="collapsing" colspan="2"> Task 2: DBLP-QUAD (KG = DBLP)</td>
+                <td class="collapsing" colspan="2"> Task 1: DBLP-QUAD (KG = DBLP)</td>
               </tr>
 
               <tr>
@@ -475,7 +466,19 @@ LC-QuAD
                 <td class="left aligned">Base: 10,000 Question - SPARQL pairs</td>
               </tr>
  
-            </tbody>
+
+              <tr>
+                <td class="collapsing" colspan="2"> Task 2: SciQA (KG = ORGK)</td>
+              </tr>
+
+              <tr>
+                <td class="collapsing">
+                   ORKG <br/> Dataset
+                </td>
+                <td class="left aligned">Base: 100 handcrafted QA pairs<br/>Synthetisized: 2,000</td>
+              </tr>
+
+                          </tbody>
 
           </table>
 
@@ -487,10 +490,10 @@ LC-QuAD
           <h3 class="ui header" id="tabletitle">Contact Us</h3>
 
           <p id="intro">
-            In case you find any bug in our framework, or any issue with our dataset, please inform us on the <a class="underline" href="https://github.com/KGQA/scholarly-QALD-challenge/issues">Scholarly QALD Issues Page.</a>
+	  In case you find any bug in our framework, or any issue with our dataset, please inform us on the <a class="underline" href="https://github.com/KGQA/scholarly-QALD-challenge/issues">Scholarly QALD Issues Page.</a> For other general questions, discussions and receiving announcements, please join our mailing list <a href=https://groups.google.com/g/scholarly-kgqa-iswc-2023>https://groups.google.com/g/scholarly-kgqa-iswc-2023</a>.
           </p>
 
-			Contact <a class="underline" href="mailto:ricardo.usbeck@uni-hamburg.de?Subject=scholarly-QALD-challenge" target="_top"><em>ricardo.usbeck[at]uni-hamburg.de</em></a> for anything regarding the datasets.
+			Alternatively, contact <a class="underline" href="mailto:ricardo.usbeck@uni-hamburg.de?Subject=scholarly-QALD-challenge" target="_top"><em>ricardo.usbeck[at]uni-hamburg.de</em></a> for anything concerns.
 
         </div>
 
@@ -500,12 +503,7 @@ LC-QuAD
 
       <div class="twelve wide column" id="content">
         
-         
-
-	    
-	      
-       
-
+        <h2> UPDATE: Proceedings are now online at <a href="https://ceur-ws.org/Vol-3592/" target="_blank">https://ceur-ws.org/Vol-3592/</a></h2>
         <!-- Abstract -->
         <div class="ui padded basic segment" id="abstract">
           <h2 class="ui header">Task Description</h2>
@@ -537,9 +535,9 @@ LC-QuAD
             <p>
             Thus, in its first iteration at ISWC 2023, we have two independent tasks:
             </p>
-            <p><em><b>Task 1: SciQA — Question Answering of Scholarly Knowledge:</b></em>  This new task introduced this year will use a scholarly data source <a href="https://orkg.org">ORKG</a> as a target repository for answering comparative questions. </p>
-            <p><em><b>Task 2: DBLP-QUAD — Knowledge Graph Question Answering over DBLP:</b></em> For this task, participants will use the DBLP-QUAD dataset, which consists of 10,000 question-SPARQL pairs, and is answerable over the DBLP Knowledge Graph.</p>
+	    <p><em><b>Task 1: DBLP-QUAD — Knowledge Graph Question Answering over DBLP:</b></em> For this task, participants will use the DBLP-QUAD dataset, which consists of 10,000 question-SPARQL pairs, and is answerable over the DBLP Knowledge Graph. The task is hosted on <a href="https://codalab.lisn.upsaclay.fr/competitions/14264">https://codalab.lisn.upsaclay.fr/competitions/14264</a>.</p>
             
+	    <p><em><b>Task 2: SciQA — Question Answering of Scholarly Knowledge:</b></em>  This new task introduced this year will use a scholarly data source <a href="http://orkg.org">ORKG</a> as a target repository for answering comparative questions. The task is hosted on <a href="https://codalab.lisn.upsaclay.fr/competitions/14759">https://codalab.lisn.upsaclay.fr/competitions/14759</a>.  </p>
             <!-- PROCEEDINGS ANNOUNCEMENT GOES HERE -->
           </div>
         </div>
@@ -931,137 +929,214 @@ LC-QuAD
 
           <!--          <h2 class="ui header"><span id="funny">༼ つ ◕_◕ ༽つ</span></h2>-->
           <h2 class="ui header">Dataset</h2>
-          <h3>Task 1: SciQA — Question Answering of Scholarly Knowledge</h3>
-          <div id="dataset-desc">
-            <p>This new task introduced this year will use a scholarly data source <a href="https://orkg.org">ORKG</a> as a target repository for answering comparative questions. KGQA benchmarks and systems were so far mainly geared towards encyclopedic knowledge graphs such as DBpedia and Wikidata. </p>
-            <p>In this task, we will leverage a novel QA benchmark for scholarly knowledge – SciQA (<a href="https://zenodo.org/record/7744048">https://zenodo.org/record/7744048</a>), see also <a href="https://huggingface.co/datasets/orkg/SciQA">https://huggingface.co/datasets/orkg/SciQA</a>. The benchmark leverages the Open Research Knowledge Graph (ORKG) which includes over 100,000 resources describing complex research contributions. Following a bottom-up methodology, we manually developed a set of 100 questions that can be answered using this knowledge graph. The questions cover a wide range of research fields and question types and are translated into SPARQL queries over the knowledge graph. </p>
-            <p>The SciQA benchmark represents an extremely challenging task for next-generation QA systems. The 100 hand-crafted questions are significantly more complex to answer than typical common-sense questions.</p>
-            <p>An example question is:
-              What is the average energy generation for each energy source considered in 5-year intervals in Greenhouse Gas Reduction Scenarios for Germany?
-            </p>
-            <p>
-              The corresponding SPARQL query includes seven triple patterns, uses eight query components, and is shaped as a tree.
-            </p>
-            <p>In addition to the 100 hand-crafted questions, we will provide a set of more than 2,000 questions generated from 10 question/query templates to ensure a good balance between question complexity and wider coverage.</p>            
 
-        <pre style="background-color: seashell"><code>
-"Factoid"
-{ "string": "Provide a list of papers that have utilized the Depth DDPPO model ...." }
-[]
-{ "sparql": "SELECT DISTINCT ?code WHERE { ?modela  orkgc:Model; rdfs:label ?model_lbl ... }" }
-"T07"
-true
-"Tree"
-"WHICH-WHAT"
-4 
-        </code></pre>
-</div>
-            <h3>Task 2: DBLP-QUAD — Knowledge Graph Question Answering over DBLP</h3>
+        <h3>Task 1: DBLP-QUAD — Knowledge Graph Question Answering over DBLP</h3>
             <div>
-            <p>For this task, participants will use the DBLP-QUAD dataset (<a href="https://doi.org/10.5281/zenodo.7554379">https://doi.org/10.5281/zenodo.7554379</a>), see also <a href="https://huggingface.co/datasets/awalesushil/DBLP-QuAD">https://huggingface.co/datasets/awalesushil/DBLP-QuAD</a>, which consists of 10,000 question-SPARQL pairs, and is answerable over the DBLP Knowledge Graph (<a href="https://blog.dblp.org/2022/03/02/dblp-in-rdf/">https://blog.dblp.org/2022/03/02/dblp-in-rdf/</a>) and (<a href="https://zenodo.org/record/7638511">https://zenodo.org/record/7638511</a>). 
-            </p>
+		    <p>For this task, participants will use the DBLP-QUAD dataset (<a href="https://doi.org/10.5281/zenodo.7643971">https://doi.org/10.5281/zenodo.7643971</a>), see also <a href="https://huggingface.co/datasets/awalesushil/DBLP-QuAD">https://huggingface.co/datasets/awalesushil/DBLP-QuAD</a>, which consists of 10,000 question-SPARQL pairs, and is answerable over the DBLP Knowledge Graph (<a href="https://blog.dblp.org/2022/03/02/dblp-in-rdf/">https://blog.dblp.org/2022/03/02/dblp-in-rdf/</a>) and (<a href="https://zenodo.org/record/7638511">https://zenodo.org/record/7638511</a>). A live SPARQL endpoint for the DBLP KG is available at <a href=https://dblp-kg.ltdemos.informatik.uni-hamburg.de/sparql> https://dblp-kg.ltdemos.informatik.uni-hamburg.de/sparql </a>.
+            </p> 
             <p>DBLP is a well-known repository for computer science bibliography and has recently released an RDF dump. This allows users to query it as a knowledge graph. The first subtask is to fetch the right answer from the DBLP KG given the question. The second subtask is entity linking (EL) on the same dataset. The DBLP-QuAD dataset was created using the OVERNIGHT approach, where logical forms are first generated from a KG. Then canonical questions are generated from these logical forms.
             </p>
             <pre style="background-color: seashell"><code>
-  
-"SINGLE_FACT"
-{ "string": "What are the papers written by Abhinav Srivastava?" }
-{ "string": "What are the papers written by the person Abhinav Srivastava?" }
-{ "sparql": "SELECT DISTINCT ?answer WHERE { ?answer <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/77/252> }" }
-"TC01"
-[ "<https://dblp.org/pid/77/252>" ]
-[ "<https://dblp.org/rdf/schema#authoredBy>" ]
-false
-false 
+{
+    "id": "Q0001",
+    "query_type": "SINGLE_FACT",
+    "question": {
+        "string": "Show the Wikidata ID of the person Robert Schober."
+    },
+    "paraphrased_question": {
+        "string": "What is the Wikidata identifier of the author Robert S.?"
+    },
+    "query": {
+        "sparql": "SELECT DISTINCT ?answer WHERE { 
+	         &lt;https://dblp.org/pid/95/2265&gt; &lt;https://dblp.org/rdf/schema#wikidata&gt; ?answer 
+	          }"
+    },
+    "template_id": "TC04",
+    "entities": [
+        "&lt;https://dblp.org/pid/95/2265&gt;"
+    ],
+    "relations": [
+        "&lt;https://dblp.org/rdf/schema#wikidata&gt;"
+    ],
+    "temporal": false,
+    "held_out": false
+} 
             </code></pre>           
           </div>
         
 
-           <h3>Evaluation</h3>
+
+
+
+          <h3>Task 2: SciQA — Question Answering of Scholarly Knowledge</h3>
+          <div id="dataset-desc">
+            <p>This new task introduced this year will use a scholarly data source <a href="https://orkg.org">ORKG</a> as a target repository for answering comparative questions. KGQA benchmarks and systems were so far mainly geared towards encyclopedic knowledge graphs such as DBpedia and Wikidata. </p>
+	    <p>In this task, we will leverage a novel QA benchmark for scholarly knowledge – SciQA (<a href="https://zenodo.org/record/7744048">https://zenodo.org/record/7744048</a>), see also <a href="https://huggingface.co/datasets/orkg/SciQA">https://huggingface.co/datasets/orkg/SciQA</a>. A live SPARQL endpoint is available at <a href="https://orkg.org/SciQA">https://orkg.org/SciQA</a>. The benchmark leverages the Open Research Knowledge Graph (ORKG) which includes over 100,000 resources describing complex research contributions. 
+
+
+	    The dataset contains 1,795 train, 257 validation and 513 test questions respectively. 
+
+        <pre style="background-color: seashell"><code>
+{
+    "id": "AQ2193",
+    "query_type": "Factoid",
+    "question": {
+        "string": "Can you provide links to code used in papers that benchmark the 
+	           Transformer-XL Base model?"
+    },
+    "paraphrased_question": [],
+    "query": {
+        "sparql": "SELECT DISTINCT ?code WHERE { ?model a orkgc:Model;
+	                                                rdfs:label ?model_lbl.  
+					 FILTER (str(?model_lbl) = "Transformer-XL Base")  
+					 ?benchmark      orkgp:HAS_DATASET        ?dataset.  
+					 ?cont           orkgp:HAS_BENCHMARK      ?benchmark.  
+					 ?cont           orkgp:HAS_MODEL          ?model;                  
+					 orkgp:HAS_SOURCE_CODE    ?code.
+		  }"
+    },
+    "template_id": "T07",
+    "auto_generated": true,
+    "query_shape": "Tree",
+    "query_class": "WHICH-WHAT",
+    "number_of_patterns": 4
+ }
+        </code></pre>
+</div>
+               <h3>Evaluation</h3>
           <div>
-          For both tasks, we aim to evaluate the participants' approaches using the Hugging Face Evaluate library (<a href="https://huggingface.co/docs/evaluate/index">https://huggingface.co/docs/evaluate/index</a>). That is, participants can either upload their models to Hugging Face or send us their models so we can compare them neutrally using the Python-based Evaluate library. The participating systems will be evaluated based on the standard metrics precision, recall, and f-measure.
-
-          Links to the Eval Scripts: TBA
+		  For both tasks, we aim to evaluate the participants' approaches using CodaLab. That is, participants upload their solutions to CodaLab and an automated evaluation takes place, on the platform. For Task 1: DBLP, please visit <a href="https://codalab.lisn.upsaclay.fr/competitions/14264">https://codalab.lisn.upsaclay.fr/competitions/14264</a>. For Task 2: SciQA, please visit <a href="https://codalab.lisn.upsaclay.fr/competitions/14759">https://codalab.lisn.upsaclay.fr/competitions/14759</a>.  Participants are also required to upload a paper of up to 8 pages limit (excluding references) in the CEUR-WS format on EasyChair by the date mentioned below.
+	   Further details regarding evaluation, like procedure to upload system results on CodaLab, and the evaluation scripts, will be made available shortly. 
           </div>
         </div>
-        <!--<div class="ui padded basic segment" id="evaluation">
-
-          <h2 class="ui header">Evaluation Metrics</h2>
-          <div id="evaluation-metrics-desc">
-            <h3>Task 1: Answer Type Prediction</h3>
-            <p>For each natural language question in the test set, the participating systems are expected to provide two predictions:
-            answer category and answer type. Answer category can be either "resource", "literal" or "boolean". The format is as the same
-            as the training data.<p/>
-
-            <p>If answer category is "resource", the answer type should be an ontology class (DBpedia or Wikidata, depending on the dataset). The systems
-            could predict a ranked list of classes from the corresponding ontology. If answer category is "literal", the answer type can be either "number", "date" or "string".</p>
-
-            <p>Category predication will be considered as a multi-class classification problem and <b>accuracy score</b> will be used as the metric. For type predication, we will use the metric <b>lenient NDCG@k with a Linear decay</b> from the paper from <a href="https://krisztianbalog.com/files/cikm2012-querytypes.pdf">Balog and Neumayer</a>.</p>
-
-            <p>The evaluation scripts can be found <a href="https://github.com/smart-task/smart-2021-dataset">here</a>.</p>
-
-            <h3>Task 2: Relation Prediction</h3>
-            <p> For each question, the participating systems are supposed to provide a list of relations. The format of
-            the expected system output is as follows:</p>
-          <div>
-            <div>
-              For SMART2022-RL-DBpdia. The format is slightly different from the train data. When there is a multiple
-              equally valid relations such as "dbo:locatedInArea", "dbo:isPartOf", "dbo:location", "dbo:region", the
-              participantly are only expected to provide any one of them (not all).
-              <pre style="background-color: seashell"><code>
-[
-  {
-    "id": "smart-2022-rl-dbpedia-test-0",
-    "relations": ["dbo:location"]
-  },
-  {
-    "id": "smart-2022-rl-wikidata-test-1",
-    "relations": ["dbo:award", "dbo:director"]
-  }
-]
-            </code></pre>
-            </div>
-            <div>
-            For SMART2022-RL-Wikidata. The systems are needed to provide the list of relations similar to the training
-              data.
-            <pre style="background-color: seashell"><code>
-[
-  {
-    "id": "smart-2022-rl-wikidata-test-0",
-    "relations": ["P4599"]
-  },
-  {
-    "id": "smart-2022-rl-wikidata-test-1",
-    "relations": ["P166", "P805"]
-  }
-]
-            </code></pre>
-          </div>
-        </div>
-            <p>The list of system predicted relations will be compared with the gold list of relations and <b>precision,
-              recall, and F1</b> metrics will be calculated for all questions. <b>Micro F1</b> will be used to rank the systems.</p>
-            <p>The evaluation scripts can be found <a href="https://github.com/smart-task/smart-2021-dataset">here</a>.</p>
-          </div>
-
-         
-
-	<div class="ui padded basic segment" id="submission">
-          <h2 class="ui header">Submission Details</h2>
-          <div id="submission-desc">
-              <p>Participants are requested to submit the system output for the test data.
-The format is as same as the training data. In addition, the participants
-are requested to submit a system description that will be included in a
-joint ISWC challenge proceedings volume in CEUR. System descriptions must
-be in English either in PDF or HTML, formatted in the style of LNCS, and no
-longer than 12 pages. Submissions can be sent via <a href="https://easychair.org/my/conference?conf=smart20210">EasyChair</a>.
-There is a <a href="https://smart-task-iswc.slack.com/"><em>slack workspace</em></a> for the challenge related discussions,
-please send an <a class="underline" href="mailto:nandana.m@ibm.com?Subject=SMART-task" target="_top"><em>email</em></a> for an invite. The accepted
-systems will get the opportunity to show their results during the ISWC 2022
-poster and demo session.</p>
-          </div>
-        </div>
--->
         <!-- Leaderboard -->
+        <div class="ui basic padded segment" id="leaderboard">
+
+          <h2 class="ui header">Leaderboard</h2>
+          Here are the standings of the final submissions: <br><br><br>
+          <b>DBLP-QuAD Entity Linking</b><br><br>
+          <div id="tab-DBLP-QuAD-EL" class="mytabs">
+            <table class="ui celled unstackable table">
+              <thead>
+              <tr>
+                <th class="single line">Team</th>
+                <th class="center aligned single line">F1</th>
+              </tr>
+              </thead>
+              <tbody>
+              <tr>
+                <td class="left aligned">
+                  nsteinmetz
+                </td>
+                <td class="left aligned">
+                  0.8353
+                </td>
+              </tr>
+              <tr>
+                <td class="left aligned">
+                  ruijie.wang
+                </td>
+                <td class="left aligned">
+                  0.7961
+                </td>
+              </tr>
+              <tr>
+                <td class="left aligned">
+                  hannabiakl-dsti
+                </td>
+                <td class="left aligned">
+                  0.7100
+                </td>
+              </tr>
+              <tr>
+                <td class="left aligned">
+                  Shreyaar12
+                </td>
+                <td class="left aligned">
+                  0.6235
+                </td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+          <br><br><br>
+          <b>DBLP-QuAD KGQA</b><br><br>
+          <div id="tab-DBLP-QuAD-KGQA" class="mytabs">
+            <table class="ui celled unstackable table">
+              <thead>
+              <tr>
+                <th class="single line">Team</th>
+                <th class="center aligned single line">F1</th>
+              </tr>
+              </thead>
+              <tbody>
+              <tr>
+                <td class="left aligned">
+                  ruijie.wang
+                </td>
+                <td class="left aligned">
+                  0.8488
+                </td>
+              </tr>
+              <tr>
+                <td class="left aligned">
+                  longquanj
+                </td>
+                <td class="left aligned">
+                  0.6619
+                </td>
+              </tr>
+              <tr>
+                <td class="left aligned">
+                  Shreyaar12
+                </td>
+                <td class="left aligned">
+                  0.2175
+                </td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+          <br><br><br>
+          <b>SciQA KGQA</b><br><br>
+          <div id="tab-SciQA-KGQA" class="mytabs">
+            <table class="ui celled unstackable table">
+              <thead>
+              <tr>
+                <th class="single line">Team</th>
+                <th class="center aligned single line">F1</th>
+              </tr>
+              </thead>
+              <tbody>
+              <tr>
+                <td class="left aligned">
+                  longquanj
+                </td>
+                <td class="left aligned">
+                  0.9919
+                </td>
+              </tr>
+              <tr>
+                <td class="left aligned">
+                  tilahun
+                </td>
+                <td class="left aligned">
+                  0.9904
+                </td>
+              </tr>
+              <tr>
+                <td class="left aligned">
+                  zeio
+                </td>
+                <td class="left aligned">
+                  0.9358
+                </td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <!-- Dates-->
         <div class="ui basic padded segment" id="dates">
 
           <h2 class="ui header">Important Dates</h2>
@@ -1079,39 +1154,41 @@ poster and demo session.</p>
                 2023-03-16
               </td>
               <td class="left aligned">
-                Website & first call for participation (https://www.nliwod.org/) 
+		      Website & first call for participation (<a href=https://kgqa.github.io/scholarly-QALD-challenge/2023/> https://kgqa.github.io/scholarly-QALD-challenge/2023/ </a>) 
               </td>
             </tr>
             <tr>
               <td class="left aligned">
-                2023-06-28
+                2023-10-06
               </td>
               <td class="left aligned">
-                Submission of Systems via HF evaluate and easychair 
+                Submission of Systems Results
+              </td>
+            </tr>
+	    <tr>
+              <td class="left aligned">
+		      <s>2023-10-13</s><br>
+		      2023-10-20
+              </td>
+              <td class="left aligned">
+                Submission of Papers
               </td>
             </tr>
             <tr>
               <td class="left aligned">
-                2023-07-19
+                2023-10-27
               </td>
               <td class="left aligned">
-                All System Results and Notification of Acceptance
+                Notification of Acceptance
               </td>
             </tr>
             <tr>
               <td class="left aligned">
-                TBA
+               <s> 2023-11-03 </s><br>
+		2023-11-10
               </td>
               <td class="left aligned">
                 Camera-ready submission.
-              </td>
-            </tr>
-            <tr>
-              <td class="left aligned">
-                TBA
-              </td>
-              <td class="left aligned">
-                Publication of results. 
               </td>
             </tr>
             <tr>
@@ -1149,15 +1226,26 @@ poster and demo session.</p>
                 </div>
               </div>
             </div> 
+            <div class="card">
+              <a class="image" href="https://www.tib.eu/en/research-development/research-groups-and-labs/data-science-digital-libraries/staff/mohamad-yaser-jaradeh">
+                <img src="static/imgs/yaser.jpg">
+              </a>
+              <div class="content">
+                <a class="header" href="https://www.tib.eu/en/research-development/research-groups-and-labs/data-science-digital-libraries/staff/mohamad-yaser-jaradeh">Yaser Jaradeh</a>
+                <div class="meta">
+                  <a>Postdoctoral Researcher, L3S Research Center</a>
+                </div>
+              </div>
+            </div>
 
             <div class="card">
               <a class="image" href="NN">
-                <img src="static/imgs/NN.jpeg">
+                <img src="static/imgs/sa.jpg">
               </a>
               <div class="content">
                 <a class="header" href="NN">Sushil Awale</a>
                 <div class="meta">
-                  <a>PhD Student, Universität Hannover</a>
+                  <a>Research Associate, TIB Hannover</a>
                 </div>
               </div>
             </div> 
@@ -1184,28 +1272,6 @@ poster and demo session.</p>
                 </div>
               </div>
             </div>
-            <div class="card">
-              <a class="image" href="https://www.tib.eu/en/research-development/research-groups-and-labs/data-science-digital-libraries/staff/mohamad-yaser-jaradeh">
-                <img src="static/imgs/yaser.jpg">
-              </a>
-              <div class="content">
-                <a class="header" href="https://www.tib.eu/en/research-development/research-groups-and-labs/data-science-digital-libraries/staff/mohamad-yaser-jaradeh">Yaser Jaradeh</a>
-                <div class="meta">
-                  <a>Postdoctoral Researcher, L3S Research Center</a>
-                </div>
-              </div>
-            </div>
-            <div class="card">
-              <a class="image" href="NN">
-                <img src="static/imgs/tt.jpg">
-              </a>
-              <div class="content">
-                <a class="header" href="https://www.inf.uni-hamburg.de/en/inst/ab/sems/people/tilahun-taffa.html">Tilahun Abedissa</a>
-                <div class="meta">
-                  <a>PhD Student, University of Hamburg</a>
-                </div>
-              </div>
-            </div> 
 
             <div class="card">
               <a class="image" href="https://www.inf.uni-hamburg.de/sems">
@@ -1272,10 +1338,16 @@ poster and demo session.</p>
             </a>
             </div>
 
-            <div class="center aligned column" id="sda">
+            <div class="center aligned column" id="sems">
             <a href="https://www.inf.uni-hamburg.de/sems" class="ui centered medium image">
               <img src="static/imgs/SEMS.png">
             </a>
+            </div>
+            
+            <div class="center aligned column" id="ceur">
+              <a href="https://ceur-ws.org/" class="ui centered medium image" style="vertical-align: middle;">
+                <img src="static/imgs/CEUR-WS-logo.png">
+              </a>
             </div>
 
           
@@ -1328,7 +1400,11 @@ poster and demo session.</p>
 
     </script>
 
-
+    <script language="javascript" type="text/javascript">
+      $(document).ready(function () {
+         $("#mytabs").tabs({ fx: {opacity: 'toggle'} });
+      });
+    </script>
   </body>
 
 
